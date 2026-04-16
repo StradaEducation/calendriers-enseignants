@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Emploi du temps//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Emploi du temps - Guillaume Guisset
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Live : Conférences
+DTSTART;TZID=Europe/Paris:20250729T100000
+DTEND;TZID=Europe/Paris:20250729T102000
+DTSTAMP:20260416T110931Z
+UID:8eb92722a578bcc1abda5299f8546ef3@strada-education.fr
+DESCRIPTION:mardi 29 juillet ⋅ 10h00 à 10h20\nTitre : Demi-journée ina
+ ugurale\nLieu : Live\nProfesseur : Guillaume Guisset\nGroupe(s) : MD - Dro
+ it - L1 - Pré-rentrée - Demi journée inaugurale
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
