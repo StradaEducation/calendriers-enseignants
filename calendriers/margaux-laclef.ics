@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Emploi du temps//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Emploi du temps - Margaux Laclef
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Procédure pénale
+DTSTART;TZID=Europe/Paris:20250805T091500
+DTEND;TZID=Europe/Paris:20250805T123000
+DTSTAMP:20260416T110929Z
+UID:d6cc754f21c4190d7203b709ca415edc@strada-education.fr
+DESCRIPTION:mardi 5 août ⋅ 9h15 à 12h30\nTitre : Cours\nLieu : 4 avenu
+ e de l observatoire 75006 Paris\nProfesseur : Margaux Laclef\nGroupe(s) :
+LOCATION:4 avenue de l observatoire 75006 Paris
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live : Procédure pénale
+DTSTART;TZID=Europe/Paris:20250806T170000
+DTEND;TZID=Europe/Paris:20250806T183000
+DTSTAMP:20260416T110929Z
+UID:ef9ae0746b367b037afc2a3149a8376f@strada-education.fr
+DESCRIPTION:mercredi 6 août ⋅ 17h00 à 18h30\nTitre : Séminaire de cor
+ rection n°5\nLieu : Live\nProfesseur : Margaux Laclef\nGroupe(s) :
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live : Procédure pénale
+DTSTART;TZID=Europe/Paris:20250806T184500
+DTEND;TZID=Europe/Paris:20250806T191500
+DTSTAMP:20260416T110929Z
+UID:3e76853d4fb39b05de00deeded333c9b@strada-education.fr
+DESCRIPTION:mercredi 6 août ⋅ 18h45 à 19h15\nTitre : Live Q&A n°1\nLi
+ eu : Live\nProfesseur : Margaux Laclef\nGroupe(s) :
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Procédure pénale
+DTSTART;TZID=Europe/Paris:20250806T124500
+DTEND;TZID=Europe/Paris:20250806T144500
+DTSTAMP:20260416T110929Z
+UID:8f9f672e9a13c11209a7d08a964731a8@strada-education.fr
+DESCRIPTION:mercredi 6 août ⋅ 12h45 à 14h45\nTitre : Cours\nLieu : 4 a
+ venue de l observatoire 75006 Paris\nProfesseur : Margaux Laclef\nGroupe(s
+ ) :
+LOCATION:4 avenue de l observatoire 75006 Paris
+END:VEVENT
+END:VCALENDAR
