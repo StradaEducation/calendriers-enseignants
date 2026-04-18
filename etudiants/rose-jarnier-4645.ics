@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Rose jarnier
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Live : Procédure pénale
+DTSTART;TZID=Europe/Paris:20260415T090000
+DTEND;TZID=Europe/Paris:20260415T110000
+DTSTAMP:20260418T203620Z
+UID:67f419b23d1cd1a93afe7a8f0466d7aa@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 9h00 à 11h00\nTitre : Séance n°10\nLi
+ eu : Live\nProfesseur : Jean-Dominique Voisin\nGroupe(s) : MD - Droit - L3
+  - TDS2 - 2025 - Procédure pénale
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live : Droit du travail 2
+DTSTART;TZID=Europe/Paris:20260415T171500
+DTEND;TZID=Europe/Paris:20260415T191500
+DTSTAMP:20260418T203620Z
+UID:6b2d5b801295d43a8b0448fb52f15c51@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 17h15 à 19h15\nTitre : Séance n°10\nL
+ ieu : Live\nProfesseur : Ylias Ferkane\nGroupe(s) : MD - Droit - L3 - TDS2
+  - 2025 - Droit du travail
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR

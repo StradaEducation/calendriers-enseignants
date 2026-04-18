@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - JULES TAPIE
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Live : Droit civil
+DTSTART;TZID=Europe/Paris:20260418T100000
+DTEND;TZID=Europe/Paris:20260418T120000
+DTSTAMP:20260418T203634Z
+UID:89a7b1028775a39cb313e038254468e9@strada-education.fr
+DESCRIPTION:samedi 18 avril ⋅ 10h00 à 12h00\nTitre : Séance n°10\nLie
+ u : Live\nProfesseur : Rouzbeh Ziaei\nGroupe(s) : MD - Droit - L1 - TDS2 -
+  2025 - Droit civil - Equipe 3 - Groupe B
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260411T140000
+DTEND;TZID=Europe/Paris:20260411T160000
+DTSTAMP:20260418T203634Z
+UID:13583577af3677b782cd9da1fc1dd7db@strada-education.fr
+DESCRIPTION:samedi 11 avril ⋅ 14h00 à 16h00\nTitre : Séance n°9\nLieu
+  : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Rouzbeh Ziaei\nGr
+ oupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit civil - Equipe 3 - Groupe 
+ C MD - Droit - L1 - TDS2 - 2025 - Droit civil - Equipe 3 - Groupe B
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260416T090000
+DTEND;TZID=Europe/Paris:20260416T110000
+DTSTAMP:20260418T203634Z
+UID:b6abc026d193cd03af9b7af3bf42dd2e@strada-education.fr
+DESCRIPTION:jeudi 16 avril ⋅ 9h00 à 11h00\nTitre : Séance n°10\nLieu 
+ : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Rouillé
+ \nGroupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit constitutionnel - Equi
+ pe 3 - Groupe D
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR

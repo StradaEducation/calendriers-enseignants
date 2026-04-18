@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Diane Chapeyron
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260415T143000
+DTEND;TZID=Europe/Paris:20260415T163000
+DTSTAMP:20260418T203633Z
+UID:2dd9a9ee9649845c9d0203f103ecc07b@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 14h30 à 16h30\nTitre : Séance n°10\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gira
+ rdet\nGroupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit civil - Equipe 1 -
+  Groupe B
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR

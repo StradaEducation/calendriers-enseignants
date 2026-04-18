@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Alice MERCENIER
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Live : Procédure pénale
+DTSTART;TZID=Europe/Paris:20260415T090000
+DTEND;TZID=Europe/Paris:20260415T110000
+DTSTAMP:20260418T203618Z
+UID:f82a99e5f251c68d47518966dd532c40@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 9h00 à 11h00\nTitre : Séance n°10\nLi
+ eu : Live\nProfesseur : Jean-Dominique Voisin\nGroupe(s) : MD - Droit - L3
+  - TDS2 - 2025 - Procédure pénale
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR

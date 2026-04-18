@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Samanta Georgelin
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Live : Droit des obligations
+DTSTART;TZID=Europe/Paris:20260417T170000
+DTEND;TZID=Europe/Paris:20260417T190000
+DTSTAMP:20260418T203635Z
+UID:1f6b14da03ec65dd3372d29f36112c87@strada-education.fr
+DESCRIPTION:vendredi 17 avril ⋅ 17h00 à 19h00\nTitre : Séance n°10\nL
+ ieu : Live\nProfesseur : Alexandre Savoye\nGroupe(s) : MD - Droit - Melun 
+ - L2 - TDS2 - 2025 - Droit des obligations
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live : Droit administratif
+DTSTART;TZID=Europe/Paris:20260417T140000
+DTEND;TZID=Europe/Paris:20260417T160000
+DTSTAMP:20260418T203635Z
+UID:f4852c878835e0a1efff3864393a604d@strada-education.fr
+DESCRIPTION:vendredi 17 avril ⋅ 14h00 à 16h00\nTitre : Séance n°10\nL
+ ieu : Live\nProfesseur : Grégory Portais\nGroupe(s) : MD - Droit - Melun 
+ - L2 - TDS2 - 2025 - Droit administratif
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live : Droit pénal
+DTSTART;TZID=Europe/Paris:20260415T143000
+DTEND;TZID=Europe/Paris:20260415T163000
+DTSTAMP:20260418T203635Z
+UID:8da774c1b97309b43cd50a4697548733@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 14h30 à 16h30\nTitre : Séance n°10\nL
+ ieu : Live\nProfesseur : Jean-Dominique Voisin\nGroupe(s) : MD - Droit - M
+ elun - L2 - TDS2 - 2025 - Droit pénal
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
