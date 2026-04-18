@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - François Betina Vixamar
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Live : Droit des affaires (Droit des sociétés)
+DTSTART;TZID=Europe/Paris:20260414T133000
+DTEND;TZID=Europe/Paris:20260414T153000
+DTSTAMP:20260418T095148Z
+UID:27cf647aeeb0a8e2906b4f49f9f5305e@strada-education.fr
+DESCRIPTION:mardi 14 avril ⋅ 13h30 à 15h30\nTitre : Séance n°10\nLieu
+  : Live\nProfesseur : Nawfel Sekfali\nGroupe(s) : MD - Droit - L3 - TDS2 -
+  2025 - Droit des affaires - Equipe 2
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live : Droit fiscal
+DTSTART;TZID=Europe/Paris:20260411T090000
+DTEND;TZID=Europe/Paris:20260411T110000
+DTSTAMP:20260418T095148Z
+UID:63183d0c0215931a1db0500e9af76040@strada-education.fr
+DESCRIPTION:samedi 11 avril ⋅ 9h00 à 11h00\nTitre : Séance n°10\nLieu
+  : Live\nProfesseur : Alexandre Laumonier\nGroupe(s) : MD - Droit - L3 - T
+ DS2 - 2025 - Droit fiscal
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
