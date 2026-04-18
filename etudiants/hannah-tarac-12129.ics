@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Hannah Tarac
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260415T143000
+DTEND;TZID=Europe/Paris:20260415T163000
+DTSTAMP:20260418T095807Z
+UID:001362e3822ea1559063dd14eeba6457@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 14h30 à 16h30\nTitre : Séance n°10\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gira
+ rdet\nGroupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit civil - Equipe 1 -
+  Groupe B
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live : Histoire du droit et des institutions
+DTSTART;TZID=Europe/Paris:20260416T084500
+DTEND;TZID=Europe/Paris:20260416T101500
+DTSTAMP:20260418T095807Z
+UID:f83d67e9908aec608dd5c3f09a445b96@strada-education.fr
+DESCRIPTION:jeudi 16 avril ⋅ 8h45 à 10h15\nTitre : Séance n°9\nLieu :
+  Live\nProfesseur : Alexandre Karsenty\nGroupe(s) : MD - Droit - L1 - TDS2
+  - 2025 - Histoire du droit et des institutions - Equipe 1
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
