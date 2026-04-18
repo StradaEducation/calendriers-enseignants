@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Yasmine Barij
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260415T111500
+DTEND;TZID=Europe/Paris:20260415T131500
+DTSTAMP:20260418T095601Z
+UID:c22f3f756c53267e13a330db3c839326@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 11h15 à 13h15\nTitre : Séance n°10\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui
+ llé\nGroupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit constitutionnel - 
+ Equipe 3 - Groupe C
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR
