@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Camille Gauthier
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260415T111500
+DTEND;TZID=Europe/Paris:20260415T131500
+DTSTAMP:20260418T095431Z
+UID:8ed57c4f5bee8c4075ccf4cb5ba0d4c6@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 11h15 à 13h15\nTitre : Séance n°10\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gira
+ rdet\nGroupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit civil - Equipe 2 -
+  Groupe B
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260415T140000
+DTEND;TZID=Europe/Paris:20260415T160000
+DTSTAMP:20260418T095431Z
+UID:0ceaa372db8fd993efa949fc3120035e@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 14h00 à 16h00\nTitre : Séance n°10\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui
+ llé\nGroupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit constitutionnel - 
+ Equipe 2 - Groupe B
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR
