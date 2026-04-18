@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Laetitia Sivakumar
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260413T130000
+DTEND;TZID=Europe/Paris:20260413T150000
+DTSTAMP:20260418T095645Z
+UID:7a276be63fe419c1d4972374496a58ba@strada-education.fr
+DESCRIPTION:lundi 13 avril ⋅ 13h00 à 15h00\nTitre : Séance n°10\nLieu
+  : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Girarde
+ t\nGroupe(s) : MD - Droit - L1 - TDS2 - 2025 - Droit civil - Equipe 1 - Gr
+ oupe A
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR
