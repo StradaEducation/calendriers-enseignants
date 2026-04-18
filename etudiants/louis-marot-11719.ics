@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Louis Marot
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Maths/stats
+DTSTART;TZID=Europe/Paris:20260415T090000
+DTEND;TZID=Europe/Paris:20260415T110000
+DTSTAMP:20260418T095615Z
+UID:404b800f2e20a9610cd44ffaa0bcdeca@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 9h00 à 11h00\nTitre : Séance n°11\nLi
+ eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Louis Gal\nGrou
+ pe(s) : MD - Eco - L1 - TDS2 - 2025 - Maths/Stats - Groupe B
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Maths/stats
+DTSTART;TZID=Europe/Paris:20260422T090000
+DTEND;TZID=Europe/Paris:20260422T110000
+DTSTAMP:20260418T095615Z
+UID:5da67f2ad62ca75e2a15660f17866253@strada-education.fr
+DESCRIPTION:mercredi 22 avril ⋅ 9h00 à 11h00\nTitre : Séance n°12\nLi
+ eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Louis Gal\nGrou
+ pe(s) : MD - Eco - L1 - TDS2 - 2025 - Maths/Stats - Groupe B
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Macro-économie
+DTSTART;TZID=Europe/Paris:20260414T163000
+DTEND;TZID=Europe/Paris:20260414T183000
+DTSTAMP:20260418T095615Z
+UID:bf0647742d5df2731a564cc371009e50@strada-education.fr
+DESCRIPTION:mardi 14 avril ⋅ 16h30 à 18h30\nTitre : Séance n°9\nLieu 
+ : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Souhila Bahi\nGrou
+ pe(s) : MD - Eco - L1 - TDS2 - 2025 - Macroéconomie - Groupe A
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR
