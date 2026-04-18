@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Matisse Philippart
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260416T183000
+DTEND;TZID=Europe/Paris:20260416T203000
+DTSTAMP:20260418T095441Z
+UID:8f22800a343fc3c65678e6bdf0f23d14@strada-education.fr
+DESCRIPTION:jeudi 16 avril ⋅ 18h30 à 20h30\nTitre : Préparation de gal
+ op d'essai\nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : A
+ lexandre Savoye\nGroupe(s) : MD - Droit - Sorbonne - L1 - TDS2 - 2025 - Dr
+ oit civil - Groupe 1
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260413T184500
+DTEND;TZID=Europe/Paris:20260413T204500
+DTSTAMP:20260418T095441Z
+UID:69dc14eb09a33a7bb9d17d326dfd5a56@strada-education.fr
+DESCRIPTION:lundi 13 avril ⋅ 18h45 à 20h45\nTitre : Séance n°11\nLieu
+  : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Gelin\n
+ Groupe(s) : MD - Droit - Sorbonne - L1 - TDS2 - 2025 - Droit constitutionn
+ el - Groupe 1
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR
