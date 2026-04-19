@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Vanessa Coulibaly
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nApprendre
+  efficacement
+DTSTART;TZID=Europe/Paris:20260512T180000
+DTEND;TZID=Europe/Paris:20260512T193000
+DTSTAMP:20260419T145036Z
+UID:6d6d78669432f0bc1b73ff86866ddc9c@strada-education.fr
+COLOR:blue
+DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
+ t\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nLecture r
+ apide
+DTSTART;TZID=Europe/Paris:20260519T183000
+DTEND;TZID=Europe/Paris:20260519T200000
+DTSTAMP:20260419T145036Z
+UID:8941c0da484588ecff21b400489baebb@strada-education.fr
+COLOR:blue
+DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
+ : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nTechnique
+  de mémorisation
+DTSTART;TZID=Europe/Paris:20260526T180000
+DTEND;TZID=Europe/Paris:20260526T193000
+DTSTAMP:20260419T145036Z
+UID:80d7fe63a197097da5a4ee1dd57dae7c@strada-education.fr
+COLOR:blue
+DESCRIPTION:mardi 26 mai ⋅ 18h00 à 19h30\nTitre : Technique de mémoris
+ ation\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nSynthéti
+ sation efficace
+DTSTART;TZID=Europe/Paris:20260604T183000
+DTEND;TZID=Europe/Paris:20260604T200000
+DTSTAMP:20260419T145036Z
+UID:7688490449f1bd611c502b261e5f7d9f@strada-education.fr
+COLOR:blue
+DESCRIPTION:jeudi 4 juin ⋅ 18h30 à 20h00\nTitre : Synthétisation effic
+ ace\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h00\nLive : Séance inaugurale\nConférence inaugurale
+DTSTART;TZID=Europe/Paris:20260422T180000
+DTEND;TZID=Europe/Paris:20260422T190000
+DTSTAMP:20260419T145036Z
+UID:52483632e4caba0a0a64958d65ce8e00@strada-education.fr
+COLOR:blue
+DESCRIPTION:mercredi 22 avril ⋅ 18h00 à 19h00\nTitre : Conférence inau
+ gurale\nLieu : Live\nProfesseur : Claire Onillon
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
