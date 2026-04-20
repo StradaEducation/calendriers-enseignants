@@ -7,11 +7,21 @@ X-WR-CALNAME:Planning - Aliénor Prévot-Roy
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:10h00 - 12h00\nLive : Droit civil\nSéance n°10
+DTSTART;TZID=Europe/Paris:20260418T100000
+DTEND;TZID=Europe/Paris:20260418T120000
+DTSTAMP:20260420T103406Z
+UID:16f74053a675586b184868f987d7fc2c@strada-education.fr
+DESCRIPTION:samedi 18 avril ⋅ 10h00 à 12h00\nTitre : Séance n°10\nLie
+ u : Live\nProfesseur : Rouzbeh Ziaei
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:16h25 - 18h25\nCours en présentiel : Droit constitutionnel\nSéan
  ce n°10
 DTSTART;TZID=Europe/Paris:20260414T162500
 DTEND;TZID=Europe/Paris:20260414T182500
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:83c160930de749f93653a06e9d1de1c6@strada-education.fr
 DESCRIPTION:mardi 14 avril ⋅ 16h25 à 18h25\nTitre : Séance n°10\nLieu
   : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Rouill
@@ -23,7 +33,7 @@ SUMMARY:12h00 - 13h30\nLive : Histoire du droit et des institutions\nSéan
  ce n°10
 DTSTART;TZID=Europe/Paris:20260414T120000
 DTEND;TZID=Europe/Paris:20260414T133000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:0f6e6d68ff9280187c4efb2ee430ae8b@strada-education.fr
 DESCRIPTION:mardi 14 avril ⋅ 12h00 à 13h30\nTitre : Séance n°10\nLieu
   : Live\nProfesseur : Alexandre Karsenty
@@ -33,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit civil\nSéance n°1
 DTSTART;TZID=Europe/Paris:20260425T111500
 DTEND;TZID=Europe/Paris:20260425T131500
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:8912a81c6afea5362446d719350ab162@strada-education.fr
 DESCRIPTION:samedi 25 avril ⋅ 11h15 à 13h15\nTitre : Séance n°1\nLieu
   : Live\nProfesseur : Rouzbeh Ziaei
@@ -43,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:15h00 - 17h00\nLive : Droit civil\nSéance n°2
 DTSTART;TZID=Europe/Paris:20260429T150000
 DTEND;TZID=Europe/Paris:20260429T170000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:f4c7e84f972d705ed23c1b64d53d81f0@strada-education.fr
 DESCRIPTION:mercredi 29 avril ⋅ 15h00 à 17h00\nTitre : Séance n°2\nLi
  eu : Live\nProfesseur : Rouzbeh Ziaei
@@ -53,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit civil\nSéance n°3
 DTSTART;TZID=Europe/Paris:20260430T090000
 DTEND;TZID=Europe/Paris:20260430T110000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:d594f62220d7a4f03d75e37a3cff7ab5@strada-education.fr
 DESCRIPTION:jeudi 30 avril ⋅ 9h00 à 11h00\nTitre : Séance n°3\nLieu :
   Live\nProfesseur : Rouzbeh Ziaei
@@ -63,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:15h00 - 17h00\nLive : Droit civil\nSéance n°4
 DTSTART;TZID=Europe/Paris:20260504T150000
 DTEND;TZID=Europe/Paris:20260504T170000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:382926494379b167340ccd8e819effe6@strada-education.fr
 DESCRIPTION:lundi 4 mai ⋅ 15h00 à 17h00\nTitre : Séance n°4\nLieu : L
  ive\nProfesseur : Rouzbeh Ziaei
@@ -73,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit civil\nSéance n°5
 DTSTART;TZID=Europe/Paris:20260505T111500
 DTEND;TZID=Europe/Paris:20260505T131500
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:6fa8b976c59c3a5b23dd5d9370f9feb6@strada-education.fr
 DESCRIPTION:mardi 5 mai ⋅ 11h15 à 13h15\nTitre : Séance n°5\nLieu : L
  ive\nProfesseur : Rouzbeh Ziaei
@@ -83,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nLive : Droit constitutionnel\nSéance n°1
 DTSTART;TZID=Europe/Paris:20260430T161500
 DTEND;TZID=Europe/Paris:20260430T181500
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:006e1906477a3f708dee57921f0d3075@strada-education.fr
 DESCRIPTION:jeudi 30 avril ⋅ 16h15 à 18h15\nTitre : Séance n°1\nLieu 
  : Live\nProfesseur : François Rouillé
@@ -93,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit constitutionnel\nSéance n°2
 DTSTART;TZID=Europe/Paris:20260502T090000
 DTEND;TZID=Europe/Paris:20260502T110000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:7022351e320710b2340680c553a0c4b3@strada-education.fr
 DESCRIPTION:samedi 2 mai ⋅ 9h00 à 11h00\nTitre : Séance n°2\nLieu : L
  ive\nProfesseur : François Rouillé
@@ -103,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit constitutionnel\nSéance n°3
 DTSTART;TZID=Europe/Paris:20260505T090000
 DTEND;TZID=Europe/Paris:20260505T110000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:829faac575306c536719f78f8e91e900@strada-education.fr
 DESCRIPTION:mardi 5 mai ⋅ 9h00 à 11h00\nTitre : Séance n°3\nLieu : Li
  ve\nProfesseur : François Rouillé
@@ -113,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit constitutionnel\nSéance n°4
 DTSTART;TZID=Europe/Paris:20260506T140000
 DTEND;TZID=Europe/Paris:20260506T160000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:debbb5db15fe13b90fa174a1a53b2fd9@strada-education.fr
 DESCRIPTION:mercredi 6 mai ⋅ 14h00 à 16h00\nTitre : Séance n°4\nLieu 
  : Live\nProfesseur : François Rouillé
@@ -123,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit constitutionnel\nSéance n°5
 DTSTART;TZID=Europe/Paris:20260507T111500
 DTEND;TZID=Europe/Paris:20260507T131500
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:c052cf8459f69e2370c3bd2f8224e565@strada-education.fr
 DESCRIPTION:jeudi 7 mai ⋅ 11h15 à 13h15\nTitre : Séance n°5\nLieu : L
  ive\nProfesseur : François Rouillé
@@ -134,7 +144,7 @@ SUMMARY:14h30 - 16h30\nLive : Histoire du droit et des institutions\nSéan
  ce n°1
 DTSTART;TZID=Europe/Paris:20260427T143000
 DTEND;TZID=Europe/Paris:20260427T163000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:d035f50dd4c33e6acc1cfbacc1b66869@strada-education.fr
 DESCRIPTION:lundi 27 avril ⋅ 14h30 à 16h30\nTitre : Séance n°1\nLieu 
  : Live\nProfesseur : Alexandre Karsenty
@@ -145,7 +155,7 @@ SUMMARY:11h15 - 13h15\nLive : Histoire du droit et des institutions\nSéan
  ce n°2
 DTSTART;TZID=Europe/Paris:20260428T111500
 DTEND;TZID=Europe/Paris:20260428T131500
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:ea7a1cc78e7ef2b5a4b7448cc434bba3@strada-education.fr
 DESCRIPTION:mardi 28 avril ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLieu 
  : Live\nProfesseur : Alexandre Karsenty
@@ -156,7 +166,7 @@ SUMMARY:14h00 - 16h00\nLive : Histoire du droit et des institutions\nSéan
  ce n°3
 DTSTART;TZID=Europe/Paris:20260502T140000
 DTEND;TZID=Europe/Paris:20260502T160000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:473e9c1fabba5323c8b65c98fbd06745@strada-education.fr
 DESCRIPTION:samedi 2 mai ⋅ 14h00 à 16h00\nTitre : Séance n°3\nLieu : 
  Live\nProfesseur : Alexandre Karsenty
@@ -167,7 +177,7 @@ SUMMARY:9h00 - 11h00\nLive : Histoire du droit et des institutions\nSéanc
  e n°4
 DTSTART;TZID=Europe/Paris:20260506T090000
 DTEND;TZID=Europe/Paris:20260506T110000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:e76a8820c95c74a421c3512807d50ab1@strada-education.fr
 DESCRIPTION:mercredi 6 mai ⋅ 9h00 à 11h00\nTitre : Séance n°4\nLieu :
   Live\nProfesseur : Alexandre Karsenty
@@ -178,7 +188,7 @@ SUMMARY:14h00 - 16h00\nLive : Histoire du droit et des institutions\nSéan
  ce n°5
 DTSTART;TZID=Europe/Paris:20260507T140000
 DTEND;TZID=Europe/Paris:20260507T160000
-DTSTAMP:20260420T080913Z
+DTSTAMP:20260420T103406Z
 UID:6bc50d8d53062918d77db034116e8e01@strada-education.fr
 DESCRIPTION:jeudi 7 mai ⋅ 14h00 à 16h00\nTitre : Séance n°5\nLieu : L
  ive\nProfesseur : Alexandre Karsenty

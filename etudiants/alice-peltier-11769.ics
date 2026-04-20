@@ -7,11 +7,21 @@ X-WR-CALNAME:Planning - Alice Peltier
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:10h00 - 12h00\nLive : Droit civil\nSéance n°10
+DTSTART;TZID=Europe/Paris:20260418T100000
+DTEND;TZID=Europe/Paris:20260418T120000
+DTSTAMP:20260420T103352Z
+UID:7c28100520bee7fd9bff13590e67a236@strada-education.fr
+DESCRIPTION:samedi 18 avril ⋅ 10h00 à 12h00\nTitre : Séance n°10\nLie
+ u : Live\nProfesseur : Rouzbeh Ziaei
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nCours en présentiel : Droit constitutionnel\nSéan
  ce n°10
 DTSTART;TZID=Europe/Paris:20260415T111500
 DTEND;TZID=Europe/Paris:20260415T131500
-DTSTAMP:20260420T080858Z
+DTSTAMP:20260420T103352Z
 UID:1b661f7e29f3b5d195af16aa548a0396@strada-education.fr
 DESCRIPTION:mercredi 15 avril ⋅ 11h15 à 13h15\nTitre : Séance n°10\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui

@@ -7,185 +7,56 @@ X-WR-CALNAME:Planning - Anna Levy
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Live : Note de synthèse
-DTSTART;TZID=Europe/Paris:20260420T170000
-DTEND;TZID=Europe/Paris:20260420T183000
-DTSTAMP:20260418T200806Z
-UID:5575d470ee5ba78a5d799e39cdc9c6d0@strada-education.fr
-DESCRIPTION:lundi 20 avril ⋅ 17h00 à 18h30\nTitre : Séminaire de corre
- ction n°4\nLieu : Live\nProfesseur : Mathieu Violette\nGroupe(s) : OB - N
- ote de synthèse - 2026 - Annuelle
+SUMMARY:15h15 - 17h15\nCours en présentiel : Droit des obligations\nSéan
+ ce n°10
+DTSTART;TZID=Europe/Paris:20260413T151500
+DTEND;TZID=Europe/Paris:20260413T171500
+DTSTAMP:20260420T103348Z
+UID:7cb0cfa0aac3edb184662fe386f1b01e@strada-education.fr
+DESCRIPTION:lundi 13 avril ⋅ 15h15 à 17h15\nTitre : Séance n°10\nLieu
+  : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Girarde
+ t
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16h30 - 18h30\nLive : Droit des obligations\nSéance n°10
+DTSTART;TZID=Europe/Paris:20260414T163000
+DTEND;TZID=Europe/Paris:20260414T183000
+DTSTAMP:20260420T103348Z
+UID:98083ac50ccd44be8fee9199b25e6fc6@strada-education.fr
+DESCRIPTION:mardi 14 avril ⋅ 16h30 à 18h30\nTitre : Séance n°10\nLieu
+  : Live\nProfesseur : Annabelle Girardet
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Live : Note de synthèse
-DTSTART;TZID=Europe/Paris:20260518T170000
-DTEND;TZID=Europe/Paris:20260518T183000
-DTSTAMP:20260418T200806Z
-UID:f0068a65e42b4a1122f7d3da10726178@strada-education.fr
-DESCRIPTION:lundi 18 mai ⋅ 17h00 à 18h30\nTitre : Séminaire de correct
- ion n°5\nLieu : Live\nProfesseur : Mathieu Violette\nGroupe(s) : OB - Not
- e de synthèse - 2026 - Annuelle
+SUMMARY:17h10 - 19h10\nCours en présentiel : Droit administratif\nSéance
+  n°9
+DTSTART;TZID=Europe/Paris:20260416T171000
+DTEND;TZID=Europe/Paris:20260416T191000
+DTSTAMP:20260420T103348Z
+UID:863cd9a0cb46a0a464fce9192be68dfd@strada-education.fr
+DESCRIPTION:jeudi 16 avril ⋅ 17h10 à 19h10\nTitre : Séance n°9\nLieu 
+ : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Rouillé
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11h15 - 13h15\nLive : Droit administratif\nSéance n°9
+DTSTART;TZID=Europe/Paris:20260417T111500
+DTEND;TZID=Europe/Paris:20260417T131500
+DTSTAMP:20260420T103348Z
+UID:7ba09508bcad18a8a30bf3816115cd4f@strada-education.fr
+DESCRIPTION:vendredi 17 avril ⋅ 11h15 à 13h15\nTitre : Séance n°9\nLi
+ eu : Live\nProfesseur : François Rouillé
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Live : Note de synthèse
-DTSTART;TZID=Europe/Paris:20260420T184500
-DTEND;TZID=Europe/Paris:20260420T194500
-DTSTAMP:20260418T200806Z
-UID:e1eda61a3b2799fe710823910a851cdf@strada-education.fr
-DESCRIPTION:lundi 20 avril ⋅ 18h45 à 19h45\nTitre : Atelier n°4\nLieu 
- : Live\nProfesseur : Mathieu Violette\nGroupe(s) : OB - Note de synthèse 
- - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Note de synthèse
-DTSTART;TZID=Europe/Paris:20260518T184500
-DTEND;TZID=Europe/Paris:20260518T194500
-DTSTAMP:20260418T200806Z
-UID:46f5e46bd0b85fbf91d5f81ecbedb540@strada-education.fr
-DESCRIPTION:lundi 18 mai ⋅ 18h45 à 19h45\nTitre : Atelier n°5\nLieu : 
- Live\nProfesseur : Mathieu Violette\nGroupe(s) : OB - Note de synthèse - 
- 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Mot de la prépa
-DTSTART;TZID=Europe/Paris:20260414T123000
-DTEND;TZID=Europe/Paris:20260414T130000
-DTSTAMP:20260418T200806Z
-UID:784260e7a1e5e5a7c3e020425afe13e3@strada-education.fr
-DESCRIPTION:mardi 14 avril ⋅ 12h30 à 13h00\nTitre : Mot de la prépa n
- °3\nLieu : Live\nProfesseur : Margaux Lionetti\nGroupe(s) : OB - Note de 
- synthèse - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Mot de la prépa
-DTSTART;TZID=Europe/Paris:20260519T123000
-DTEND;TZID=Europe/Paris:20260519T130000
-DTSTAMP:20260418T200806Z
-UID:b0be292ecdcc4e447f075e3ac29b44f2@strada-education.fr
-DESCRIPTION:mardi 19 mai ⋅ 12h30 à 13h00\nTitre : Mot de la prépa n°4
- \nLieu : Live\nProfesseur : Margaux Lionetti\nGroupe(s) : OB - Note de syn
- thèse - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Mot de la prépa
-DTSTART;TZID=Europe/Paris:20260609T123000
-DTEND;TZID=Europe/Paris:20260609T130000
-DTSTAMP:20260418T200806Z
-UID:2daa4c3d64607f719a67804946a7f7ca@strada-education.fr
-DESCRIPTION:mardi 9 juin ⋅ 12h30 à 13h00\nTitre : Mot de la prépa n°5
- \nLieu : Live\nProfesseur : Margaux Lionetti\nGroupe(s) : OB - Note de syn
- thèse - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Coaching et techniques de travail
-DTSTART;TZID=Europe/Paris:20260512T180000
-DTEND;TZID=Europe/Paris:20260512T193000
-DTSTAMP:20260418T200806Z
-UID:01358af2cfecf6dd53e83f1470795d5a@strada-education.fr
-DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
- t\nLieu : Live\nProfesseur : Florian Manicardi\nGroupe(s) : OB - Note de s
- ynthèse - 2026 - Distance renforcée OB - Note de synthèse - 2026 - Dist
- ance OB - Note de synthèse - 2026 - Paris OB - Note de synthèse - 2026 -
-  Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Coaching et techniques de travail
-DTSTART;TZID=Europe/Paris:20260519T183000
-DTEND;TZID=Europe/Paris:20260519T200000
-DTSTAMP:20260418T200806Z
-UID:da2543dcd75be738162c0c33a1c8f1aa@strada-education.fr
-DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
- : Live\nProfesseur : Florian Manicardi\nGroupe(s) : OB - Note de synthèse
-  - 2026 - Distance renforcée OB - Note de synthèse - 2026 - Distance OB 
- - Note de synthèse - 2026 - Paris OB - Note de synthèse - 2026 - Annuell
- e
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Coaching et techniques de travail
-DTSTART;TZID=Europe/Paris:20260604T183000
-DTEND;TZID=Europe/Paris:20260604T200000
-DTSTAMP:20260418T200806Z
-UID:273b8b257ff23030f620603b9d4fbbb4@strada-education.fr
-DESCRIPTION:jeudi 4 juin ⋅ 18h30 à 20h00\nTitre : Synthétisation effic
- ace\nLieu : Live\nProfesseur : Florian Manicardi\nGroupe(s) : OB - Note de
-  synthèse - 2026 - Distance renforcée OB - Note de synthèse - 2026 - Di
- stance OB - Note de synthèse - 2026 - Paris OB - Note de synthèse - 2026
-  - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Droit des obligations
-DTSTART;TZID=Europe/Paris:20260417T110000
-DTEND;TZID=Europe/Paris:20260417T130000
-DTSTAMP:20260418T200806Z
-UID:9f2b207c04c911da92e5ab48aff24a8e@strada-education.fr
-DESCRIPTION:vendredi 17 avril ⋅ 11h00 à 13h00\nTitre : Séminaire de co
- rrection n°4\nLieu : Live\nProfesseur : Taklith Boudjelti\nGroupe(s) : OB
-  - Droit des obligations - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Droit des obligations
-DTSTART;TZID=Europe/Paris:20260522T110000
-DTEND;TZID=Europe/Paris:20260522T130000
-DTSTAMP:20260418T200806Z
-UID:300c1644d94ee0af8ca3d7ed3317e11d@strada-education.fr
-DESCRIPTION:vendredi 22 mai ⋅ 11h00 à 13h00\nTitre : Séminaire de corr
- ection n°5\nLieu : Live\nProfesseur : Taklith Boudjelti\nGroupe(s) : OB -
-  Droit des obligations - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Droit civil
-DTSTART;TZID=Europe/Paris:20260505T183000
-DTEND;TZID=Europe/Paris:20260505T194500
-DTSTAMP:20260418T200806Z
-UID:02d42766d231073b02b2531951adca35@strada-education.fr
-DESCRIPTION:mardi 5 mai ⋅ 18h30 à 19h45\nTitre : Séminaire de correcti
- on n°4\nLieu : Live\nProfesseur : Benoît Chaffois\nGroupe(s) : OB - Droi
- t civil - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Droit civil
-DTSTART;TZID=Europe/Paris:20260602T170000
-DTEND;TZID=Europe/Paris:20260602T181500
-DTSTAMP:20260418T200806Z
-UID:34db9808ae8ddc5f99b51d51075fd913@strada-education.fr
-DESCRIPTION:mardi 2 juin ⋅ 17h00 à 18h15\nTitre : Séminaire de correct
- ion n°5\nLieu : Live\nProfesseur : Benoît Chaffois\nGroupe(s) : OB - Dro
- it civil - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Procédure civile
-DTSTART;TZID=Europe/Paris:20260604T160000
-DTEND;TZID=Europe/Paris:20260604T180000
-DTSTAMP:20260418T200806Z
-UID:b100064aae1dc19e8368ae9aa02096b1@strada-education.fr
-DESCRIPTION:jeudi 4 juin ⋅ 16h00 à 18h00\nTitre : Séminaire de correct
- ion n°5\nLieu : Live\nProfesseur : Jean-Dominique Voisin\nGroupe(s) : OB 
- - Procédure civile - 2026 - Annuelle
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live : Procédure civile
-DTSTART;TZID=Europe/Paris:20260505T140000
-DTEND;TZID=Europe/Paris:20260505T160000
-DTSTAMP:20260418T200806Z
-UID:4a0319bebb533a8a09638c7d83c900e5@strada-education.fr
-DESCRIPTION:mardi 5 mai ⋅ 14h00 à 16h00\nTitre : Séminaire de correcti
- on n°4\nLieu : Live\nProfesseur : Jean-Dominique Voisin\nGroupe(s) : OB -
-  Procédure civile - 2026 - Annuelle
+SUMMARY:16h15 - 18h15\nLive : Droit pénal\nSéance n°10
+DTSTART;TZID=Europe/Paris:20260417T161500
+DTEND;TZID=Europe/Paris:20260417T181500
+DTSTAMP:20260420T103348Z
+UID:f3789e9bdc95c348a0a061646236d6bb@strada-education.fr
+DESCRIPTION:vendredi 17 avril ⋅ 16h15 à 18h15\nTitre : Séance n°10\nL
+ ieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
 END:VEVENT
 END:VCALENDAR

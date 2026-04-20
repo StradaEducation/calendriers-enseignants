@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Anton Sauvaget
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:10h00 - 12h00\nLive : Droit civil\nSéance n°10
+DTSTART;TZID=Europe/Paris:20260418T100000
+DTEND;TZID=Europe/Paris:20260418T120000
+DTSTAMP:20260420T103356Z
+UID:9a76ea9fb3a7f462632dbda32fcd41f2@strada-education.fr
+DESCRIPTION:samedi 18 avril ⋅ 10h00 à 12h00\nTitre : Séance n°10\nLie
+ u : Live\nProfesseur : Rouzbeh Ziaei
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR

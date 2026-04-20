@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Gabriel Maury
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:11h15 - 13h15\nCours en présentiel : Droit civil\nSéance n°10
+DTSTART;TZID=Europe/Paris:20260415T111500
+DTEND;TZID=Europe/Paris:20260415T131500
+DTSTAMP:20260420T103358Z
+UID:b073251672c4167893c620f74573150c@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 11h15 à 13h15\nTitre : Séance n°10\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gira
+ rdet
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16h10 - 18h10\nCours en présentiel : Droit constitutionnel\nSéan
+ ce n°10
+DTSTART;TZID=Europe/Paris:20260415T161000
+DTEND;TZID=Europe/Paris:20260415T181000
+DTSTAMP:20260420T103358Z
+UID:a4eafa3401d9037e85b8733d724292b6@strada-education.fr
+DESCRIPTION:mercredi 15 avril ⋅ 16h10 à 18h10\nTitre : Séance n°10\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui
+ llé
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+END:VCALENDAR
