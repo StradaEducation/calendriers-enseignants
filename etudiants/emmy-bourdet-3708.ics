@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:14h15 - 16h15\nLive : Droit des obligations\nSéance n°10
 DTSTART;TZID=Europe/Paris:20260414T141500
 DTEND;TZID=Europe/Paris:20260414T161500
-DTSTAMP:20260420T131058Z
+DTSTAMP:20260420T170017Z
 UID:2dc51153dbb1c35b119dfd2f4b652716@strada-education.fr
 DESCRIPTION:mardi 14 avril ⋅ 14h15 à 16h15\nTitre : Séance n°10\nLieu
   : Live\nProfesseur : Annabelle Girardet
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h30\nLive : Droit administratif\nSéance n°10
 DTSTART;TZID=Europe/Paris:20260417T163000
 DTEND;TZID=Europe/Paris:20260417T183000
-DTSTAMP:20260420T131058Z
+DTSTAMP:20260420T170017Z
 UID:1a0615ef16ab406c9a1f91ad795487d4@strada-education.fr
 DESCRIPTION:vendredi 17 avril ⋅ 16h30 à 18h30\nTitre : Séance n°10\nL
  ieu : Live\nProfesseur : François Rouillé
@@ -30,10 +30,60 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit pénal\nSéance n°10
 DTSTART;TZID=Europe/Paris:20260413T140000
 DTEND;TZID=Europe/Paris:20260413T160000
-DTSTAMP:20260420T131058Z
+DTSTAMP:20260420T170017Z
 UID:069edb5dd3b3e6527a77cebdca601a29@strada-education.fr
 DESCRIPTION:lundi 13 avril ⋅ 14h00 à 16h00\nTitre : Séance n°10\nLieu
   : Live\nProfesseur : Jean-Dominique Voisin
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14h00 - 16h00\nLive : Droit des obligations\nSéance n°1
+DTSTART;TZID=Europe/Paris:20260425T140000
+DTEND;TZID=Europe/Paris:20260425T160000
+DTSTAMP:20260420T170017Z
+UID:7c1e0193354ebc4fe5d7008b00c402be@strada-education.fr
+DESCRIPTION:samedi 25 avril ⋅ 14h00 à 16h00\nTitre : Séance n°1\nLieu
+  : Live\nProfesseur : Annabelle Girardet
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11h15 - 13h15\nLive : Droit des obligations\nSéance n°2
+DTSTART;TZID=Europe/Paris:20260428T111500
+DTEND;TZID=Europe/Paris:20260428T131500
+DTSTAMP:20260420T170017Z
+UID:aec781df3da79891c51bdb34339486b2@strada-education.fr
+DESCRIPTION:mardi 28 avril ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLieu 
+ : Live\nProfesseur : Annabelle Girardet
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9h00 - 11h00\nLive : Droit des obligations\nSéance n°3
+DTSTART;TZID=Europe/Paris:20260430T090000
+DTEND;TZID=Europe/Paris:20260430T110000
+DTSTAMP:20260420T170017Z
+UID:7f942eef0bf6448cd2f070a458dda6bf@strada-education.fr
+DESCRIPTION:jeudi 30 avril ⋅ 9h00 à 11h00\nTitre : Séance n°3\nLieu :
+  Live\nProfesseur : Annabelle Girardet
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9h00 - 11h00\nLive : Droit des obligations\nSéance n°4
+DTSTART;TZID=Europe/Paris:20260504T090000
+DTEND;TZID=Europe/Paris:20260504T110000
+DTSTAMP:20260420T170017Z
+UID:c50f26bfb169101acaac97d6018f90d8@strada-education.fr
+DESCRIPTION:lundi 4 mai ⋅ 9h00 à 11h00\nTitre : Séance n°4\nLieu : Li
+ ve\nProfesseur : Annabelle Girardet
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14h00 - 16h00\nLive : Droit des obligations\nSéance n°5
+DTSTART;TZID=Europe/Paris:20260506T140000
+DTEND;TZID=Europe/Paris:20260506T160000
+DTSTAMP:20260420T170017Z
+UID:69e89aa1f04b34c62291788279d1e0f0@strada-education.fr
+DESCRIPTION:mercredi 6 mai ⋅ 14h00 à 16h00\nTitre : Séance n°5\nLieu 
+ : Live\nProfesseur : Annabelle Girardet
 LOCATION:Live (en ligne)
 END:VEVENT
 END:VCALENDAR
