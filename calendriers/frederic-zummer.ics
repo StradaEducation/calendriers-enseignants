@@ -6,4 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Emploi du temps - Frédéric Zummer
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:18h30 - 19h30\nLive : Relations internationales\nLive Q&A
+DTSTART;TZID=Europe/Paris:20260513T183000
+DTEND;TZID=Europe/Paris:20260513T193000
+DTSTAMP:20260424T110122Z
+UID:7c37a346731ba240815649e7e21f6554@strada-education.fr
+DESCRIPTION:mercredi 13 mai ⋅ 18h30 à 19h30\nTitre : Live Q&A\nLieu : L
+ ive\nProfesseur : Frédéric Zummer\nGroupe(s) : LCA - Droit - L1 - SIS2 -
+  Relations internationales
+LOCATION:Live (en ligne)
+END:VEVENT
 END:VCALENDAR
