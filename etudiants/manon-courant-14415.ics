@@ -7,11 +7,33 @@ X-WR-CALNAME:Planning - Manon Courant
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir \nDroit pénal - Annuelle 2026 - Sujet n°4 
+ à rendre
+DTSTART;TZID=Europe/Paris:20260502T225900
+DTEND;TZID=Europe/Paris:20260502T235900
+DTSTAMP:20260424T110618Z
+UID:5b21ff62311c750da8cc10399c89927e@strada-education.fr
+DESCRIPTION:Devoir : Droit pénal_Annuelle 2026_Sujet 4\nMarque : Objectif
+  Barreau\nMatiere : Droit pénal\nNombre d'élèves : 206\nDate de rendu :
+  02 mai 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir \nProcédure pénale - Annuelle 2026 - Sujet
+  n°4 à rendre
+DTSTART;TZID=Europe/Paris:20260502T225900
+DTEND;TZID=Europe/Paris:20260502T235900
+DTSTAMP:20260424T110618Z
+UID:e5cd708def0e997fd314f7df926fbf04@strada-education.fr
+DESCRIPTION:Devoir : Procédure pénale_Annuelle 2026_Sujet 4\nMarque : Ob
+ jectif Barreau\nMatiere : Procédure pénale\nNombre d'élèves : 207\nDat
+ e de rendu : 02 mai 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:17h00 - 18h30\nLive : Note de synthèse\nSéminaire de correction 
  n°4
 DTSTART;TZID=Europe/Paris:20260420T170000
 DTEND;TZID=Europe/Paris:20260420T183000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:38f881cc12d5c220e1528ae5b99426a3@strada-education.fr
 DESCRIPTION:lundi 20 avril ⋅ 17h00 à 18h30\nTitre : Séminaire de corre
  ction n°4\nLieu : Live\nProfesseur : Mathieu Violette
@@ -22,7 +44,7 @@ SUMMARY:17h00 - 18h30\nLive : Note de synthèse\nSéminaire de correction
  n°5
 DTSTART;TZID=Europe/Paris:20260518T170000
 DTEND;TZID=Europe/Paris:20260518T183000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:9b8dc48a4c02a55ab0e133e481ac6836@strada-education.fr
 DESCRIPTION:lundi 18 mai ⋅ 17h00 à 18h30\nTitre : Séminaire de correct
  ion n°5\nLieu : Live\nProfesseur : Mathieu Violette
@@ -32,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:18h45 - 19h45\nLive : Note de synthèse\nAtelier n°4
 DTSTART;TZID=Europe/Paris:20260420T184500
 DTEND;TZID=Europe/Paris:20260420T194500
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:32b92bb3273e7fddbc0b67c77fa2c77d@strada-education.fr
 DESCRIPTION:lundi 20 avril ⋅ 18h45 à 19h45\nTitre : Atelier n°4\nLieu 
  : Live\nProfesseur : Mathieu Violette
@@ -42,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:18h45 - 19h45\nLive : Note de synthèse\nAtelier n°5
 DTSTART;TZID=Europe/Paris:20260518T184500
 DTEND;TZID=Europe/Paris:20260518T194500
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:0a4446911d7aa5e6abe01d0f19c795f6@strada-education.fr
 DESCRIPTION:lundi 18 mai ⋅ 18h45 à 19h45\nTitre : Atelier n°5\nLieu : 
  Live\nProfesseur : Mathieu Violette
@@ -52,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:12h30 - 13h00\nLive : Mot de la prépa\nMot de la prépa n°4
 DTSTART;TZID=Europe/Paris:20260519T123000
 DTEND;TZID=Europe/Paris:20260519T130000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:eb83cf453f5dcc322fd8bb3197b30fc9@strada-education.fr
 DESCRIPTION:mardi 19 mai ⋅ 12h30 à 13h00\nTitre : Mot de la prépa n°4
  \nLieu : Live\nProfesseur : Margaux Lionetti
@@ -62,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:12h30 - 13h00\nLive : Mot de la prépa\nMot de la prépa n°5
 DTSTART;TZID=Europe/Paris:20260609T123000
 DTEND;TZID=Europe/Paris:20260609T130000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:dc169d7f9c4e677f36a91d36d40be0e8@strada-education.fr
 DESCRIPTION:mardi 9 juin ⋅ 12h30 à 13h00\nTitre : Mot de la prépa n°5
  \nLieu : Live\nProfesseur : Margaux Lionetti
@@ -73,7 +95,7 @@ SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nApprendre
   efficacement
 DTSTART;TZID=Europe/Paris:20260512T180000
 DTEND;TZID=Europe/Paris:20260512T193000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:bfbf5e2aec20f3d0ce3f5cce99e45bfa@strada-education.fr
 DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
  t\nLieu : Live\nProfesseur : Florian Manicardi
@@ -84,7 +106,7 @@ SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nLecture r
  apide
 DTSTART;TZID=Europe/Paris:20260519T183000
 DTEND;TZID=Europe/Paris:20260519T200000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:23be8ce9758d5c02212ac48e2b149fd0@strada-education.fr
 DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
  : Live\nProfesseur : Florian Manicardi
@@ -95,7 +117,7 @@ SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nSynthéti
  sation efficace
 DTSTART;TZID=Europe/Paris:20260604T183000
 DTEND;TZID=Europe/Paris:20260604T200000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:8ec1f26b74aa6b63775f8404dc97be93@strada-education.fr
 DESCRIPTION:jeudi 4 juin ⋅ 18h30 à 20h00\nTitre : Synthétisation effic
  ace\nLieu : Live\nProfesseur : Florian Manicardi
@@ -106,7 +128,7 @@ SUMMARY:11h00 - 13h00\nLive : Droit des obligations\nSéminaire de correct
  ion n°4
 DTSTART;TZID=Europe/Paris:20260417T110000
 DTEND;TZID=Europe/Paris:20260417T130000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:c3799c2b0c29d3e70815865b48b5653a@strada-education.fr
 DESCRIPTION:vendredi 17 avril ⋅ 11h00 à 13h00\nTitre : Séminaire de co
  rrection n°4\nLieu : Live\nProfesseur : Taklith Boudjelti
@@ -117,7 +139,7 @@ SUMMARY:11h00 - 13h00\nLive : Droit des obligations\nSéminaire de correct
  ion n°5
 DTSTART;TZID=Europe/Paris:20260522T110000
 DTEND;TZID=Europe/Paris:20260522T130000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:60daae33767b872874a23278f94bb164@strada-education.fr
 DESCRIPTION:vendredi 22 mai ⋅ 11h00 à 13h00\nTitre : Séminaire de corr
  ection n°5\nLieu : Live\nProfesseur : Taklith Boudjelti
@@ -127,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 10h15\nLive : Droit pénal\nSéminaire de correction n°4
 DTSTART;TZID=Europe/Paris:20260511T090000
 DTEND;TZID=Europe/Paris:20260511T101500
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:1b51805af316ea100bbd03230ebc11c0@strada-education.fr
 DESCRIPTION:lundi 11 mai ⋅ 9h00 à 10h15\nTitre : Séminaire de correcti
  on n°4\nLieu : Live\nProfesseur : Yves Patouillard
@@ -137,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 10h15\nLive : Droit pénal\nSéminaire de correction n°5
 DTSTART;TZID=Europe/Paris:20260605T090000
 DTEND;TZID=Europe/Paris:20260605T101500
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:7f99cc374e4e3606947272591f7789c7@strada-education.fr
 DESCRIPTION:vendredi 5 juin ⋅ 9h00 à 10h15\nTitre : Séminaire de corre
  ction n°5\nLieu : Live\nProfesseur : Yves Patouillard
@@ -148,7 +170,7 @@ SUMMARY:18h00 - 19h00\nLive : Procédure pénale\nSéminaire de correction
   n°4
 DTSTART;TZID=Europe/Paris:20260505T180000
 DTEND;TZID=Europe/Paris:20260505T190000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:5fd81ba83288f11e918a93954cdac228@strada-education.fr
 DESCRIPTION:mardi 5 mai ⋅ 18h00 à 19h00\nTitre : Séminaire de correcti
  on n°4\nLieu : Live\nProfesseur : Jennifer Capitaine
@@ -159,7 +181,7 @@ SUMMARY:18h00 - 19h00\nLive : Procédure pénale\nSéminaire de correction
   n°5
 DTSTART;TZID=Europe/Paris:20260602T180000
 DTEND;TZID=Europe/Paris:20260602T190000
-DTSTAMP:20260423T202534Z
+DTSTAMP:20260424T110618Z
 UID:8a5eaaf2d6f82f58d20844980cf72562@strada-education.fr
 DESCRIPTION:mardi 2 juin ⋅ 18h00 à 19h00\nTitre : Séminaire de correct
  ion n°5\nLieu : Live\nProfesseur : Jennifer Capitaine
