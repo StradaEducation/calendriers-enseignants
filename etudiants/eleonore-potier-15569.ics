@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Eléonore Potier
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nApprendre
+  efficacement
+DTSTART;TZID=Europe/Paris:20260512T180000
+DTEND;TZID=Europe/Paris:20260512T193000
+DTSTAMP:20260519T140643Z
+UID:fea591745b7ea04a228477ab636a6a79@strada-education.fr
+DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
+ t\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nLecture r
+ apide
+DTSTART;TZID=Europe/Paris:20260519T183000
+DTEND;TZID=Europe/Paris:20260519T200000
+DTSTAMP:20260519T140643Z
+UID:775c3e5babdbcc4a076575a9a3e91bac@strada-education.fr
+DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
+ : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nTechnique
+  de mémorisation
+DTSTART;TZID=Europe/Paris:20260604T183000
+DTEND;TZID=Europe/Paris:20260604T200000
+DTSTAMP:20260519T140643Z
+UID:96da4deae31038b83cccce015f91c35b@strada-education.fr
+DESCRIPTION:jeudi 4 juin ⋅ 18h30 à 20h00\nTitre : Technique de mémoris
+ ation\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nSynthéti
+ sation efficace
+DTSTART;TZID=Europe/Paris:20260609T180000
+DTEND;TZID=Europe/Paris:20260609T193000
+DTSTAMP:20260519T140643Z
+UID:d75ed3c51fc4f1fdbcf46fb041360c12@strada-education.fr
+DESCRIPTION:mardi 9 juin ⋅ 18h00 à 19h30\nTitre : Synthétisation effic
+ ace\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR

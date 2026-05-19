@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Lise Bujon
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nApprendre
+  efficacement
+DTSTART;TZID=Europe/Paris:20260512T180000
+DTEND;TZID=Europe/Paris:20260512T193000
+DTSTAMP:20260519T140630Z
+UID:f9bf3ca2a22741c205e4486e75ba911b@strada-education.fr
+DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
+ t\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nLecture r
+ apide
+DTSTART;TZID=Europe/Paris:20260519T183000
+DTEND;TZID=Europe/Paris:20260519T200000
+DTSTAMP:20260519T140630Z
+UID:56c1a84931e32dadff29e1b242eebd99@strada-education.fr
+DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
+ : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nTechnique
+  de mémorisation
+DTSTART;TZID=Europe/Paris:20260604T183000
+DTEND;TZID=Europe/Paris:20260604T200000
+DTSTAMP:20260519T140630Z
+UID:3bbb1a158597855531819df84eb6d7bc@strada-education.fr
+DESCRIPTION:jeudi 4 juin ⋅ 18h30 à 20h00\nTitre : Technique de mémoris
+ ation\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nSynthéti
+ sation efficace
+DTSTART;TZID=Europe/Paris:20260609T180000
+DTEND;TZID=Europe/Paris:20260609T193000
+DTSTAMP:20260519T140630Z
+UID:e51fc5fbb69f50e8ae025880c6dfb93c@strada-education.fr
+DESCRIPTION:mardi 9 juin ⋅ 18h00 à 19h30\nTitre : Synthétisation effic
+ ace\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
