@@ -7,22 +7,11 @@ X-WR-CALNAME:Planning - Estelle NAIGUM
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:22h59 - 23h59\nDevoir \nNote de synthèse - Annuelle 2026 - Sujet 
- n°5 à rendre
-DTSTART;TZID=Europe/Paris:20260518T225900
-DTEND;TZID=Europe/Paris:20260518T235900
-DTSTAMP:20260519T205734Z
-UID:b8b5d689fa5de34dce2b8aaca61075bf@strada-education.fr
-DESCRIPTION:Devoir : Note de synthèse_Annuelle 2026_Sujet 5\nMarque : Obj
- ectif Barreau\nMatiere : Note de synthèse\nNombre d'élèves : 598\nDate 
- de rendu : 18 mai 2026 ⋅ 23h59
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:17h00 - 18h30\nLive : Note de synthèse\nSéminaire de correction 
  n°5
 DTSTART;TZID=Europe/Paris:20260518T170000
 DTEND;TZID=Europe/Paris:20260518T183000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:03b8bdaba2abd35f298cc60a0bab40c1@strada-education.fr
 DESCRIPTION:lundi 18 mai ⋅ 17h00 à 18h30\nTitre : Séminaire de correct
  ion n°5\nLieu : Live\nProfesseur : Mathieu Violette
@@ -32,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:18h45 - 19h45\nLive : Note de synthèse\nAtelier n°5
 DTSTART;TZID=Europe/Paris:20260518T184500
 DTEND;TZID=Europe/Paris:20260518T194500
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:f8d8c2b295d56bdd5a3e8e908b1c0f4a@strada-education.fr
 DESCRIPTION:lundi 18 mai ⋅ 18h45 à 19h45\nTitre : Atelier n°5\nLieu : 
  Live\nProfesseur : Mathieu Violette
@@ -42,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:12h30 - 13h00\nLive : Mot de la prépa\nMot de la prépa n°4
 DTSTART;TZID=Europe/Paris:20260519T123000
 DTEND;TZID=Europe/Paris:20260519T130000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:56d134a2d63ddaa99cbd316a79c231b2@strada-education.fr
 DESCRIPTION:mardi 19 mai ⋅ 12h30 à 13h00\nTitre : Mot de la prépa n°4
  \nLieu : Live\nProfesseur : Margaux Lionetti
@@ -52,21 +41,10 @@ BEGIN:VEVENT
 SUMMARY:12h30 - 13h00\nLive : Mot de la prépa\nMot de la prépa n°5
 DTSTART;TZID=Europe/Paris:20260609T123000
 DTEND;TZID=Europe/Paris:20260609T130000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:0f501bbadf867fa6ce1f0146fd6cf274@strada-education.fr
 DESCRIPTION:mardi 9 juin ⋅ 12h30 à 13h00\nTitre : Mot de la prépa n°5
  \nLieu : Live\nProfesseur : Margaux Lionetti
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nApprendre
-  efficacement
-DTSTART;TZID=Europe/Paris:20260512T180000
-DTEND;TZID=Europe/Paris:20260512T193000
-DTSTAMP:20260519T205734Z
-UID:460dfdc8b0cf644b5167458bc237553e@strada-education.fr
-DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
- t\nLieu : Live\nProfesseur : Florian Manicardi
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
@@ -74,7 +52,7 @@ SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail\nLecture r
  apide
 DTSTART;TZID=Europe/Paris:20260519T183000
 DTEND;TZID=Europe/Paris:20260519T200000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:3f82468ac11d67d07db28da05bdd11c8@strada-education.fr
 DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
  : Live\nProfesseur : Florian Manicardi
@@ -85,7 +63,7 @@ SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail\nSynthéti
  sation efficace
 DTSTART;TZID=Europe/Paris:20260609T180000
 DTEND;TZID=Europe/Paris:20260609T193000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:b1ee5bdb283be46e8b86593e01c7076c@strada-education.fr
 DESCRIPTION:mardi 9 juin ⋅ 18h00 à 19h30\nTitre : Synthétisation effic
  ace\nLieu : Live\nProfesseur : Florian Manicardi
@@ -95,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h45\nLive : Mot de la prépa\nMot de la prépa n°3
 DTSTART;TZID=Europe/Paris:20260715T120000
 DTEND;TZID=Europe/Paris:20260715T124500
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:043c364bc18deb48f95f06d08d975529@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 12h00 à 12h45\nTitre : Mot de la pré
  pa n°3\nLieu : Live\nProfesseur : Capucine Toset
@@ -105,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa\nMot de la prépa n°4
 DTSTART;TZID=Europe/Paris:20260722T120000
 DTEND;TZID=Europe/Paris:20260722T123000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:a56e9303b300c6c9638b036437b73734@strada-education.fr
 DESCRIPTION:mercredi 22 juillet ⋅ 12h00 à 12h30\nTitre : Mot de la pré
  pa n°4\nLieu : Live\nProfesseur : Capucine Toset
@@ -115,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa\nMot de la prépa n°5
 DTSTART;TZID=Europe/Paris:20260729T120000
 DTEND;TZID=Europe/Paris:20260729T123000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:abe8b99d4e85280d890c3b78a2484dd9@strada-education.fr
 DESCRIPTION:mercredi 29 juillet ⋅ 12h00 à 12h30\nTitre : Mot de la pré
  pa n°5\nLieu : Live\nProfesseur : Capucine Toset
@@ -125,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa\nMot de la prépa n°6
 DTSTART;TZID=Europe/Paris:20260804T120000
 DTEND;TZID=Europe/Paris:20260804T123000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:ad5ba46a4376b4f8e7068bbcaf697122@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n°
  6\nLieu : Live\nProfesseur : Capucine Toset
@@ -135,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa\nMot de la prépa n°7
 DTSTART;TZID=Europe/Paris:20260810T120000
 DTEND;TZID=Europe/Paris:20260810T123000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:bc56029b7da2caa4a8dd9f7013704411@strada-education.fr
 DESCRIPTION:lundi 10 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °7\nLieu : Live\nProfesseur : Capucine Toset
@@ -145,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa\nMot de la prépa n°8
 DTSTART;TZID=Europe/Paris:20260819T120000
 DTEND;TZID=Europe/Paris:20260819T123000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:e66e9fe1a497f8fabacedc8c32b482d5@strada-education.fr
 DESCRIPTION:mercredi 19 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa
   n°8\nLieu : Live\nProfesseur : Capucine Toset
@@ -155,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa\nMot de la prépa n°9
 DTSTART;TZID=Europe/Paris:20260827T120000
 DTEND;TZID=Europe/Paris:20260827T123000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:660168a7e1bf8b998152464062316c9c@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °9\nLieu : Live\nProfesseur : Capucine Toset
@@ -166,7 +144,7 @@ SUMMARY:11h00 - 13h00\nLive : Droit des obligations\nSéminaire de correct
  ion n°5
 DTSTART;TZID=Europe/Paris:20260522T110000
 DTEND;TZID=Europe/Paris:20260522T130000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:a6fe3a93f4339a88bfce97ded31c09b3@strada-education.fr
 DESCRIPTION:vendredi 22 mai ⋅ 11h00 à 13h00\nTitre : Séminaire de corr
  ection n°5\nLieu : Live\nProfesseur : Taklith Boudjelti
@@ -176,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:17h00 - 18h15\nLive : Droit civil\nSéminaire de correction n°5
 DTSTART;TZID=Europe/Paris:20260602T170000
 DTEND;TZID=Europe/Paris:20260602T181500
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:24ce200b8e1ff371fee5ab0f95179c25@strada-education.fr
 DESCRIPTION:mardi 2 juin ⋅ 17h00 à 18h15\nTitre : Séminaire de correct
  ion n°5\nLieu : Live\nProfesseur : Benoît Chaffois
@@ -187,7 +165,7 @@ SUMMARY:16h00 - 18h00\nLive : Procédure civile\nSéminaire de correction
  n°5
 DTSTART;TZID=Europe/Paris:20260604T160000
 DTEND;TZID=Europe/Paris:20260604T180000
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:ec986f1a84df3f2d9912a6393f58aaec@strada-education.fr
 DESCRIPTION:jeudi 4 juin ⋅ 16h00 à 18h00\nTitre : Séminaire de correct
  ion n°5\nLieu : Live\nProfesseur : Jean-Dominique Voisin
@@ -197,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h45\nLive : Mot de la prépa\nMot de la prépa n°1
 DTSTART;TZID=Europe/Paris:20260630T120000
 DTEND;TZID=Europe/Paris:20260630T124500
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:08bef7eddabd7ddfd9aec79a274aa829@strada-education.fr
 DESCRIPTION:mardi 30 juin ⋅ 12h00 à 12h45\nTitre : Mot de la prépa n°
  1\nLieu : Live\nProfesseur : Capucine Toset
@@ -207,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h45\nLive : Mot de la prépa\nMot de la prépa n°2
 DTSTART;TZID=Europe/Paris:20260708T120000
 DTEND;TZID=Europe/Paris:20260708T124500
-DTSTAMP:20260519T205734Z
+DTSTAMP:20260520T103734Z
 UID:0d24a9b3d34943951c042e5704f45fd2@strada-education.fr
 DESCRIPTION:mercredi 8 juillet ⋅ 12h00 à 12h45\nTitre : Mot de la prép
  a n°2\nLieu : Live\nProfesseur : Capucine Toset
