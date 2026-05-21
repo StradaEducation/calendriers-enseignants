@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - rashindi Adikarigethamel
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:11h00 - 12h00\nLive : Introduction au droit international public\n
+ Live Q&A
+DTSTART;TZID=Europe/Paris:20260518T110000
+DTEND;TZID=Europe/Paris:20260518T120000
+DTSTAMP:20260521T194033Z
+UID:5fbb57ea98dd73e64bc7989986830beb@strada-education.fr
+DESCRIPTION:lundi 18 mai ⋅ 11h00 à 12h00\nTitre : Live Q&A\nLieu : Live
+ \nProfesseur : Eva Philippe
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
