@@ -7,11 +7,65 @@ X-WR-CALNAME:Planning - Anthéôm Ho-A-Chuck Piednoir
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Note de synthèse - Kit de lancement 2026 - 
+ Sujet A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134345Z
+UID:b07b03f2be0e1927da3a7c9e8ca24a7f@strada-education.fr
+DESCRIPTION:Devoir : Note de synthèse_Kit de lancement 2026_Sujet A\nMarq
+ ue : Objectif Barreau\nMatiere : Note de synthèse\nNombre d'élèves : 11
+ 43\nDate de rendu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Droit des obligations- Kit de lancement 2026
+  - Sujet A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134345Z
+UID:71fa1e0c2e08657f5ac5d985e2071173@strada-education.fr
+DESCRIPTION:Devoir : Droit des obligations_Kit de lancement 2026_Sujet A\n
+ Marque : Objectif Barreau\nMatiere : Droit des obligations\nNombre d'élè
+ ves : 1142\nDate de rendu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Droit pénal - Kit de lancement 2026 - Sujet
+  A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134345Z
+UID:f1da8ca7767bdf5227b676db9d1daf32@strada-education.fr
+DESCRIPTION:Devoir : Droit pénal_Kit de lancement 2026_Sujet A\nMarque : 
+ Objectif Barreau\nMatiere : Droit pénal\nNombre d'élèves : 343\nDate de
+  rendu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Procédure pénale - Kit de lancement 2026 -
+  Sujet A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134345Z
+UID:0079980637a1a2c5d7ffa04188bb595e@strada-education.fr
+DESCRIPTION:Devoir : Procédure pénale_Kit de lancement 2026_Sujet A\nMar
+ que : Objectif Barreau\nMatiere : Procédure pénale\nNombre d'élèves : 
+ 345\nDate de rendu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail
+DTSTART;TZID=Europe/Paris:20260512T180000
+DTEND;TZID=Europe/Paris:20260512T193000
+DTSTAMP:20260522T134345Z
+UID:c7fbd97df5e849b243a49eb7e9094599@strada-education.fr
+DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
+ t\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail
 DTSTART;TZID=Europe/Paris:20260519T183000
 DTEND;TZID=Europe/Paris:20260519T200000
-DTSTAMP:20260522T091411Z
-UID:c64628fec86f05163e92627c64c58020@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:d0f9696ed8814ea2bcce99ee79313e94@strada-education.fr
 DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
  : Live\nProfesseur : Florian Manicardi
 LOCATION:Live (en ligne)
@@ -20,8 +74,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail
 DTSTART;TZID=Europe/Paris:20260604T183000
 DTEND;TZID=Europe/Paris:20260604T200000
-DTSTAMP:20260522T091411Z
-UID:ea76cffcc2149647848e711bed3328ec@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:6dfa817a0f8879d395315f77464bad0d@strada-education.fr
 DESCRIPTION:jeudi 4 juin ⋅ 18h30 à 20h00\nTitre : Technique de mémoris
  ation\nLieu : Live\nProfesseur : Florian Manicardi
 LOCATION:Live (en ligne)
@@ -30,18 +84,28 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail
 DTSTART;TZID=Europe/Paris:20260609T180000
 DTEND;TZID=Europe/Paris:20260609T193000
-DTSTAMP:20260522T091411Z
-UID:d85cdd309b20a277a566d349dd41c7d5@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:1b91072e19e71ee6b9200e3e0d230c93@strada-education.fr
 DESCRIPTION:mardi 9 juin ⋅ 18h00 à 19h30\nTitre : Synthétisation effic
  ace\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h00\nLive : Séance inaugurale
+DTSTART;TZID=Europe/Paris:20260422T180000
+DTEND;TZID=Europe/Paris:20260422T190000
+DTSTAMP:20260522T134345Z
+UID:cdbef32538fb8d14fd2808a7d690f40c@strada-education.fr
+DESCRIPTION:mercredi 22 avril ⋅ 18h00 à 19h00\nTitre : Conférence inau
+ gurale\nLieu : Live\nProfesseur : Claire Onillon
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:12h45 - 14h00\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260626T124500
 DTEND;TZID=Europe/Paris:20260626T140000
-DTSTAMP:20260522T091411Z
-UID:de097cdf7b6dce80aa728a549a82ddb7@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:446acfd391c213f90f26a7a585b09fba@strada-education.fr
 DESCRIPTION:vendredi 26 juin ⋅ 12h45 à 14h00\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -51,8 +115,8 @@ BEGIN:VEVENT
 SUMMARY:12h15 - 13h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260629T121500
 DTEND;TZID=Europe/Paris:20260629T133000
-DTSTAMP:20260522T091411Z
-UID:04def19063293960c05c13d396820c7f@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:1ee057efcf38602e3eaaefda029f9f60@strada-education.fr
 DESCRIPTION:lundi 29 juin ⋅ 12h15 à 13h30\nTitre : Permanence pédagogi
  que\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Pédago
  gique
@@ -62,8 +126,8 @@ BEGIN:VEVENT
 SUMMARY:12h15 - 13h00\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260702T121500
 DTEND;TZID=Europe/Paris:20260702T130000
-DTSTAMP:20260522T091411Z
-UID:d4608ed65a7d35f2f3f3bfe293bf5835@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:e5ac5c1050cdc27f57987ff6adea0dae@strada-education.fr
 DESCRIPTION:jeudi 2 juillet ⋅ 12h15 à 13h00\nTitre : Permanence pédago
  gique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péda
  gogique
@@ -73,8 +137,8 @@ BEGIN:VEVENT
 SUMMARY:12h15 - 13h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260707T121500
 DTEND;TZID=Europe/Paris:20260707T133000
-DTSTAMP:20260522T091411Z
-UID:4027dda07f75d7a7eb1ec5b4bcd1485e@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:ed3c4b8068ddfae17386466d94325fc7@strada-education.fr
 DESCRIPTION:mardi 7 juillet ⋅ 12h15 à 13h30\nTitre : Permanence pédago
  gique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péda
  gogique
@@ -84,8 +148,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 14h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260709T133000
 DTEND;TZID=Europe/Paris:20260709T143000
-DTSTAMP:20260522T091411Z
-UID:904aded0d5d2aeb2e46c74ccfda265d9@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:1dc07fbac8edfa7273a8dc0e5b2e30e6@strada-education.fr
 DESCRIPTION:jeudi 9 juillet ⋅ 13h30 à 14h30\nTitre : Permanence pédago
  gique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péda
  gogique
@@ -95,8 +159,8 @@ BEGIN:VEVENT
 SUMMARY:12h15 - 13h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260713T121500
 DTEND;TZID=Europe/Paris:20260713T133000
-DTSTAMP:20260522T091411Z
-UID:d03bce21dfdce4b359189d2016036f2b@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:6fedc7c3c33cba57cd90bb04079a5256@strada-education.fr
 DESCRIPTION:lundi 13 juillet ⋅ 12h15 à 13h30\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -106,8 +170,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 14h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260716T133000
 DTEND;TZID=Europe/Paris:20260716T143000
-DTSTAMP:20260522T091411Z
-UID:04b1dced8956c20026dbc6f75c7f7928@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:ab230514a834c1e2c8b4055356c031db@strada-education.fr
 DESCRIPTION:jeudi 16 juillet ⋅ 13h30 à 14h30\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -117,8 +181,8 @@ BEGIN:VEVENT
 SUMMARY:12h15 - 13h15\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260721T121500
 DTEND;TZID=Europe/Paris:20260721T131500
-DTSTAMP:20260522T091411Z
-UID:d123f2e2e0d3041039b45511bfa76783@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:8c8cc14b6c11c46a00b9d7b0e076418f@strada-education.fr
 DESCRIPTION:mardi 21 juillet ⋅ 12h15 à 13h15\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -128,8 +192,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 14h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260723T133000
 DTEND;TZID=Europe/Paris:20260723T143000
-DTSTAMP:20260522T091411Z
-UID:7375234bbd918456159726b8d20d2cc2@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:e8efcb5f3538cf1efddf9711432ec0cb@strada-education.fr
 DESCRIPTION:jeudi 23 juillet ⋅ 13h30 à 14h30\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -139,8 +203,8 @@ BEGIN:VEVENT
 SUMMARY:12h15 - 13h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260727T121500
 DTEND;TZID=Europe/Paris:20260727T133000
-DTSTAMP:20260522T091411Z
-UID:42a552bae37294da8d4dfaaf713e24fb@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:6e1755026d98374950f069eedc3af8ff@strada-education.fr
 DESCRIPTION:lundi 27 juillet ⋅ 12h15 à 13h30\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -150,8 +214,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 14h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260730T133000
 DTEND;TZID=Europe/Paris:20260730T143000
-DTSTAMP:20260522T091411Z
-UID:bb1dd663914732aacf1d7e5907c72d27@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:594130e51f028b6c1463757e223119d2@strada-education.fr
 DESCRIPTION:jeudi 30 juillet ⋅ 13h30 à 14h30\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -161,8 +225,8 @@ BEGIN:VEVENT
 SUMMARY:12h15 - 13h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260803T121500
 DTEND;TZID=Europe/Paris:20260803T133000
-DTSTAMP:20260522T091411Z
-UID:dde3cbe995f7c540d6b62dae97afd25d@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:77749b5004145124149463a77b8505c8@strada-education.fr
 DESCRIPTION:lundi 3 août ⋅ 12h15 à 13h30\nTitre : Permanence pédagogi
  que\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Pédago
  gique
@@ -172,8 +236,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 13h15\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260805T120000
 DTEND;TZID=Europe/Paris:20260805T131500
-DTSTAMP:20260522T091411Z
-UID:1bee479f8908c674c650a1bd5bdd0c7c@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:3cde819f821ee7d673e45fcd77bd4aeb@strada-education.fr
 DESCRIPTION:mercredi 5 août ⋅ 12h00 à 13h15\nTitre : Permanence pédag
  ogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péd
  agogique
@@ -183,8 +247,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 13h00\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260812T120000
 DTEND;TZID=Europe/Paris:20260812T130000
-DTSTAMP:20260522T091411Z
-UID:9d77ab64998853f7da1c67bad7e3ca98@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:211510aaf443991e88998b4407010c07@strada-education.fr
 DESCRIPTION:mercredi 12 août ⋅ 12h00 à 13h00\nTitre : Permanence péda
  gogique\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Pé
  dagogique
@@ -194,8 +258,8 @@ BEGIN:VEVENT
 SUMMARY:15h30 - 16h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260703T153000
 DTEND;TZID=Europe/Paris:20260703T163000
-DTSTAMP:20260522T091411Z
-UID:ab15905f00c48b6aa86b6e2edfa2f44b@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:4f27fcb813372023a0c6afa4a07a3705@strada-education.fr
 DESCRIPTION:vendredi 3 juillet ⋅ 15h30 à 16h30\nTitre : Goûter\nLieu :
   4 avenue observatoire 75006 Paris\nProfesseur : Equipe Pédagogique
 LOCATION:4 avenue observatoire 75006 Paris
@@ -204,8 +268,8 @@ BEGIN:VEVENT
 SUMMARY:15h30 - 16h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260717T153000
 DTEND;TZID=Europe/Paris:20260717T163000
-DTSTAMP:20260522T091411Z
-UID:29dc0850ca2325fb7231f6f19b7ca0c1@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:d37328357ae776f08a140059031735a6@strada-education.fr
 DESCRIPTION:vendredi 17 juillet ⋅ 15h30 à 16h30\nTitre : Goûter\nLieu 
  : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Pédagogique
 LOCATION:4 avenue observatoire 75006 Paris
@@ -214,8 +278,8 @@ BEGIN:VEVENT
 SUMMARY:15h30 - 16h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260731T153000
 DTEND;TZID=Europe/Paris:20260731T163000
-DTSTAMP:20260522T091411Z
-UID:d8fa21d9890334eb91b1331fd26b326a@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:35252677c76e740dabe24e8a8b8c4fe8@strada-education.fr
 DESCRIPTION:vendredi 31 juillet ⋅ 15h30 à 16h30\nTitre : Goûter\nLieu 
  : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Pédagogique
 LOCATION:4 avenue observatoire 75006 Paris
@@ -224,8 +288,8 @@ BEGIN:VEVENT
 SUMMARY:15h30 - 16h30\nCours en présentiel : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260814T153000
 DTEND;TZID=Europe/Paris:20260814T163000
-DTSTAMP:20260522T091411Z
-UID:078810d6a83aae15981800f5143205c8@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:1f78da2e2445792087b561a6fc79171d@strada-education.fr
 DESCRIPTION:vendredi 14 août ⋅ 15h30 à 16h30\nTitre : Goûter\nLieu : 
  4 avenue observatoire 75006 Paris\nProfesseur : Equipe Pédagogique
 LOCATION:4 avenue observatoire 75006 Paris
@@ -234,8 +298,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260819T120000
 DTEND;TZID=Europe/Paris:20260819T123000
-DTSTAMP:20260522T091411Z
-UID:3edc3c711eadfa012b3677b7f2268b26@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:83387577b5c38f28eb948a3ac3cc5987@strada-education.fr
 DESCRIPTION:mercredi 19 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa
   n°8\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -244,8 +308,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260827T120000
 DTEND;TZID=Europe/Paris:20260827T123000
-DTSTAMP:20260522T091411Z
-UID:a162fc97510fcaf2007f0fd604c72102@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:e1daa3e297a176ea66e5dfbdd42d4658@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °9\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -254,8 +318,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nCours en présentiel : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260706T173000
 DTEND;TZID=Europe/Paris:20260706T193000
-DTSTAMP:20260522T091411Z
-UID:38b29f7d96338100822db1a5a75f0b1f@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:f2f14327ec05b17e6cf0914debab0a26@strada-education.fr
 DESCRIPTION:lundi 6 juillet ⋅ 17h30 à 19h30\nTitre : Séminaire de corr
  ection n°1\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Mathie
  u Violette
@@ -265,8 +329,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nCours en présentiel : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260713T173000
 DTEND;TZID=Europe/Paris:20260713T193000
-DTSTAMP:20260522T091411Z
-UID:63a15d4efe9658160e63855fcbeca659@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:857714db8d20512d8fea44eda9c4afa7@strada-education.fr
 DESCRIPTION:lundi 13 juillet ⋅ 17h30 à 19h30\nTitre : Séminaire de cor
  rection n°2\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Mathi
  eu Violette
@@ -276,8 +340,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nCours en présentiel : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260720T173000
 DTEND;TZID=Europe/Paris:20260720T193000
-DTSTAMP:20260522T091411Z
-UID:5292938350be424dc79f59783c79ab7f@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:dc82617c5f2d6a80ef5a2f59f6be68a2@strada-education.fr
 DESCRIPTION:lundi 20 juillet ⋅ 17h30 à 19h30\nTitre : Séminaire de cor
  rection n°3\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Mathi
  eu Violette
@@ -287,8 +351,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nCours en présentiel : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260727T173000
 DTEND;TZID=Europe/Paris:20260727T193000
-DTSTAMP:20260522T091411Z
-UID:6e42c66cb4e3314bfc170d237d5263c1@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:e13df0d1a19bcc8d81a705babd8a50a6@strada-education.fr
 DESCRIPTION:lundi 27 juillet ⋅ 17h30 à 19h30\nTitre : Séminaire de cor
  rection n°4\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Mathi
  eu Violette
@@ -298,8 +362,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nCours en présentiel : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260803T173000
 DTEND;TZID=Europe/Paris:20260803T193000
-DTSTAMP:20260522T091411Z
-UID:7752b9e6d05ade4dec171d872cf43868@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:e23a4f783cd9c72658cab15ed6289d9e@strada-education.fr
 DESCRIPTION:lundi 3 août ⋅ 17h30 à 19h30\nTitre : Séminaire de correc
  tion n°5\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Mathieu 
  Violette
@@ -309,8 +373,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nCours en présentiel : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260810T100000
 DTEND;TZID=Europe/Paris:20260810T120000
-DTSTAMP:20260522T091411Z
-UID:ce238dd62022019db15cb4264a9585e8@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:e6761696cd591199ac8277f65f910afd@strada-education.fr
 DESCRIPTION:lundi 10 août ⋅ 10h00 à 12h00\nTitre : Séminaire de corre
  ction n°6\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Mathieu
   Violette
@@ -320,8 +384,8 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 12h45\nCours en présentiel : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260626T111500
 DTEND;TZID=Europe/Paris:20260626T124500
-DTSTAMP:20260522T091411Z
-UID:607cd8a8cfbf4c4b32b5241bce7873c5@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:05f495890695624ea34f06071c4c97a5@strada-education.fr
 DESCRIPTION:vendredi 26 juin ⋅ 11h15 à 12h45\nTitre : Atelier\nLieu : 4
   avenue observatoire 75006 Paris\nProfesseur : Mathieu Violette
 LOCATION:4 avenue observatoire 75006 Paris
@@ -330,8 +394,8 @@ BEGIN:VEVENT
 SUMMARY:14h45 - 15h45\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260826T144500
 DTEND;TZID=Europe/Paris:20260826T154500
-DTSTAMP:20260522T091411Z
-UID:55bfa911f39f2921f5dbdfb129213801@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:fcb9eb7bd73b04132b0bf3169afa1d4a@strada-education.fr
 DESCRIPTION:mercredi 26 août ⋅ 14h45 à 15h45\nTitre : Live derniers co
  nseils\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -340,8 +404,8 @@ BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260819T160000
 DTEND;TZID=Europe/Paris:20260819T180000
-DTSTAMP:20260522T091411Z
-UID:f1cbc569e3e8c839324b0e4dabe2cc18@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:de97ae73f3aa86d0ba4f7c3c79465674@strada-education.fr
 DESCRIPTION:mercredi 19 août ⋅ 16h00 à 18h00\nTitre : Séminaire de co
  rrection n°7\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -350,8 +414,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 11h00\nCours en présentiel : Séance inaugurale
 DTSTART;TZID=Europe/Paris:20260626T100000
 DTEND;TZID=Europe/Paris:20260626T110000
-DTSTAMP:20260522T091411Z
-UID:0eaf3df34854c56ebb4c1f06d26f123b@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:7f1271c14b7a59fccb3de22414617d25@strada-education.fr
 DESCRIPTION:vendredi 26 juin ⋅ 10h00 à 11h00\nTitre : Conférence inaug
  urale\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Equipe Péda
  gogique
@@ -361,8 +425,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260626T173000
 DTEND;TZID=Europe/Paris:20260626T193000
-DTSTAMP:20260522T091411Z
-UID:07aa08b80633a2bf4c0bc50c944ca4b4@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:5e6f814e0c0c150c147faf5d007a9d63@strada-education.fr
 DESCRIPTION:vendredi 26 juin ⋅ 17h30 à 19h30\nTitre : Méthodologie\nLi
  eu : 4 avenue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -371,8 +435,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260629T090000
 DTEND;TZID=Europe/Paris:20260629T121500
-DTSTAMP:20260522T091411Z
-UID:87951dd7042a49628b29f682cb33718a@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:5577d4891c2624009c3c19df4dad4293@strada-education.fr
 DESCRIPTION:lundi 29 juin ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 avenu
  e observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -381,8 +445,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260701T090000
 DTEND;TZID=Europe/Paris:20260701T121500
-DTSTAMP:20260522T091411Z
-UID:224460e499dec30375c8e15086d48076@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:0fbd2f59fcf1f41e3864aa99c04808bb@strada-education.fr
 DESCRIPTION:mercredi 1 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 
  avenue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -391,8 +455,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260707T090000
 DTEND;TZID=Europe/Paris:20260707T121500
-DTSTAMP:20260522T091411Z
-UID:6732018db9541fed7aff32c371ad5f10@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:e58a957d60e4cdb2c610606918b1ed17@strada-education.fr
 DESCRIPTION:mardi 7 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 ave
  nue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -401,8 +465,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260708T090000
 DTEND;TZID=Europe/Paris:20260708T121500
-DTSTAMP:20260522T091411Z
-UID:8c2e893dc7552f596737ccdaf453ebc9@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:c8731e949062a25f1b56fdcb09bb01df@strada-education.fr
 DESCRIPTION:mercredi 8 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 
  avenue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -411,8 +475,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260713T090000
 DTEND;TZID=Europe/Paris:20260713T121500
-DTSTAMP:20260522T091411Z
-UID:576c42c6d1b9ff8f8f5ae4e4ae378943@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:721c61070e4571f30fd8de15168376d9@strada-education.fr
 DESCRIPTION:lundi 13 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 av
  enue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -421,8 +485,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260715T090000
 DTEND;TZID=Europe/Paris:20260715T121500
-DTSTAMP:20260522T091411Z
-UID:24a62d2cab0144c72490fe919dca6e87@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:0800007ea3573cd88be035fdb319107b@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4
   avenue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -431,8 +495,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260720T090000
 DTEND;TZID=Europe/Paris:20260720T121500
-DTSTAMP:20260522T091411Z
-UID:d99ffe1cc87ced77e3f1200bc865544f@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:6967fc782cb3985eb798ea9f53746740@strada-education.fr
 DESCRIPTION:lundi 20 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 av
  enue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -441,8 +505,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260722T090000
 DTEND;TZID=Europe/Paris:20260722T121500
-DTSTAMP:20260522T091411Z
-UID:8ffa72b7dbd1ea2168786dd0d2f5802b@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:31d251c113efb64481d20a741bb56a01@strada-education.fr
 DESCRIPTION:mercredi 22 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4
   avenue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -451,8 +515,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260727T090000
 DTEND;TZID=Europe/Paris:20260727T121500
-DTSTAMP:20260522T091411Z
-UID:a1bc46d3384eb9e952ba5396fb6929a2@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:b601dba19146fdadfba9aa54644a9b13@strada-education.fr
 DESCRIPTION:lundi 27 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 av
  enue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -461,8 +525,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260729T090000
 DTEND;TZID=Europe/Paris:20260729T121500
-DTSTAMP:20260522T091411Z
-UID:80ddef37db530b9c87c7497b7f384e00@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:8cdd443e14eae55f30bf427410884973@strada-education.fr
 DESCRIPTION:mercredi 29 juillet ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4
   avenue observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -471,8 +535,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260803T090000
 DTEND;TZID=Europe/Paris:20260803T121500
-DTSTAMP:20260522T091411Z
-UID:bc5b9f8620e48ec77cf18ebe28c08747@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:004e8e0e4033f14b119e48f076ed6f5d@strada-education.fr
 DESCRIPTION:lundi 3 août ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 avenu
  e observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -481,8 +545,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 12h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260804T090000
 DTEND;TZID=Europe/Paris:20260804T121500
-DTSTAMP:20260522T091411Z
-UID:1e0f49aa8763226689121d2221780f0a@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:d93f9f283c809cbaa31d907165403a25@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 9h00 à 12h15\nTitre : Cours\nLieu : 4 avenu
  e observatoire 75006 Paris\nProfesseur : Taklith Boudjelti
 LOCATION:4 avenue observatoire 75006 Paris
@@ -491,8 +555,8 @@ BEGIN:VEVENT
 SUMMARY:15h00 - 17h00\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260709T150000
 DTEND;TZID=Europe/Paris:20260709T170000
-DTSTAMP:20260522T091411Z
-UID:3566415210f350f82fa31e70854330c7@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:9757eae8c229fea232736aae3219dbf8@strada-education.fr
 DESCRIPTION:jeudi 9 juillet ⋅ 15h00 à 17h00\nTitre : Séminaire de corr
  ection n°1\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Taklit
  h Boudjelti
@@ -502,8 +566,8 @@ BEGIN:VEVENT
 SUMMARY:15h00 - 17h00\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260716T150000
 DTEND;TZID=Europe/Paris:20260716T170000
-DTSTAMP:20260522T091411Z
-UID:b2aeff4bd9ddce25d44a12944c444edb@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:2d88140d474c81976c33dc8a828759b9@strada-education.fr
 DESCRIPTION:jeudi 16 juillet ⋅ 15h00 à 17h00\nTitre : Séminaire de cor
  rection n°2\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Takli
  th Boudjelti
@@ -513,8 +577,8 @@ BEGIN:VEVENT
 SUMMARY:15h00 - 17h00\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260723T150000
 DTEND;TZID=Europe/Paris:20260723T170000
-DTSTAMP:20260522T091411Z
-UID:37a6449d4b7472aa3167697b303b031d@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:76bf95d629843a61e9dda3841fe901cb@strada-education.fr
 DESCRIPTION:jeudi 23 juillet ⋅ 15h00 à 17h00\nTitre : Séminaire de cor
  rection n°3\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Takli
  th Boudjelti
@@ -524,8 +588,8 @@ BEGIN:VEVENT
 SUMMARY:15h00 - 17h00\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260730T150000
 DTEND;TZID=Europe/Paris:20260730T170000
-DTSTAMP:20260522T091411Z
-UID:29e71b8b4a3a3812426767ded71262b0@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:8f7873b03d7e463a523a3089e90e6c45@strada-education.fr
 DESCRIPTION:jeudi 30 juillet ⋅ 15h00 à 17h00\nTitre : Séminaire de cor
  rection n°4\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Takli
  th Boudjelti
@@ -535,8 +599,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260805T100000
 DTEND;TZID=Europe/Paris:20260805T120000
-DTSTAMP:20260522T091411Z
-UID:6cad18ee43e5d06136860037c5ba0b3c@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:9b3a6b1dd3980136abe98006abac6aac@strada-education.fr
 DESCRIPTION:mercredi 5 août ⋅ 10h00 à 12h00\nTitre : Séminaire de cor
  rection n°5\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Takli
  th Boudjelti
@@ -546,8 +610,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260812T100000
 DTEND;TZID=Europe/Paris:20260812T120000
-DTSTAMP:20260522T091411Z
-UID:6b0403a13228e755bd07c43f73142889@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:0365c5c1557f974bb9fa260897d698af@strada-education.fr
 DESCRIPTION:mercredi 12 août ⋅ 10h00 à 12h00\nTitre : Séminaire de co
  rrection n°6\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Fran
  ck Goncalves
@@ -557,8 +621,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260821T140000
 DTEND;TZID=Europe/Paris:20260821T160000
-DTSTAMP:20260522T091411Z
-UID:533e89c70c4ecdd688532576132ed422@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:5dcbb1ff7a3297fd8885b5a702f64ddd@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 14h00 à 16h00\nTitre : Séminaire de co
  rrection n°7\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -567,8 +631,8 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 17h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260821T161500
 DTEND;TZID=Europe/Paris:20260821T171500
-DTSTAMP:20260522T091411Z
-UID:83f28d14d1c6936b36640770f22fe0b8@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:4150447f9e57269b7fec3f94ca46277c@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 16h15 à 17h15\nTitre : Live Q&A n°7\nL
  ieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -577,8 +641,8 @@ BEGIN:VEVENT
 SUMMARY:10h30 - 12h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260828T103000
 DTEND;TZID=Europe/Paris:20260828T123000
-DTSTAMP:20260522T091411Z
-UID:3202c554fd683ab92cc5f6cd20a6a004@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:2c2e3b0cfffaa9c391980937170a6526@strada-education.fr
 DESCRIPTION:vendredi 28 août ⋅ 10h30 à 12h30\nTitre : Live derniers co
  nseils\nLieu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -587,8 +651,8 @@ BEGIN:VEVENT
 SUMMARY:16h45 - 18h45\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260708T164500
 DTEND;TZID=Europe/Paris:20260708T184500
-DTSTAMP:20260522T091411Z
-UID:10e88cb4bbf7b57965ac6b7d174e6b20@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:47d3cf90507bc8a42a15b1e27fd66c31@strada-education.fr
 DESCRIPTION:mercredi 8 juillet ⋅ 16h45 à 18h45\nTitre : Séminaire de c
  orrection n°1\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -597,8 +661,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260715T183000
 DTEND;TZID=Europe/Paris:20260715T203000
-DTSTAMP:20260522T091411Z
-UID:c93ca1ecbd24972d9eb63a3a48f93581@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:00a77029f3d4dc09d168fd0d1e16d287@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 18h30 à 20h30\nTitre : Séminaire de 
  correction n°2\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -607,8 +671,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260722T173000
 DTEND;TZID=Europe/Paris:20260722T193000
-DTSTAMP:20260522T091411Z
-UID:a8dcd3318102be08341710c013207534@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:48daae444fd6bb26f719dd048a6b1386@strada-education.fr
 DESCRIPTION:mercredi 22 juillet ⋅ 17h30 à 19h30\nTitre : Séminaire de 
  correction n°3\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -617,8 +681,8 @@ BEGIN:VEVENT
 SUMMARY:17h30 - 19h30\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260729T173000
 DTEND;TZID=Europe/Paris:20260729T193000
-DTSTAMP:20260522T091411Z
-UID:9cd9e9edbe47e6ff39a66005d1780231@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:d906c2807a6fb74e19dbfdc65bf53008@strada-education.fr
 DESCRIPTION:mercredi 29 juillet ⋅ 17h30 à 19h30\nTitre : Séminaire de 
  correction n°4\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -627,8 +691,8 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h30\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260804T163000
 DTEND;TZID=Europe/Paris:20260804T183000
-DTSTAMP:20260522T091411Z
-UID:5c494430485733a98453b23926b73bf8@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:b38e3efbf1d42f28e93cff706b8bca77@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 16h30 à 18h30\nTitre : Séminaire de correc
  tion n°5\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -637,8 +701,8 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h30\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260811T163000
 DTEND;TZID=Europe/Paris:20260811T183000
-DTSTAMP:20260522T091411Z
-UID:f434fe28ccb7be5f0cfc1f26c8a3166a@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:ab4c1a01ceedd13530fbc8f8ebbcb453@strada-education.fr
 DESCRIPTION:mardi 11 août ⋅ 16h30 à 18h30\nTitre : Séminaire de corre
  ction n°6\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -647,8 +711,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260820T090000
 DTEND;TZID=Europe/Paris:20260820T110000
-DTSTAMP:20260522T091411Z
-UID:4d7b19faa27e1eb1da2d3b043f3c107d@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:a77841946c301cafa2e7951ab935bd0a@strada-education.fr
 DESCRIPTION:jeudi 20 août ⋅ 9h00 à 11h00\nTitre : Séminaire de correc
  tion n°7\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -657,8 +721,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260827T090000
 DTEND;TZID=Europe/Paris:20260827T110000
-DTSTAMP:20260522T091411Z
-UID:49c3c5e171fb33b97d5e45a80931577c@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:b5eadd82393b7cb497d24da3c3ddbf3b@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 9h00 à 11h00\nTitre : Live derniers consei
  ls\nLieu : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -667,8 +731,8 @@ BEGIN:VEVENT
 SUMMARY:18h45 - 19h15\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260804T184500
 DTEND;TZID=Europe/Paris:20260804T191500
-DTSTAMP:20260522T091411Z
-UID:6cf0d325012ead8a5cc8739662be95da@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:f1f1d75bcd075c50eef03dc96f13f5a4@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 18h45 à 19h15\nTitre : Live Q&A n°1\nLieu 
  : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -677,8 +741,8 @@ BEGIN:VEVENT
 SUMMARY:18h45 - 19h15\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260811T184500
 DTEND;TZID=Europe/Paris:20260811T191500
-DTSTAMP:20260522T091411Z
-UID:8a17d543d682a6f2a6049aa8374e05a3@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:be305fadfe6ddf47024a2e2fea6ce99d@strada-education.fr
 DESCRIPTION:mardi 11 août ⋅ 18h45 à 19h15\nTitre : Live Q&A n°2\nLieu
   : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -687,8 +751,8 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 11h45\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260820T111500
 DTEND;TZID=Europe/Paris:20260820T114500
-DTSTAMP:20260522T091411Z
-UID:333f0552fb6727a36bbcae7ee6e0bb4b@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:660b2c62a1d7aca8993ddae54f5db1d3@strada-education.fr
 DESCRIPTION:jeudi 20 août ⋅ 11h15 à 11h45\nTitre : Live Q&A n°3\nLieu
   : Live\nProfesseur : Yves Patouillard
 LOCATION:Live (en ligne)
@@ -697,8 +761,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 16h45\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260626T133000
 DTEND;TZID=Europe/Paris:20260626T164500
-DTSTAMP:20260522T091411Z
-UID:a95bc2b4ba3697f5d5a636cefca662a3@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:034d399d759e3b95249b7816663b0012@strada-education.fr
 DESCRIPTION:vendredi 26 juin ⋅ 13h30 à 16h45\nTitre : Cours\nLieu : 4 a
  venue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -707,8 +771,8 @@ BEGIN:VEVENT
 SUMMARY:14h30 - 17h45\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260629T143000
 DTEND;TZID=Europe/Paris:20260629T174500
-DTSTAMP:20260522T091411Z
-UID:be1a67adc7e1e2a340b78d35885abf30@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:52e65cd2d075c5b8a81e2795826c41c7@strada-education.fr
 DESCRIPTION:lundi 29 juin ⋅ 14h30 à 17h45\nTitre : Cours\nLieu : 4 aven
  ue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -717,8 +781,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260630T100000
 DTEND;TZID=Europe/Paris:20260630T120000
-DTSTAMP:20260522T091411Z
-UID:d16d84aa82a404e73ce287a7f2ad6d38@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:3cce3f28c38ffddbbe257531e0884ef9@strada-education.fr
 DESCRIPTION:mardi 30 juin ⋅ 10h00 à 12h00\nTitre : Cours\nLieu : 4 aven
  ue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -727,8 +791,8 @@ BEGIN:VEVENT
 SUMMARY:13h45 - 15h45\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260708T134500
 DTEND;TZID=Europe/Paris:20260708T154500
-DTSTAMP:20260522T091411Z
-UID:8bd0549bc68968106f40f05b3891fa36@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:da3f9297d4bd011ccaf0ee1c91e2baa1@strada-education.fr
 DESCRIPTION:mercredi 8 juillet ⋅ 13h45 à 15h45\nTitre : Cours\nLieu : 4
   avenue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -737,8 +801,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 17h15\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260713T140000
 DTEND;TZID=Europe/Paris:20260713T171500
-DTSTAMP:20260522T091411Z
-UID:677644e1ecb6acdeb593e7c736b06816@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:26f01fc65752404ab17429775691a33a@strada-education.fr
 DESCRIPTION:lundi 13 juillet ⋅ 14h00 à 17h15\nTitre : Cours\nLieu : 4 a
  venue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -747,8 +811,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 17h15\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260720T140000
 DTEND;TZID=Europe/Paris:20260720T171500
-DTSTAMP:20260522T091411Z
-UID:c1be63d963314a4bfe56624a84bde831@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:8a78d673a4108f72f76897625b246567@strada-education.fr
 DESCRIPTION:lundi 20 juillet ⋅ 14h00 à 17h15\nTitre : Cours\nLieu : 4 a
  venue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -757,8 +821,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260722T130000
 DTEND;TZID=Europe/Paris:20260722T161500
-DTSTAMP:20260522T091411Z
-UID:42cca98af14738fb35b062efc5521fb6@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:6801e9e86d21c858f838bb71c2fc400f@strada-education.fr
 DESCRIPTION:mercredi 22 juillet ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 
  4 avenue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -767,8 +831,8 @@ BEGIN:VEVENT
 SUMMARY:14h15 - 16h15\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260727T141500
 DTEND;TZID=Europe/Paris:20260727T161500
-DTSTAMP:20260522T091411Z
-UID:478a0f6422f3fce4eb9547e8f76981de@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:b241e745c3a7f880138ca42990102453@strada-education.fr
 DESCRIPTION:lundi 27 juillet ⋅ 14h15 à 16h15\nTitre : Cours\nLieu : 4 a
  venue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -777,8 +841,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260729T130000
 DTEND;TZID=Europe/Paris:20260729T161500
-DTSTAMP:20260522T091411Z
-UID:13a3b06bf02a76e666f8a96a3cf8521d@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:8594787ad8a7a3c4e37a3a3256e612ad@strada-education.fr
 DESCRIPTION:mercredi 29 juillet ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 
  4 avenue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -787,8 +851,8 @@ BEGIN:VEVENT
 SUMMARY:14h15 - 16h15\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260803T141500
 DTEND;TZID=Europe/Paris:20260803T161500
-DTSTAMP:20260522T091411Z
-UID:8bce760bf475975222a7b0dbb507c4e0@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:b326053e339243a1f16b193b66cc7cc0@strada-education.fr
 DESCRIPTION:lundi 3 août ⋅ 14h15 à 16h15\nTitre : Cours\nLieu : 4 aven
  ue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -797,8 +861,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 15h30\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260804T133000
 DTEND;TZID=Europe/Paris:20260804T153000
-DTSTAMP:20260522T091411Z
-UID:d88057395cad60eac5d295331f626180@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:6d07f5b273566f268d00a8b256ed979e@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 13h30 à 15h30\nTitre : Cours\nLieu : 4 aven
  ue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -807,8 +871,8 @@ BEGIN:VEVENT
 SUMMARY:13h45 - 15h45\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260810T134500
 DTEND;TZID=Europe/Paris:20260810T154500
-DTSTAMP:20260522T091411Z
-UID:d468ae7ddfb2d2fdd09f35bd2d879696@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:765524b3dee686ba69e412382788caad@strada-education.fr
 DESCRIPTION:lundi 10 août ⋅ 13h45 à 15h45\nTitre : Cours\nLieu : 4 ave
  nue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -817,8 +881,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 15h30\nCours en présentiel : Droit pénal
 DTSTART;TZID=Europe/Paris:20260811T133000
 DTEND;TZID=Europe/Paris:20260811T153000
-DTSTAMP:20260522T091411Z
-UID:c522ce994d4bbe9782b11769100bb2cc@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:c6430986ad32c407a5f806881b8c6f36@strada-education.fr
 DESCRIPTION:mardi 11 août ⋅ 13h30 à 15h30\nTitre : Cours\nLieu : 4 ave
  nue observatoire 75006 Paris\nProfesseur : Yves Patouillard
 LOCATION:4 avenue observatoire 75006 Paris
@@ -827,8 +891,8 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 17h45\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260707T161500
 DTEND;TZID=Europe/Paris:20260707T174500
-DTSTAMP:20260522T091411Z
-UID:40f75b2648571b2ddafd2f7a9a64e459@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:c1effccde517e47f36b084d3960679d4@strada-education.fr
 DESCRIPTION:mardi 7 juillet ⋅ 16h15 à 17h45\nTitre : Séminaire de corr
  ection n°1\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Margau
  x Laclef
@@ -838,8 +902,8 @@ BEGIN:VEVENT
 SUMMARY:15h45 - 17h15\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260715T154500
 DTEND;TZID=Europe/Paris:20260715T171500
-DTSTAMP:20260522T091411Z
-UID:c6be0178ec13b7accae066d1ba6c912b@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:d9f3d27b77df31faf66e069b956b4db9@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 15h45 à 17h15\nTitre : Séminaire de 
  correction n°2\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Ma
  rgaux Laclef
@@ -849,8 +913,8 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h00\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260721T163000
 DTEND;TZID=Europe/Paris:20260721T180000
-DTSTAMP:20260522T091411Z
-UID:653bbeaf17e17ed299d222b3623a9101@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:8af36acb969d0acf276093b9df68533e@strada-education.fr
 DESCRIPTION:mardi 21 juillet ⋅ 16h30 à 18h00\nTitre : Séminaire de cor
  rection n°3\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Marga
  ux Laclef
@@ -860,8 +924,8 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h00\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260728T163000
 DTEND;TZID=Europe/Paris:20260728T180000
-DTSTAMP:20260522T091411Z
-UID:ed5dee25a45a55062ac5877bacc83a09@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:857ba1f5b87a168af85b533d5c680226@strada-education.fr
 DESCRIPTION:mardi 28 juillet ⋅ 16h30 à 18h00\nTitre : Séminaire de cor
  rection n°4\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Marga
  ux Laclef
@@ -871,8 +935,8 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h00\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260805T163000
 DTEND;TZID=Europe/Paris:20260805T180000
-DTSTAMP:20260522T091411Z
-UID:1ca8e75ef1f9f8acdbea9de6a21ac447@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:a5d496c414a420cf89e64cd8cc1b1234@strada-education.fr
 DESCRIPTION:mercredi 5 août ⋅ 16h30 à 18h00\nTitre : Séminaire de cor
  rection n°5\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Marga
  ux Laclef
@@ -882,8 +946,8 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h00\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260812T163000
 DTEND;TZID=Europe/Paris:20260812T180000
-DTSTAMP:20260522T091411Z
-UID:25066f1a363eadca976bcbcd23f29380@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:94ddeb06cd908eaccba57cd720598e93@strada-education.fr
 DESCRIPTION:mercredi 12 août ⋅ 16h30 à 18h00\nTitre : Séminaire de co
  rrection n°6\nLieu : 4 avenue observatoire 75006 Paris\nProfesseur : Marg
  aux Laclef
@@ -893,8 +957,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260630T130000
 DTEND;TZID=Europe/Paris:20260630T161500
-DTSTAMP:20260522T091411Z
-UID:453c5cdd0956575ee491e9bf2b281304@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:2caa50f455051ff13da6f5a5d596f86b@strada-education.fr
 DESCRIPTION:mardi 30 juin ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 4 aven
  ue observatoire 75006 Paris\nProfesseur : Gabriel Dumenil
 LOCATION:4 avenue observatoire 75006 Paris
@@ -903,8 +967,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260701T130000
 DTEND;TZID=Europe/Paris:20260701T161500
-DTSTAMP:20260522T091411Z
-UID:180186ace5509827cfa12810e867d124@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:fc4394e3a070c64af159f5667bb44380@strada-education.fr
 DESCRIPTION:mercredi 1 juillet ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 4
   avenue observatoire 75006 Paris\nProfesseur : Gabriel Dumenil
 LOCATION:4 avenue observatoire 75006 Paris
@@ -913,8 +977,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 16h45\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260706T133000
 DTEND;TZID=Europe/Paris:20260706T164500
-DTSTAMP:20260522T091411Z
-UID:7bf97b09a48c6d0d6703c823a8b54d1e@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:9d0346a0d0eed97f344dfc3a7037840c@strada-education.fr
 DESCRIPTION:lundi 6 juillet ⋅ 13h30 à 16h45\nTitre : Cours\nLieu : 4 av
  enue observatoire 75006 Paris\nProfesseur : Gabriel Dumenil
 LOCATION:4 avenue observatoire 75006 Paris
@@ -923,8 +987,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260707T140000
 DTEND;TZID=Europe/Paris:20260707T160000
-DTSTAMP:20260522T091411Z
-UID:83d718f12be163ae579e3b88d0dcb166@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:cb0813e07432f881219573fad898ba2e@strada-education.fr
 DESCRIPTION:mardi 7 juillet ⋅ 14h00 à 16h00\nTitre : Cours\nLieu : 4 av
  enue observatoire 75006 Paris\nProfesseur : Gabriel Dumenil
 LOCATION:4 avenue observatoire 75006 Paris
@@ -933,8 +997,8 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 15h30\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260715T133000
 DTEND;TZID=Europe/Paris:20260715T153000
-DTSTAMP:20260522T091411Z
-UID:71453f43e691a8d4d55ee9bb42a2aa1e@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:5f9f537d55f739ee9103e1017db112a9@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 13h30 à 15h30\nTitre : Cours\nLieu : 
  4 avenue observatoire 75006 Paris\nProfesseur : Gabriel Dumenil
 LOCATION:4 avenue observatoire 75006 Paris
@@ -943,8 +1007,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260721T130000
 DTEND;TZID=Europe/Paris:20260721T161500
-DTSTAMP:20260522T091411Z
-UID:6e9d748062541ba066218cf4d1223ad6@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:d1b88a6e8960e8fbfca7196cbffb7834@strada-education.fr
 DESCRIPTION:mardi 21 juillet ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 4 a
  venue observatoire 75006 Paris\nProfesseur : Gabriel Dumenil
 LOCATION:4 avenue observatoire 75006 Paris
@@ -953,8 +1017,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260728T130000
 DTEND;TZID=Europe/Paris:20260728T161500
-DTSTAMP:20260522T091411Z
-UID:81e6c770ec600fe5bf3ed5705b89a6b0@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:f7f2f0d002c97981776aa5eeb30c6b44@strada-education.fr
 DESCRIPTION:mardi 28 juillet ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 4 a
  venue observatoire 75006 Paris\nProfesseur : Gabriel Dumenil
 LOCATION:4 avenue observatoire 75006 Paris
@@ -963,8 +1027,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260805T130000
 DTEND;TZID=Europe/Paris:20260805T161500
-DTSTAMP:20260522T091411Z
-UID:087e5cc5e795e5df3660aebbfcbce76d@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:21c8e3ee986b7171eb6e4433df278d1c@strada-education.fr
 DESCRIPTION:mercredi 5 août ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 4 a
  venue observatoire 75006 Paris\nProfesseur : Margaux Laclef
 LOCATION:4 avenue observatoire 75006 Paris
@@ -973,8 +1037,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 16h15\nCours en présentiel : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260812T130000
 DTEND;TZID=Europe/Paris:20260812T161500
-DTSTAMP:20260522T091411Z
-UID:bded1eea28cb9426b37ace63323a8dd5@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:9926bc510bf44b35cb5fcd5d53fc9750@strada-education.fr
 DESCRIPTION:mercredi 12 août ⋅ 13h00 à 16h15\nTitre : Cours\nLieu : 4 
  avenue observatoire 75006 Paris\nProfesseur : Margaux Laclef
 LOCATION:4 avenue observatoire 75006 Paris
@@ -983,8 +1047,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 11h30\nLive : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260821T100000
 DTEND;TZID=Europe/Paris:20260821T113000
-DTSTAMP:20260522T091411Z
-UID:7d2583536195d7f7fe157ce15b14bd32@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:3d28e7ec3369061de3244dbe03b0943e@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 10h00 à 11h30\nTitre : Séminaire de co
  rrection n°7\nLieu : Live\nProfesseur : Margaux Laclef
 LOCATION:Live (en ligne)
@@ -993,8 +1057,8 @@ BEGIN:VEVENT
 SUMMARY:16h00 - 17h00\nLive : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260828T160000
 DTEND;TZID=Europe/Paris:20260828T170000
-DTSTAMP:20260522T091411Z
-UID:721d27d22908b1167d34dd3fb9562e32@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:ac3499c14120c933b6d27edf5143278d@strada-education.fr
 DESCRIPTION:vendredi 28 août ⋅ 16h00 à 17h00\nTitre : Live derniers co
  nseils\nLieu : Live\nProfesseur : Gabriel Dumenil
 LOCATION:Live (en ligne)
@@ -1003,8 +1067,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h15\nLive : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260821T114500
 DTEND;TZID=Europe/Paris:20260821T121500
-DTSTAMP:20260522T091411Z
-UID:c0a2d1ce6abb5d2ee6483d3574872d66@strada-education.fr
+DTSTAMP:20260522T134345Z
+UID:a1d8dff02e60d15bc3ce5be5cd054acb@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 11h45 à 12h15\nTitre : Live Q&A n°3\nL
  ieu : Live\nProfesseur : Margaux Laclef
 LOCATION:Live (en ligne)
