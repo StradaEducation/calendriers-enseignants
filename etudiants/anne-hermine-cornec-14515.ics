@@ -7,11 +7,65 @@ X-WR-CALNAME:Planning - Anne-Hermine Cornec
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Note de synthèse - Kit de lancement 2026 - 
+ Sujet A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134431Z
+UID:dcef6acd37547df2f304bcb57898a898@strada-education.fr
+DESCRIPTION:Devoir : Note de synthèse_Kit de lancement 2026_Sujet A\nMarq
+ ue : Objectif Barreau\nMatiere : Note de synthèse\nNombre d'élèves : 11
+ 43\nDate de rendu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Droit des obligations- Kit de lancement 2026
+  - Sujet A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134431Z
+UID:391a2aec080e47b856b2473fcc582582@strada-education.fr
+DESCRIPTION:Devoir : Droit des obligations_Kit de lancement 2026_Sujet A\n
+ Marque : Objectif Barreau\nMatiere : Droit des obligations\nNombre d'élè
+ ves : 1142\nDate de rendu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Droit civil - Kit de lancement 2026 - Sujet 
+ A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134431Z
+UID:0b3190d616a90db6a785dd155a2be01d@strada-education.fr
+DESCRIPTION:Devoir : Droit civil_Kit de lancement 2026_Sujet A\nMarque : O
+ bjectif Barreau\nMatiere : Droit civil\nNombre d'élèves : 194\nDate de r
+ endu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22h59 - 23h59\nDevoir Procédure civile - Kit de lancement 2026 - 
+ Sujet A à rendre
+DTSTART;TZID=Europe/Paris:20260614T225900
+DTEND;TZID=Europe/Paris:20260614T235900
+DTSTAMP:20260522T134431Z
+UID:91cf683d8ddc7e322dd49a032ac7603e@strada-education.fr
+DESCRIPTION:Devoir : Procédure civile_Kit de lancement 2026_Sujet A\nMarq
+ ue : Objectif Barreau\nMatiere : Procédure civile\nNombre d'élèves : 65
+ 8\nDate de rendu : 14 juin 2026 ⋅ 23h59
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail
+DTSTART;TZID=Europe/Paris:20260512T180000
+DTEND;TZID=Europe/Paris:20260512T193000
+DTSTAMP:20260522T134431Z
+UID:f2dfec2794ebec0688c5c085c12a52d4@strada-education.fr
+DESCRIPTION:mardi 12 mai ⋅ 18h00 à 19h30\nTitre : Apprendre efficacemen
+ t\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail
 DTSTART;TZID=Europe/Paris:20260519T183000
 DTEND;TZID=Europe/Paris:20260519T200000
-DTSTAMP:20260522T091450Z
-UID:55f689089ac9c527bf3754ccf94d75c7@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:4d73d905308d42e4bdf0838dc9270f52@strada-education.fr
 DESCRIPTION:mardi 19 mai ⋅ 18h30 à 20h00\nTitre : Lecture rapide\nLieu 
  : Live\nProfesseur : Florian Manicardi
 LOCATION:Live (en ligne)
@@ -20,8 +74,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Coaching et techniques de travail
 DTSTART;TZID=Europe/Paris:20260604T183000
 DTEND;TZID=Europe/Paris:20260604T200000
-DTSTAMP:20260522T091450Z
-UID:2a14a6734d9a7da929bbaa29dd3a8c09@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:63ced637a3120f591c9e08045eb756e3@strada-education.fr
 DESCRIPTION:jeudi 4 juin ⋅ 18h30 à 20h00\nTitre : Technique de mémoris
  ation\nLieu : Live\nProfesseur : Florian Manicardi
 LOCATION:Live (en ligne)
@@ -30,18 +84,28 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 19h30\nLive : Coaching et techniques de travail
 DTSTART;TZID=Europe/Paris:20260609T180000
 DTEND;TZID=Europe/Paris:20260609T193000
-DTSTAMP:20260522T091450Z
-UID:90e1b3907045b4cf9ac7fd4799120a92@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:bed46049e765a91ed841206ecb28d3ad@strada-education.fr
 DESCRIPTION:mardi 9 juin ⋅ 18h00 à 19h30\nTitre : Synthétisation effic
  ace\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h00\nLive : Séance inaugurale
+DTSTART;TZID=Europe/Paris:20260422T180000
+DTEND;TZID=Europe/Paris:20260422T190000
+DTSTAMP:20260522T134431Z
+UID:2eed9d58b50d081533de970bf248640c@strada-education.fr
+DESCRIPTION:mercredi 22 avril ⋅ 18h00 à 19h00\nTitre : Conférence inau
+ gurale\nLieu : Live\nProfesseur : Claire Onillon
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18h15 - 19h15\nLive : Séance inaugurale
 DTSTART;TZID=Europe/Paris:20260624T181500
 DTEND;TZID=Europe/Paris:20260624T191500
-DTSTAMP:20260522T091450Z
-UID:7cd33baaecf142c65a7752963b37197b@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:e6b4d3ca7ca8d30c6b10dcd328719fef@strada-education.fr
 DESCRIPTION:mercredi 24 juin ⋅ 18h15 à 19h15\nTitre : Conférence inaug
  urale\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -50,8 +114,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h45\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260630T120000
 DTEND;TZID=Europe/Paris:20260630T124500
-DTSTAMP:20260522T091450Z
-UID:cc70f6d3571dc3b14f4b914e389ebbc9@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:ce8d68ebea94327598b18669bbf33b49@strada-education.fr
 DESCRIPTION:mardi 30 juin ⋅ 12h00 à 12h45\nTitre : Mot de la prépa n°
  1\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -60,8 +124,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h45\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260708T120000
 DTEND;TZID=Europe/Paris:20260708T124500
-DTSTAMP:20260522T091450Z
-UID:b1bb0579750c1d2bef576318999c0825@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:7bffbd5ccfc0c8a1e958f0656f559332@strada-education.fr
 DESCRIPTION:mercredi 8 juillet ⋅ 12h00 à 12h45\nTitre : Mot de la prép
  a n°2\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -70,8 +134,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h45\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260715T120000
 DTEND;TZID=Europe/Paris:20260715T124500
-DTSTAMP:20260522T091450Z
-UID:97e97d5a36e0c1ad984570cbb0a31710@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:8d139fb10d8e11be9a8976d7a300a287@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 12h00 à 12h45\nTitre : Mot de la pré
  pa n°3\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -80,8 +144,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260722T120000
 DTEND;TZID=Europe/Paris:20260722T123000
-DTSTAMP:20260522T091450Z
-UID:becbd7a776b0a1eeae63fc07b5a0d062@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:21500812108b1655510f540e89b6ee5e@strada-education.fr
 DESCRIPTION:mercredi 22 juillet ⋅ 12h00 à 12h30\nTitre : Mot de la pré
  pa n°4\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -90,8 +154,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260729T120000
 DTEND;TZID=Europe/Paris:20260729T123000
-DTSTAMP:20260522T091450Z
-UID:715bad6c3903de84d5b5ec0db7819a55@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:2825f59c932226a88530273074e8c3f7@strada-education.fr
 DESCRIPTION:mercredi 29 juillet ⋅ 12h00 à 12h30\nTitre : Mot de la pré
  pa n°5\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -100,8 +164,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260804T120000
 DTEND;TZID=Europe/Paris:20260804T123000
-DTSTAMP:20260522T091450Z
-UID:86560ed5dc4176c24d1c9ef69a818ece@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:dac68a56223d01f3056be44ff60b6c2a@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n°
  6\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -110,8 +174,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260810T120000
 DTEND;TZID=Europe/Paris:20260810T123000
-DTSTAMP:20260522T091450Z
-UID:ced8be50755e14d8bdb3db60df50fa37@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:ed93439638b268739585b54691e03b13@strada-education.fr
 DESCRIPTION:lundi 10 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °7\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -120,8 +184,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260819T120000
 DTEND;TZID=Europe/Paris:20260819T123000
-DTSTAMP:20260522T091450Z
-UID:e937c584e6b8ad92cce9a2078c4c3bcb@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:43865c292da0e3ed7afdf61c1f3cfcf3@strada-education.fr
 DESCRIPTION:mercredi 19 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa
   n°8\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -130,8 +194,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260827T120000
 DTEND;TZID=Europe/Paris:20260827T123000
-DTSTAMP:20260522T091451Z
-UID:ea11d113372c79304fb5b97ea6fc2e74@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:b8714a1b61122d768d10cf3f84f7c3cf@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °9\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -140,8 +204,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 15h30\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260626T140000
 DTEND;TZID=Europe/Paris:20260626T153000
-DTSTAMP:20260522T091451Z
-UID:c8e7dfd5836f5b2a7e2a15780900efa7@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:2083ad8dbecef5c7eb736c532bacc063@strada-education.fr
 DESCRIPTION:vendredi 26 juin ⋅ 14h00 à 15h30\nTitre : Atelier\nLieu : L
  ive\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -150,8 +214,8 @@ BEGIN:VEVENT
 SUMMARY:14h45 - 15h45\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260826T144500
 DTEND;TZID=Europe/Paris:20260826T154500
-DTSTAMP:20260522T091451Z
-UID:195e394de846cbca819be9ec422ebcc8@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:81e0eef0d05343226c9fe6920463952b@strada-education.fr
 DESCRIPTION:mercredi 26 août ⋅ 14h45 à 15h45\nTitre : Live derniers co
  nseils\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -160,8 +224,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260707T100000
 DTEND;TZID=Europe/Paris:20260707T120000
-DTSTAMP:20260522T091451Z
-UID:2a99b4cb9340f74aacee473db563847f@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:ee747ccdce2b3547fe38045bd4d042f6@strada-education.fr
 DESCRIPTION:mardi 7 juillet ⋅ 10h00 à 12h00\nTitre : Séminaire de corr
  ection n°1\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -170,8 +234,8 @@ BEGIN:VEVENT
 SUMMARY:12h45 - 14h45\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260713T124500
 DTEND;TZID=Europe/Paris:20260713T144500
-DTSTAMP:20260522T091451Z
-UID:fbc34fa1ac9863fe156817d4c1af79a5@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:9b8546b35b6abe4a10a5bc287483b01a@strada-education.fr
 DESCRIPTION:lundi 13 juillet ⋅ 12h45 à 14h45\nTitre : Séminaire de cor
  rection n°2\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -180,8 +244,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260721T100000
 DTEND;TZID=Europe/Paris:20260721T120000
-DTSTAMP:20260522T091451Z
-UID:2d04a0b0726a31b3cd072a6f96eb516c@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:8728c721b2005dfa8efc44e7bcf6dbfb@strada-education.fr
 DESCRIPTION:mardi 21 juillet ⋅ 10h00 à 12h00\nTitre : Séminaire de cor
  rection n°3\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -190,8 +254,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260728T100000
 DTEND;TZID=Europe/Paris:20260728T120000
-DTSTAMP:20260522T091451Z
-UID:03f1d54e7d3d8bf145a049003f75a8d6@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:a3e1debdddad9c46737cb4eaff8d5b7c@strada-education.fr
 DESCRIPTION:mardi 28 juillet ⋅ 10h00 à 12h00\nTitre : Séminaire de cor
  rection n°4\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -200,8 +264,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260804T093000
 DTEND;TZID=Europe/Paris:20260804T113000
-DTSTAMP:20260522T091451Z
-UID:537bfa3edbda4b44436a38ae1b84277a@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:a1d0a3bd17b1b61350c27c6e5a10bb65@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 9h30 à 11h30\nTitre : Séminaire de correct
  ion n°5\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -210,8 +274,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260811T100000
 DTEND;TZID=Europe/Paris:20260811T120000
-DTSTAMP:20260522T091451Z
-UID:36dd148d1b2daa988a2158eca6737977@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:6b7e3304325d4f022d39c192fc5958b3@strada-education.fr
 DESCRIPTION:mardi 11 août ⋅ 10h00 à 12h00\nTitre : Séminaire de corre
  ction n°6\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -220,8 +284,8 @@ BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nLive : Note de synthèse
 DTSTART;TZID=Europe/Paris:20260819T160000
 DTEND;TZID=Europe/Paris:20260819T180000
-DTSTAMP:20260522T091451Z
-UID:4eb6308ac222a6c153d840a057322169@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:d6afa61e5d73a243ca8f025b9cf37851@strada-education.fr
 DESCRIPTION:mercredi 19 août ⋅ 16h00 à 18h00\nTitre : Séminaire de co
  rrection n°7\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
@@ -230,8 +294,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260709T093000
 DTEND;TZID=Europe/Paris:20260709T113000
-DTSTAMP:20260522T091451Z
-UID:33cba853adb99a1c368d9e7493764cb5@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:bc972828017b5399abe23a374e2fafd7@strada-education.fr
 DESCRIPTION:jeudi 9 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de corre
  ction n°1\nLieu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -240,8 +304,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260716T093000
 DTEND;TZID=Europe/Paris:20260716T113000
-DTSTAMP:20260522T091451Z
-UID:72073b634a9245814714109f7434eddf@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:4f90b7c2b6e633489b6e23d6db295d23@strada-education.fr
 DESCRIPTION:jeudi 16 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de corr
  ection n°2\nLieu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -250,8 +314,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260723T093000
 DTEND;TZID=Europe/Paris:20260723T113000
-DTSTAMP:20260522T091451Z
-UID:d0e79a2d7383da926f35c32d4e51bcef@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:84eec44720d838e8763a60667fb45cb6@strada-education.fr
 DESCRIPTION:jeudi 23 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de corr
  ection n°3\nLieu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -260,8 +324,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260730T093000
 DTEND;TZID=Europe/Paris:20260730T113000
-DTSTAMP:20260522T091451Z
-UID:72436e27e33fbb6d23e17d2bc56ab8d2@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:2edb972509e628600b215450a94a9fab@strada-education.fr
 DESCRIPTION:jeudi 30 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de corr
  ection n°4\nLieu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -270,8 +334,8 @@ BEGIN:VEVENT
 SUMMARY:13h15 - 15h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260803T131500
 DTEND;TZID=Europe/Paris:20260803T151500
-DTSTAMP:20260522T091451Z
-UID:9785d9ca2503ba373838ae8406b3f8ab@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:4e64939fd0e212616c8cb03e941a0988@strada-education.fr
 DESCRIPTION:lundi 3 août ⋅ 13h15 à 15h15\nTitre : Séminaire de correc
  tion n°5\nLieu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -280,8 +344,8 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260813T090000
 DTEND;TZID=Europe/Paris:20260813T110000
-DTSTAMP:20260522T091451Z
-UID:9f2baeb498701a4ca4e392e00d1f5828@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:aa6032855b6277d8d5ad2c24cc03a3c6@strada-education.fr
 DESCRIPTION:jeudi 13 août ⋅ 9h00 à 11h00\nTitre : Séminaire de correc
  tion n°6\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -290,8 +354,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260821T140000
 DTEND;TZID=Europe/Paris:20260821T160000
-DTSTAMP:20260522T091451Z
-UID:9a657347b9c2bb05db3d834a7307aceb@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:00913419fec06652e2ac252356926def@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 14h00 à 16h00\nTitre : Séminaire de co
  rrection n°7\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -300,8 +364,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260709T114500
 DTEND;TZID=Europe/Paris:20260709T124500
-DTSTAMP:20260522T091451Z
-UID:74656a5c549d3aa77387e272a12d2638@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:078e941e94fc22f696b9711a48bd9e2e@strada-education.fr
 DESCRIPTION:jeudi 9 juillet ⋅ 11h45 à 12h45\nTitre : Live Q&A n°1\nLie
  u : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -310,8 +374,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260716T114500
 DTEND;TZID=Europe/Paris:20260716T124500
-DTSTAMP:20260522T091451Z
-UID:a72485b1d621f7afe15d0bb543b9f9c5@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:6530206dddafb6b035765302aa504694@strada-education.fr
 DESCRIPTION:jeudi 16 juillet ⋅ 11h45 à 12h45\nTitre : Live Q&A n°2\nLi
  eu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -320,8 +384,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260723T114500
 DTEND;TZID=Europe/Paris:20260723T124500
-DTSTAMP:20260522T091451Z
-UID:9b45e021696148edc40bae3cff99228c@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:8b60d3e44a215bece5262ffbc6255c93@strada-education.fr
 DESCRIPTION:jeudi 23 juillet ⋅ 11h45 à 12h45\nTitre : Live Q&A n°3\nLi
  eu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -330,8 +394,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260730T114500
 DTEND;TZID=Europe/Paris:20260730T124500
-DTSTAMP:20260522T091451Z
-UID:ec0cd3ba05639fcec432b0d2507128ff@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:fbfb743c4c022fb70fa436ba2f3c97dc@strada-education.fr
 DESCRIPTION:jeudi 30 juillet ⋅ 11h45 à 12h45\nTitre : Live Q&A n°4\nLi
  eu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -340,8 +404,8 @@ BEGIN:VEVENT
 SUMMARY:15h30 - 16h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260803T153000
 DTEND;TZID=Europe/Paris:20260803T163000
-DTSTAMP:20260522T091451Z
-UID:8476fca6f25f108f6f7ba12472e79b8d@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:95953bf61ec67e5cc3c5241a46b78609@strada-education.fr
 DESCRIPTION:lundi 3 août ⋅ 15h30 à 16h30\nTitre : Live Q&A n°5\nLieu 
  : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -350,8 +414,8 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 12h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260813T111500
 DTEND;TZID=Europe/Paris:20260813T121500
-DTSTAMP:20260522T091451Z
-UID:7f9a119a67821f11b0dd18c1460e6c21@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:76df8ba13e7497629001a149cae761b6@strada-education.fr
 DESCRIPTION:jeudi 13 août ⋅ 11h15 à 12h15\nTitre : Live Q&A n°6\nLieu
   : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -360,8 +424,8 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 17h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260821T161500
 DTEND;TZID=Europe/Paris:20260821T171500
-DTSTAMP:20260522T091451Z
-UID:0502b1df74bb4f49c241180212bcf846@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:7a71fbcaffbfbe8713f6e84485346c4b@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 16h15 à 17h15\nTitre : Live Q&A n°7\nL
  ieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -370,8 +434,8 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260625T100000
 DTEND;TZID=Europe/Paris:20260625T120000
-DTSTAMP:20260522T091451Z
-UID:7d60800954727118d455ec5f1c28f3ed@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:f626b8f7dbd8705a0a359176ca114d9a@strada-education.fr
 DESCRIPTION:jeudi 25 juin ⋅ 10h00 à 12h00\nTitre : Méthodologie\nLieu 
  : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -380,8 +444,8 @@ BEGIN:VEVENT
 SUMMARY:10h30 - 12h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260828T103000
 DTEND;TZID=Europe/Paris:20260828T123000
-DTSTAMP:20260522T091451Z
-UID:19def14b496d8937365991690a40397e@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:adbd00f5840f4f356042d7d5e7403b69@strada-education.fr
 DESCRIPTION:vendredi 28 août ⋅ 10h30 à 12h30\nTitre : Live derniers co
  nseils\nLieu : Live\nProfesseur : Taklith Boudjelti
 LOCATION:Live (en ligne)
@@ -390,8 +454,8 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260707T174500
 DTEND;TZID=Europe/Paris:20260707T194500
-DTSTAMP:20260522T091451Z
-UID:fbe0be5198bdefe70f905379b4d2e3c3@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:28551b405ca72ea152e1d86243729b5b@strada-education.fr
 DESCRIPTION:mardi 7 juillet ⋅ 17h45 à 19h45\nTitre : Séminaire de corr
  ection n°1\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -400,8 +464,8 @@ BEGIN:VEVENT
 SUMMARY:17h15 - 19h15\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260715T171500
 DTEND;TZID=Europe/Paris:20260715T191500
-DTSTAMP:20260522T091451Z
-UID:d5b245a6fccee49cfb03f7571e251eb1@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:ea94ee7920ce676a7a003f8a8e40fd00@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 17h15 à 19h15\nTitre : Séminaire de 
  correction n°2\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -410,8 +474,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260721T140000
 DTEND;TZID=Europe/Paris:20260721T160000
-DTSTAMP:20260522T091451Z
-UID:4fad932f4716e12162cb76fe2a19a08a@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:f1c98bd73401d2ee30784c4d29375210@strada-education.fr
 DESCRIPTION:mardi 21 juillet ⋅ 14h00 à 16h00\nTitre : Séminaire de cor
  rection n°3\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -420,8 +484,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260728T140000
 DTEND;TZID=Europe/Paris:20260728T160000
-DTSTAMP:20260522T091451Z
-UID:bdd5258583beb5734f0ea4635201d065@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:48cbc3f1c10090667fd20a25b3c4d2e7@strada-education.fr
 DESCRIPTION:mardi 28 juillet ⋅ 14h00 à 16h00\nTitre : Séminaire de cor
  rection n°4\nLieu : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -430,8 +494,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260804T140000
 DTEND;TZID=Europe/Paris:20260804T160000
-DTSTAMP:20260522T091451Z
-UID:02a9b2499eabca0e25d63f737d6c9ad8@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:afc55ab17c5b2d2e60370afec66932d5@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 14h00 à 16h00\nTitre : Séminaire de correc
  tion n°5\nLieu : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -440,8 +504,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260811T140000
 DTEND;TZID=Europe/Paris:20260811T160000
-DTSTAMP:20260522T091451Z
-UID:20de3921b007cad6008667ba12c565f6@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:8b00710d8a9a3f38bd1c7f29bba29249@strada-education.fr
 DESCRIPTION:mardi 11 août ⋅ 14h00 à 16h00\nTitre : Séminaire de corre
  ction n°6\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -450,8 +514,8 @@ BEGIN:VEVENT
 SUMMARY:13h00 - 15h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260820T130000
 DTEND;TZID=Europe/Paris:20260820T150000
-DTSTAMP:20260522T091451Z
-UID:92f88ddce345f69b10fd77e0fd0d5b36@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:64d2615223336a756f3084c54d8a771c@strada-education.fr
 DESCRIPTION:jeudi 20 août ⋅ 13h00 à 15h00\nTitre : Séminaire de corre
  ction n°7\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -460,8 +524,8 @@ BEGIN:VEVENT
 SUMMARY:14h30 - 16h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260827T143000
 DTEND;TZID=Europe/Paris:20260827T163000
-DTSTAMP:20260522T091451Z
-UID:7d069d923b67da62262b5b0692593093@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:16032f623290bdb4a85271a353252639@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 14h30 à 16h30\nTitre : Live derniers conse
  ils - Famille\, Régimes matrimoniaux & droit des sûretés\nLieu : Live\n
  Professeur : Franck Goncalves
@@ -471,8 +535,8 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260827T161500
 DTEND;TZID=Europe/Paris:20260827T181500
-DTSTAMP:20260522T091451Z
-UID:155c2e34604c48029919ab3579915df3@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:0f953be1c8f14df0f639b723b7855074@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 16h15 à 18h15\nTitre : Live derniers conse
  ils - Droit des biens & Contrats spéciaux\nLieu : Live\nProfesseur : Beno
  ît Chaffois
@@ -482,8 +546,8 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 16h45\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260804T161500
 DTEND;TZID=Europe/Paris:20260804T164500
-DTSTAMP:20260522T091451Z
-UID:5ad51ae59135892a463d41247d604165@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:1c7433581164c2915119ceee2d750dcc@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 16h15 à 16h45\nTitre : Live Q&A n°1\nLieu 
  : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -492,8 +556,8 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 16h45\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260811T161500
 DTEND;TZID=Europe/Paris:20260811T164500
-DTSTAMP:20260522T091451Z
-UID:d883d021b73e5e37599e0de308ba1d62@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:09ed8670dcecff51132d5a5074427d8b@strada-education.fr
 DESCRIPTION:mardi 11 août ⋅ 16h15 à 16h45\nTitre : Live Q&A n°2\nLieu
   : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -502,8 +566,8 @@ BEGIN:VEVENT
 SUMMARY:15h15 - 15h45\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260820T151500
 DTEND;TZID=Europe/Paris:20260820T154500
-DTSTAMP:20260522T091451Z
-UID:5ce1f72f35457d1fca13cf15eafc0bde@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:13b5dcf08006637e9cda51c59828ad2f@strada-education.fr
 DESCRIPTION:jeudi 20 août ⋅ 15h15 à 15h45\nTitre : Live Q&A n°3\nLieu
   : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -512,8 +576,8 @@ BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260828T160000
 DTEND;TZID=Europe/Paris:20260828T180000
-DTSTAMP:20260522T091451Z
-UID:6bd0f50323db44b1a2b6a522f6319cfb@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:7525555571b214675466d6b62cee09f0@strada-education.fr
 DESCRIPTION:vendredi 28 août ⋅ 16h00 à 18h00\nTitre : Live derniers co
  nseils\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -522,8 +586,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260708T093000
 DTEND;TZID=Europe/Paris:20260708T113000
-DTSTAMP:20260522T091451Z
-UID:03767793291096ca8c2f01693802ad2e@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:9255e8525e6bd6d0d23cfa371fe1973b@strada-education.fr
 DESCRIPTION:mercredi 8 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de co
  rrection n°1\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -532,8 +596,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260715T093000
 DTEND;TZID=Europe/Paris:20260715T113000
-DTSTAMP:20260522T091451Z
-UID:ddd00de45665d745b999be8760b26684@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:b3ca50caa7f4940625f5b608fecb123a@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de c
  orrection n°2\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -542,8 +606,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260722T093000
 DTEND;TZID=Europe/Paris:20260722T113000
-DTSTAMP:20260522T091451Z
-UID:9bf32a70f662254d2beb3ae9781a2567@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:02b5d039c29b12c32c3fd3e6a5f90bc5@strada-education.fr
 DESCRIPTION:mercredi 22 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de c
  orrection n°3\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -552,8 +616,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260729T093000
 DTEND;TZID=Europe/Paris:20260729T113000
-DTSTAMP:20260522T091451Z
-UID:3f6daa7c18029559b6da2087061773b4@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:0f6c77974684b3e8e22f0622dd067443@strada-education.fr
 DESCRIPTION:mercredi 29 juillet ⋅ 9h30 à 11h30\nTitre : Séminaire de c
  orrection n°4\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -562,8 +626,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260805T093000
 DTEND;TZID=Europe/Paris:20260805T113000
-DTSTAMP:20260522T091451Z
-UID:6ad9939339ab0a7eba0fb69b9b3a825d@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:8499d279359a6db0949d4de189b171ed@strada-education.fr
 DESCRIPTION:mercredi 5 août ⋅ 9h30 à 11h30\nTitre : Séminaire de corr
  ection n°5\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -572,8 +636,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260812T093000
 DTEND;TZID=Europe/Paris:20260812T113000
-DTSTAMP:20260522T091451Z
-UID:780873a5bb459eeeb652b0eed27a7c7d@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:c202332f6f5ed73e2ecf79e5f53c7c48@strada-education.fr
 DESCRIPTION:mercredi 12 août ⋅ 9h30 à 11h30\nTitre : Séminaire de cor
  rection n°6\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -582,8 +646,8 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260821T093000
 DTEND;TZID=Europe/Paris:20260821T113000
-DTSTAMP:20260522T091451Z
-UID:d88c9aa6bf2aebbc9780c9878c674cba@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:e7b66e0be40acfc7a0b893a8df7357c6@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 9h30 à 11h30\nTitre : Séminaire de cor
  rection n°7\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -592,8 +656,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h15\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260805T114500
 DTEND;TZID=Europe/Paris:20260805T121500
-DTSTAMP:20260522T091451Z
-UID:a1cc3164fd3453f21939a7bc3287fcc2@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:8024364d174301ca6300b42e7db21478@strada-education.fr
 DESCRIPTION:mercredi 5 août ⋅ 11h45 à 12h15\nTitre : Live Q&A n°1\nLi
  eu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -602,8 +666,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h15\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260812T114500
 DTEND;TZID=Europe/Paris:20260812T121500
-DTSTAMP:20260522T091451Z
-UID:3281f4c59d0c1de3604c9d313baed166@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:65148704e6f435241ba928c8b974a4fb@strada-education.fr
 DESCRIPTION:mercredi 12 août ⋅ 11h45 à 12h15\nTitre : Live Q&A n°2\nL
  ieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -612,8 +676,8 @@ BEGIN:VEVENT
 SUMMARY:11h45 - 12h15\nLive : Procédure civile
 DTSTART;TZID=Europe/Paris:20260821T114500
 DTEND;TZID=Europe/Paris:20260821T121500
-DTSTAMP:20260522T091451Z
-UID:71bd4820fe0b201810fa51944108d34f@strada-education.fr
+DTSTAMP:20260522T134431Z
+UID:26e0c70d97ccf160d6e2d3cba1ad131d@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 11h45 à 12h15\nTitre : Live Q&A n°3\nL
  ieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
