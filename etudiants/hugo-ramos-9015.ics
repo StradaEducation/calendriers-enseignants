@@ -7,20 +7,10 @@ X-WR-CALNAME:Planning - Hugo Ramos
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:9h00 - 11h00\nLive : Droit des obligations
-DTSTART;TZID=Europe/Paris:20260425T090000
-DTEND;TZID=Europe/Paris:20260425T110000
-DTSTAMP:20260525T203239Z
-UID:1969c8ed15f0ec19c50a866f55a25397@strada-education.fr
-DESCRIPTION:samedi 25 avril ⋅ 9h00 à 11h00\nTitre : Séance n°1\nLieu 
- : Live\nProfesseur : Alexandre Savoye
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260426T111500
 DTEND;TZID=Europe/Paris:20260426T131500
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:32fe78c115a502b8b5ade8626d75d801@strada-education.fr
 DESCRIPTION:dimanche 26 avril ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLi
  eu : Live\nProfesseur : Alexandre Savoye
@@ -30,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260427T183000
 DTEND;TZID=Europe/Paris:20260427T203000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:0765d1aae2878620fc42c36b60b96299@strada-education.fr
 DESCRIPTION:lundi 27 avril ⋅ 18h30 à 20h30\nTitre : Séance n°3\nLieu 
  : Live\nProfesseur : Alexandre Savoye
@@ -40,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 19h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260428T161500
 DTEND;TZID=Europe/Paris:20260428T193000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:c81729577f7dbe5018c0e45f939429ff@strada-education.fr
 DESCRIPTION:mardi 28 avril ⋅ 16h15 à 19h30\nTitre : Séance n°4\nLieu 
  : Live\nProfesseur : Alexandre Savoye
@@ -50,27 +40,17 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260507T163000
 DTEND;TZID=Europe/Paris:20260507T194500
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:a96928c471c527e537d32fe20ea6e116@strada-education.fr
 DESCRIPTION:jeudi 7 mai ⋅ 16h30 à 19h45\nTitre : Séance n°5\nLieu : L
  ive\nProfesseur : Alexandre Savoye
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:16h15 - 18h15\nLive : Droit administratif
-DTSTART;TZID=Europe/Paris:20260425T161500
-DTEND;TZID=Europe/Paris:20260425T181500
-DTSTAMP:20260525T203239Z
-UID:9cd57af92b59e2be936fd677c07407c7@strada-education.fr
-DESCRIPTION:samedi 25 avril ⋅ 16h15 à 18h15\nTitre : Séance n°1\nLieu
-  : Live\nProfesseur : Grégory Portais
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260504T140000
 DTEND;TZID=Europe/Paris:20260504T160000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:728bf82da98e7da40320ce5c2fb2a0a2@strada-education.fr
 DESCRIPTION:lundi 4 mai ⋅ 14h00 à 16h00\nTitre : Séance n°2\nLieu : L
  ive\nProfesseur : Grégory Portais
@@ -80,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260505T140000
 DTEND;TZID=Europe/Paris:20260505T160000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:f331b186d38260c829409ca86d474789@strada-education.fr
 DESCRIPTION:mardi 5 mai ⋅ 14h00 à 16h00\nTitre : Séance n°3\nLieu : L
  ive\nProfesseur : Grégory Portais
@@ -90,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260506T140000
 DTEND;TZID=Europe/Paris:20260506T160000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:c7a8d976865534bd1fe08260b7877f89@strada-education.fr
 DESCRIPTION:mercredi 6 mai ⋅ 14h00 à 16h00\nTitre : Séance n°4\nLieu 
  : Live\nProfesseur : Grégory Portais
@@ -100,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260507T140000
 DTEND;TZID=Europe/Paris:20260507T160000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:fd3fb2d8fb86a469b2feae7c2576a2c2@strada-education.fr
 DESCRIPTION:jeudi 7 mai ⋅ 14h00 à 16h00\nTitre : Séance n°5\nLieu : L
  ive\nProfesseur : Grégory Portais
@@ -110,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260509T140000
 DTEND;TZID=Europe/Paris:20260509T160000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:193095faa90ac3d797613d1860d9aaf8@strada-education.fr
 DESCRIPTION:samedi 9 mai ⋅ 14h00 à 16h00\nTitre : Séance n°6\nLieu : 
  Live\nProfesseur : Grégory Portais
@@ -120,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260427T140000
 DTEND;TZID=Europe/Paris:20260427T160000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:9123ac4becc778221b356be757eee01a@strada-education.fr
 DESCRIPTION:lundi 27 avril ⋅ 14h00 à 16h00\nTitre : Séance n°1\nLieu 
  : Live\nProfesseur : Jean-Dominique Voisin
@@ -130,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260428T111500
 DTEND;TZID=Europe/Paris:20260428T131500
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:8100bb221f082af759217f2abf58295c@strada-education.fr
 DESCRIPTION:mardi 28 avril ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLieu 
  : Live\nProfesseur : Jean-Dominique Voisin
@@ -140,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260430T100000
 DTEND;TZID=Europe/Paris:20260430T120000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:680fefb5a7c50696de10d206087dc85e@strada-education.fr
 DESCRIPTION:jeudi 30 avril ⋅ 10h00 à 12h00\nTitre : Séance n°3\nLieu 
  : Live\nProfesseur : Jean-Dominique Voisin
@@ -150,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260502T140000
 DTEND;TZID=Europe/Paris:20260502T160000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:eb809cdb64a954f390a63d0b7a6f3709@strada-education.fr
 DESCRIPTION:samedi 2 mai ⋅ 14h00 à 16h00\nTitre : Séance n°4\nLieu : 
  Live\nProfesseur : Jean-Dominique Voisin
@@ -160,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260505T090000
 DTEND;TZID=Europe/Paris:20260505T110000
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:3b903f203b997ea0db574083d287ee10@strada-education.fr
 DESCRIPTION:mardi 5 mai ⋅ 9h00 à 11h00\nTitre : Séance n°5\nLieu : Li
  ve\nProfesseur : Jean-Dominique Voisin
@@ -170,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260506T111500
 DTEND;TZID=Europe/Paris:20260506T131500
-DTSTAMP:20260525T203239Z
+DTSTAMP:20260526T180602Z
 UID:f539e2b52faf96f8690e4b36d87c9f40@strada-education.fr
 DESCRIPTION:mercredi 6 mai ⋅ 11h15 à 13h15\nTitre : Séance n°6\nLieu 
  : Live\nProfesseur : Jean-Dominique Voisin
