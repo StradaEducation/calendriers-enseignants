@@ -3,16 +3,86 @@ VERSION:2.0
 PRODID:-//Strada Education//Planning étudiant//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Planning - Karina Dias dos Santos
+X-WR-CALNAME:Planning - Sergio Berrospi Vivar
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit commercial
+DTSTART;TZID=Europe/Paris:20260708T183000
+DTEND;TZID=Europe/Paris:20260708T203000
+DTSTAMP:20260615T133819Z
+UID:2bf7aea475c96167e458b79be4081485@strada-education.fr
+DESCRIPTION:mercredi 8 juillet ⋅ 18h30 à 20h30\nTitre : Séminaire de c
+ orrection n°1\nLieu : Live\nProfesseur : Nawfel Sekfali
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit commercial
+DTSTART;TZID=Europe/Paris:20260720T183000
+DTEND;TZID=Europe/Paris:20260720T203000
+DTSTAMP:20260615T133819Z
+UID:a16d7f8ba522e8f69417c2457dbebc27@strada-education.fr
+DESCRIPTION:lundi 20 juillet ⋅ 18h30 à 20h30\nTitre : Séminaire de cor
+ rection n°2\nLieu : Live\nProfesseur : Nawfel Sekfali
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit commercial
+DTSTART;TZID=Europe/Paris:20260810T183000
+DTEND;TZID=Europe/Paris:20260810T203000
+DTSTAMP:20260615T133819Z
+UID:6a79bb6105c1a35bbd3256048d5a34c4@strada-education.fr
+DESCRIPTION:lundi 10 août ⋅ 18h30 à 20h30\nTitre : Séminaire de corre
+ ction n°3\nLieu : Live\nProfesseur : Nawfel Sekfali
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit commercial
+DTSTART;TZID=Europe/Paris:20260826T183000
+DTEND;TZID=Europe/Paris:20260826T203000
+DTSTAMP:20260615T133819Z
+UID:d59b6098f1f446c760f66e5f71e12721@strada-education.fr
+DESCRIPTION:mercredi 26 août ⋅ 18h30 à 20h30\nTitre : Séminaire de co
+ rrection n°4\nLieu : Live\nProfesseur : Nawfel Sekfali
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit commercial
+DTSTART;TZID=Europe/Paris:20261005T183000
+DTEND;TZID=Europe/Paris:20261005T203000
+DTSTAMP:20260615T133819Z
+UID:ca38292803eebfd8bdc92db8acf05f99@strada-education.fr
+DESCRIPTION:lundi 5 octobre ⋅ 18h30 à 20h30\nTitre : Séminaire de corr
+ ection n°5\nLieu : Live\nProfesseur : Nawfel Sekfali
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit commercial
+DTSTART;TZID=Europe/Paris:20261019T183000
+DTEND;TZID=Europe/Paris:20261019T203000
+DTSTAMP:20260615T133819Z
+UID:35987f31cb6885175463d0d63e22a260@strada-education.fr
+DESCRIPTION:lundi 19 octobre ⋅ 18h30 à 20h30\nTitre : Séminaire de cor
+ rection n°6\nLieu : Live\nProfesseur : Nawfel Sekfali
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit commercial
+DTSTART;TZID=Europe/Paris:20261226T183000
+DTEND;TZID=Europe/Paris:20261226T203000
+DTSTAMP:20260615T133819Z
+UID:1321db60f5b5da5a036fccb374f724d9@strada-education.fr
+DESCRIPTION:samedi 26 décembre ⋅ 18h30 à 20h30\nTitre : Séminaire de 
+ correction n°7\nLieu : Live\nProfesseur : Nawfel Sekfali
+LOCATION:Live (en ligne)
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20261001T183000
 DTEND;TZID=Europe/Paris:20261001T203000
-DTSTAMP:20260615T133818Z
-UID:620602a80d2e323cb1d6fbeb63f76239@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:4963003af0748f2c7d0920acdfaad1b7@strada-education.fr
 DESCRIPTION:jeudi 1 octobre ⋅ 18h30 à 20h30\nTitre : Cours n°8\nLieu :
   Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -22,8 +92,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260928T183000
 DTEND;TZID=Europe/Paris:20260928T203000
-DTSTAMP:20260615T133818Z
-UID:1637f3ad01962bc3bb58c8b8c58789de@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:8eb4e0dad468f92d70652f4f4448f16a@strada-education.fr
 DESCRIPTION:lundi 28 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°7\nLie
  u : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -33,8 +103,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260917T183000
 DTEND;TZID=Europe/Paris:20260917T203000
-DTSTAMP:20260615T133818Z
-UID:0bbc5e54dae2b09a41106fc7843953a6@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:c958a25cea67fd9eed61c9b6788aaa02@strada-education.fr
 DESCRIPTION:jeudi 17 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°6\nLie
  u : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -44,8 +114,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260914T183000
 DTEND;TZID=Europe/Paris:20260914T203000
-DTSTAMP:20260615T133818Z
-UID:0390f54a414a2af52b40224ae4239d19@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:564497b56668ff60d80d35c79c129067@strada-education.fr
 DESCRIPTION:lundi 14 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°5\nLie
  u : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -55,8 +125,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260910T183000
 DTEND;TZID=Europe/Paris:20260910T203000
-DTSTAMP:20260615T133818Z
-UID:bf9f4bfced19f828ab6b67863aa9d743@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:e8277053b8c4b39e32dc9a3e29b5ee79@strada-education.fr
 DESCRIPTION:jeudi 10 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°4\nLie
  u : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -66,8 +136,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260907T183000
 DTEND;TZID=Europe/Paris:20260907T203000
-DTSTAMP:20260615T133818Z
-UID:cf2587c4035794bf11e298af31fb8542@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:fb9cf2c528ad416318ab413c9a01331d@strada-education.fr
 DESCRIPTION:lundi 7 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°3\nLieu
   : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -77,8 +147,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260806T183000
 DTEND;TZID=Europe/Paris:20260806T203000
-DTSTAMP:20260615T133818Z
-UID:53a0bce1ee42f7ab369e82071fc7aa7a@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:2d197896f15feebf754b6a22a10acf97@strada-education.fr
 DESCRIPTION:jeudi 6 août ⋅ 18h30 à 20h30\nTitre : Cours n°2\nLieu : L
  ive\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -88,8 +158,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260803T183000
 DTEND;TZID=Europe/Paris:20260803T203000
-DTSTAMP:20260615T133818Z
-UID:404e7d8e92e7f46e7a025fb1e622a6b2@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:641f10d9164f296aa563fe071c2720b7@strada-education.fr
 DESCRIPTION:lundi 3 août ⋅ 18h30 à 20h30\nTitre : Cours n°1\nLieu : L
  ive\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -99,8 +169,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260730T183000
 DTEND;TZID=Europe/Paris:20260730T203000
-DTSTAMP:20260615T133818Z
-UID:91c7a8dcfb4e8c996f146edda34b6f3b@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:29c6a00d2f7609b19d932bf269108e75@strada-education.fr
 DESCRIPTION:jeudi 30 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°10\nLieu
   : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -110,8 +180,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260727T183000
 DTEND;TZID=Europe/Paris:20260727T203000
-DTSTAMP:20260615T133818Z
-UID:46a807e565ea958b9879010b09091b49@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:9730bb358c150f79a37a8c2488881ca4@strada-education.fr
 DESCRIPTION:lundi 27 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°9\nLieu 
  : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -121,8 +191,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260715T183000
 DTEND;TZID=Europe/Paris:20260715T203000
-DTSTAMP:20260615T133818Z
-UID:7b28a06916cdc9acb8f0be6f71fed014@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:09669c2237deaef92e78dfbe61f5fe52@strada-education.fr
 DESCRIPTION:mercredi 15 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°8\nLi
  eu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -132,8 +202,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260713T183000
 DTEND;TZID=Europe/Paris:20260713T203000
-DTSTAMP:20260615T133818Z
-UID:5896c753b4db97fd687755358c978966@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:31ee3353a99b539a4abc0524455343e3@strada-education.fr
 DESCRIPTION:lundi 13 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°7\nLieu 
  : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -143,8 +213,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260702T183000
 DTEND;TZID=Europe/Paris:20260702T203000
-DTSTAMP:20260615T133818Z
-UID:2068c26a630446a3f91cb0de1bede178@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:9ea93798de78c3c30ceb65eb77d10753@strada-education.fr
 DESCRIPTION:jeudi 2 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°6\nLieu :
   Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -154,8 +224,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260629T183000
 DTEND;TZID=Europe/Paris:20260629T203000
-DTSTAMP:20260615T133818Z
-UID:b738bf0de45593b4829d799c47bb2ffe@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:2ffc7d683a0bbc5079ce7ddabee6ba5e@strada-education.fr
 DESCRIPTION:lundi 29 juin ⋅ 18h30 à 20h30\nTitre : Cours n°5\nLieu : L
  ive\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -165,8 +235,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260625T183000
 DTEND;TZID=Europe/Paris:20260625T203000
-DTSTAMP:20260615T133818Z
-UID:7326610514716662963c26a4a3434754@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:0a48351815d94a7d0686e19de45cc647@strada-education.fr
 DESCRIPTION:jeudi 25 juin ⋅ 18h30 à 20h30\nTitre : Cours n°4\nLieu : L
  ive\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -176,8 +246,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260622T183000
 DTEND;TZID=Europe/Paris:20260622T203000
-DTSTAMP:20260615T133818Z
-UID:f28516ca3eaa21c52d7b51963c2962eb@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:7beb9fae5c327c4cd0718b6ffabd78a6@strada-education.fr
 DESCRIPTION:lundi 22 juin ⋅ 18h30 à 20h30\nTitre : Cours n°3\nLieu : L
  ive\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -187,8 +257,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260618T183000
 DTEND;TZID=Europe/Paris:20260618T203000
-DTSTAMP:20260615T133818Z
-UID:6eb2f2a2729e70a5ef36883c0adb7c71@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:d5f998c6593b0838cb6f485c83382f08@strada-education.fr
 DESCRIPTION:jeudi 18 juin ⋅ 18h30 à 20h30\nTitre : Cours n°2\nLieu : L
  ive\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -198,8 +268,8 @@ SUMMARY:18h30 - 20h30\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260615T183000
 DTEND;TZID=Europe/Paris:20260615T203000
-DTSTAMP:20260615T133818Z
-UID:a79b2d59849a1607657c610dbdea91d6@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:62f9915fd8860c1129aa0ce1ae0f91a2@strada-education.fr
 DESCRIPTION:lundi 15 juin ⋅ 18h30 à 20h30\nTitre : Cours n°1\nLieu : L
  ive\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -209,8 +279,8 @@ SUMMARY:19h00 - 20h00\nLive : Procédure et organisation judiciaire franç
  aise
 DTSTART;TZID=Europe/Paris:20260605T190000
 DTEND;TZID=Europe/Paris:20260605T200000
-DTSTAMP:20260615T133818Z
-UID:73bc65b1d8b9fa4b20b668507b3c12a3@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:6f7856a2b58f3ae4c7edb455edbb2488@strada-education.fr
 DESCRIPTION:vendredi 5 juin ⋅ 19h00 à 20h00\nTitre : Conférence inaugu
  rale\nLieu : Live\nProfesseur : Jean-Dominique Voisin
 LOCATION:Live (en ligne)
@@ -219,8 +289,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260619T183000
 DTEND;TZID=Europe/Paris:20260619T203000
-DTSTAMP:20260615T133818Z
-UID:f9ba7b5c0f2d0b43804e7aa3956298e4@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:dbfc5b79992d8315e22814d0cac658ce@strada-education.fr
 DESCRIPTION:vendredi 19 juin ⋅ 18h30 à 20h30\nTitre : Cours n°1\nLieu 
  : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -229,8 +299,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260624T183000
 DTEND;TZID=Europe/Paris:20260624T203000
-DTSTAMP:20260615T133818Z
-UID:c29e1842e4d043e1ec95c034c43e13df@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:7913aea21efbc403770fb865be83c1ab@strada-education.fr
 DESCRIPTION:mercredi 24 juin ⋅ 18h30 à 20h30\nTitre : Cours n°2\nLieu 
  : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -239,8 +309,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260701T183000
 DTEND;TZID=Europe/Paris:20260701T203000
-DTSTAMP:20260615T133818Z
-UID:5f855d3469ffa07d1f5cd5d6289e3ee3@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:0766c36fdca2684cd7defd85b18b939f@strada-education.fr
 DESCRIPTION:mercredi 1 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°3\nLie
  u : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -249,8 +319,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260716T183000
 DTEND;TZID=Europe/Paris:20260716T203000
-DTSTAMP:20260615T133818Z
-UID:2aeb92302db40099cc58ab1c1ae89c09@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:1385f167a67c3013932f4d5be8ecb254@strada-education.fr
 DESCRIPTION:jeudi 16 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°4\nLieu 
  : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -259,8 +329,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260729T183000
 DTEND;TZID=Europe/Paris:20260729T203000
-DTSTAMP:20260615T133818Z
-UID:3e4073455de286a190f62dbdbf4c3e03@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:f1cd773752a7e7b40e80601b1b72f4e0@strada-education.fr
 DESCRIPTION:mercredi 29 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°5\nLi
  eu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -269,8 +339,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260805T183000
 DTEND;TZID=Europe/Paris:20260805T203000
-DTSTAMP:20260615T133818Z
-UID:c6c4785024bb0984b79680855539694a@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:3195d8f8e64b39ba1cf8373e02dd14c3@strada-education.fr
 DESCRIPTION:mercredi 5 août ⋅ 18h30 à 20h30\nTitre : Cours n°6\nLieu 
  : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -279,8 +349,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260909T183000
 DTEND;TZID=Europe/Paris:20260909T203000
-DTSTAMP:20260615T133818Z
-UID:9503ab3246c3eaf6ba560e44a04cbc71@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:a2cfe3aa03085c9cf60d96410adabd94@strada-education.fr
 DESCRIPTION:mercredi 9 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°7\nL
  ieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -289,8 +359,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260916T183000
 DTEND;TZID=Europe/Paris:20260916T203000
-DTSTAMP:20260615T133818Z
-UID:4fc03fa2a8c6b2c3cc7841db5a25c4d6@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:336b4dfc2651025b257ac2261d966813@strada-education.fr
 DESCRIPTION:mercredi 16 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°8\n
  Lieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -299,8 +369,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260930T183000
 DTEND;TZID=Europe/Paris:20260930T203000
-DTSTAMP:20260615T133818Z
-UID:16a0b154570ec7404f5bd4458fb1314a@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:fac305709d4ec370550d23f4f80fb742@strada-education.fr
 DESCRIPTION:mercredi 30 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°9\n
  Lieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -309,8 +379,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261014T183000
 DTEND;TZID=Europe/Paris:20261014T203000
-DTSTAMP:20260615T133818Z
-UID:823e9669f7cd6674df62c910246038a7@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:e42f9495e3aced125e6880be1b058042@strada-education.fr
 DESCRIPTION:mercredi 14 octobre ⋅ 18h30 à 20h30\nTitre : Cours n°10\nL
  ieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
@@ -319,8 +389,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260609T183000
 DTEND;TZID=Europe/Paris:20260609T203000
-DTSTAMP:20260615T133818Z
-UID:bd46085d005f879b6becd33a7f3dda08@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:26b6609584a796fae1968d60f41be5b5@strada-education.fr
 DESCRIPTION:mardi 9 juin ⋅ 18h30 à 20h30\nTitre : Méthodologie de l'é
  preuve de rédaction d'actes - Partie 1\nLieu : Live\nProfesseur : Gérald
  ine Laborie
@@ -330,8 +400,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 19h30\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260611T183000
 DTEND;TZID=Europe/Paris:20260611T193000
-DTSTAMP:20260615T133818Z
-UID:379be507819325d4a9b36036f20d7967@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:a3d11d028cb37458e2b853993434a090@strada-education.fr
 DESCRIPTION:jeudi 11 juin ⋅ 18h30 à 19h30\nTitre : Méthodologie de l'
  épreuve de rédaction d'actes - Partie 2\nLieu : Live\nProfesseur : Géra
  ldine Laborie
@@ -341,8 +411,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260706T183000
 DTEND;TZID=Europe/Paris:20260706T200000
-DTSTAMP:20260615T133818Z
-UID:4131a64531b5bb3bdd44259ced4ece86@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:ec7e193932ab0f4828761740c22bb086@strada-education.fr
 DESCRIPTION:lundi 6 juillet ⋅ 18h30 à 20h00\nTitre : Séminaire de corr
  ection n°1\nLieu : Live\nProfesseur : Géraldine Laborie
 LOCATION:Live (en ligne)
@@ -351,8 +421,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260721T183000
 DTEND;TZID=Europe/Paris:20260721T200000
-DTSTAMP:20260615T133818Z
-UID:864ede5d11ad892fa2c6edccc924a70d@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:16d8a1eb1a38d1c96803f1d061704276@strada-education.fr
 DESCRIPTION:mardi 21 juillet ⋅ 18h30 à 20h00\nTitre : Séminaire de cor
  rection n°2\nLieu : Live\nProfesseur : Géraldine Laborie
 LOCATION:Live (en ligne)
@@ -361,8 +431,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260811T183000
 DTEND;TZID=Europe/Paris:20260811T200000
-DTSTAMP:20260615T133818Z
-UID:9011c6ea9c64bb81beb57c8751f00f48@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:0b3c6a7a6111c888d31ce6bddef59580@strada-education.fr
 DESCRIPTION:mardi 11 août ⋅ 18h30 à 20h00\nTitre : Séminaire de corre
  ction n°3\nLieu : Live\nProfesseur : Géraldine Laborie
 LOCATION:Live (en ligne)
@@ -371,8 +441,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260903T183000
 DTEND;TZID=Europe/Paris:20260903T200000
-DTSTAMP:20260615T133818Z
-UID:9fc64474ad6eabf5cc19d359dfefbe40@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:b6577061d2b5a3e37ce7b493305431b1@strada-education.fr
 DESCRIPTION:jeudi 3 septembre ⋅ 18h30 à 20h00\nTitre : Séminaire de co
  rrection n°4\nLieu : Live\nProfesseur : Géraldine Laborie
 LOCATION:Live (en ligne)
@@ -381,8 +451,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260922T183000
 DTEND;TZID=Europe/Paris:20260922T200000
-DTSTAMP:20260615T133818Z
-UID:3160ef48eaa346a406730211870bd522@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:a3a9a78cd7dd5b2d5cc3ff3cba58021a@strada-education.fr
 DESCRIPTION:mardi 22 septembre ⋅ 18h30 à 20h00\nTitre : Séminaire de c
  orrection n°5\nLieu : Live\nProfesseur : Géraldine Laborie
 LOCATION:Live (en ligne)
@@ -391,8 +461,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261006T183000
 DTEND;TZID=Europe/Paris:20261006T200000
-DTSTAMP:20260615T133818Z
-UID:f4251e81a02ef09930c38cdc7c017477@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:1dfb1e3ff07cc006bb8ff1b0a0d92e8e@strada-education.fr
 DESCRIPTION:mardi 6 octobre ⋅ 18h30 à 20h00\nTitre : Séminaire de corr
  ection n°6\nLieu : Live\nProfesseur : Géraldine Laborie
 LOCATION:Live (en ligne)
@@ -401,8 +471,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261020T183000
 DTEND;TZID=Europe/Paris:20261020T200000
-DTSTAMP:20260615T133818Z
-UID:bcb6e71732a063d485966b01b7a6258f@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:b27df05d2e0556ba12b9806f8d5f9e71@strada-education.fr
 DESCRIPTION:mardi 20 octobre ⋅ 18h30 à 20h00\nTitre : Séminaire de cor
  rection n°7\nLieu : Live\nProfesseur : Géraldine Laborie
 LOCATION:Live (en ligne)
@@ -411,8 +481,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20261016T183000
 DTEND;TZID=Europe/Paris:20261016T203000
-DTSTAMP:20260615T133818Z
-UID:f41e68a6e48cac1d7a9429f4110ca5d2@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:571dc7f6b5d943be332718c2b0d9315e@strada-education.fr
 DESCRIPTION:vendredi 16 octobre ⋅ 18h30 à 20h30\nTitre : Cours n°10\nL
  ieu : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -421,8 +491,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20261002T183000
 DTEND;TZID=Europe/Paris:20261002T203000
-DTSTAMP:20260615T133818Z
-UID:1965dcd2cf9a384d0014e9bd926f358a@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:3be0f078e97500c739ead2b99c90ccfe@strada-education.fr
 DESCRIPTION:vendredi 2 octobre ⋅ 18h30 à 20h30\nTitre : Cours n°9\nLie
  u : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -431,8 +501,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260918T183000
 DTEND;TZID=Europe/Paris:20260918T203000
-DTSTAMP:20260615T133818Z
-UID:f4fc1e04fd055b159963e8bd20c867d1@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:810b82ee10f9392e9bff01733534fd2c@strada-education.fr
 DESCRIPTION:vendredi 18 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°8\n
  Lieu : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -441,8 +511,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260911T183000
 DTEND;TZID=Europe/Paris:20260911T203000
-DTSTAMP:20260615T133818Z
-UID:909c495293f9e6206ba7e2fda95d0ee2@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:b6549bb1eb8c8169d1ac4d8f794ed0de@strada-education.fr
 DESCRIPTION:vendredi 11 septembre ⋅ 18h30 à 20h30\nTitre : Cours n°7\n
  Lieu : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -451,8 +521,8 @@ BEGIN:VEVENT
 SUMMARY:19h00 - 21h00\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260804T190000
 DTEND;TZID=Europe/Paris:20260804T210000
-DTSTAMP:20260615T133818Z
-UID:251085e2f7d434d56ddd4fe136f210a9@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:7c1e7cb4204244a558917c831252389f@strada-education.fr
 DESCRIPTION:mardi 4 août ⋅ 19h00 à 21h00\nTitre : Cours n°6\nLieu : L
  ive\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -461,8 +531,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260728T183000
 DTEND;TZID=Europe/Paris:20260728T203000
-DTSTAMP:20260615T133818Z
-UID:8d51dfd2a9d9a4fb33089fcdd687f29b@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:7443238f82e852d4f12b312675fc58f3@strada-education.fr
 DESCRIPTION:mardi 28 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°5\nLieu 
  : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -471,8 +541,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260717T183000
 DTEND;TZID=Europe/Paris:20260717T203000
-DTSTAMP:20260615T133818Z
-UID:a3a302fe34d7ce69392f2454facc59a7@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:35dea8510610e09a1cc03a2d7f04e629@strada-education.fr
 DESCRIPTION:vendredi 17 juillet ⋅ 18h30 à 20h30\nTitre : Cours n°4\nLi
  eu : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -481,8 +551,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260630T183000
 DTEND;TZID=Europe/Paris:20260630T203000
-DTSTAMP:20260615T133818Z
-UID:dbd8582ffab0dfc63c9d81de732ed5e0@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:8fb67a387755e76f7ab9aa8f4b864bc8@strada-education.fr
 DESCRIPTION:mardi 30 juin ⋅ 18h30 à 20h30\nTitre : Cours n°3\nLieu : L
  ive\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -491,8 +561,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260623T183000
 DTEND;TZID=Europe/Paris:20260623T203000
-DTSTAMP:20260615T133818Z
-UID:de01ece947258e585c94ca6cd72c5d6d@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:d8e2e829f254d6f4e40abc50cd5d4178@strada-education.fr
 DESCRIPTION:mardi 23 juin ⋅ 18h30 à 20h30\nTitre : Cours n°2\nLieu : L
  ive\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -501,8 +571,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260616T183000
 DTEND;TZID=Europe/Paris:20260616T203000
-DTSTAMP:20260615T133818Z
-UID:755d73e9717dd468cce3de33ab45cd52@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:c14c938c97bbbdb95dfad6f4991cde75@strada-education.fr
 DESCRIPTION:mardi 16 juin ⋅ 18h30 à 20h30\nTitre : Cours n°1\nLieu : L
  ive\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
@@ -511,8 +581,8 @@ BEGIN:VEVENT
 SUMMARY:19h00 - 20h00\nLive : Déontologie de la profession d'avocat
 DTSTART;TZID=Europe/Paris:20260608T190000
 DTEND;TZID=Europe/Paris:20260608T200000
-DTSTAMP:20260615T133818Z
-UID:2ca83b63f6936f01cf568959dc6e3456@strada-education.fr
+DTSTAMP:20260615T133819Z
+UID:98d78b8b81fff426adade44022d5a5be@strada-education.fr
 DESCRIPTION:lundi 8 juin ⋅ 19h00 à 20h00\nTitre : Introduction et premi
  ers conseils\nLieu : Live\nProfesseur : Benoît Chaffois
 LOCATION:Live (en ligne)
