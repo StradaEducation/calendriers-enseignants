@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Clara Vermillon
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:15h00 - 16h00\nLive : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260720T150000
+DTEND;TZID=Europe/Paris:20260720T160000
+DTSTAMP:20260710T223253Z
+UID:49287ab5a7888e432c39258202279535@strada-education.fr
+DESCRIPTION:lundi 20 juillet ⋅ 15h00 à 16h00\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16h15 - 17h15\nLive : Droit civil
+DTSTART;TZID=Europe/Paris:20260720T161500
+DTEND;TZID=Europe/Paris:20260720T171500
+DTSTAMP:20260710T223253Z
+UID:20a9e8ead5bd322a2784f2881685d722@strada-education.fr
+DESCRIPTION:lundi 20 juillet ⋅ 16h15 à 17h15\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:17h30 - 18h30\nLive : Conférences
+DTSTART;TZID=Europe/Paris:20260720T173000
+DTEND;TZID=Europe/Paris:20260720T183000
+DTSTAMP:20260710T223253Z
+UID:ed2be75123a026c1e788df92b089faf1@strada-education.fr
+DESCRIPTION:lundi 20 juillet ⋅ 17h30 à 18h30\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
