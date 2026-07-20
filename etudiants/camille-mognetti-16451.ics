@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Camille Mognetti
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:15h00 - 16h00\nLive : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260723T150000
+DTEND;TZID=Europe/Paris:20260723T160000
+DTSTAMP:20260720T222839Z
+UID:6c0934e0fe61974a216077622299a65b@strada-education.fr
+DESCRIPTION:jeudi 23 juillet ⋅ 15h00 à 16h00\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16h15 - 17h15\nLive : Droit civil
+DTSTART;TZID=Europe/Paris:20260723T161500
+DTEND;TZID=Europe/Paris:20260723T171500
+DTSTAMP:20260720T222839Z
+UID:9c7d7c2b8826f2ab3a61e346e7e6da74@strada-education.fr
+DESCRIPTION:jeudi 23 juillet ⋅ 16h15 à 17h15\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
