@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Paul Huan-Maury
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:15h00 - 16h00\nLive : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260723T150000
+DTEND;TZID=Europe/Paris:20260723T160000
+DTSTAMP:20260803T223340Z
+UID:6dbfc5fb727a93ec62c0d1fc7cd2c427@strada-education.fr
+DESCRIPTION:jeudi 23 juillet ⋅ 15h00 à 16h00\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16h15 - 17h15\nLive : Droit civil
+DTSTART;TZID=Europe/Paris:20260723T161500
+DTEND;TZID=Europe/Paris:20260723T171500
+DTSTAMP:20260803T223340Z
+UID:136c0a7c2746de11e17941083f13c80c@strada-education.fr
+DESCRIPTION:jeudi 23 juillet ⋅ 16h15 à 17h15\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
