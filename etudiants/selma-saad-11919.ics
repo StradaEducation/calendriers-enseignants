@@ -7,13 +7,23 @@ X-WR-CALNAME:Planning - Selma SAAD
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:18h30 - 19h30\nLive : Grands problèmes juridiques contemporains
-DTSTART;TZID=Europe/Paris:20260515T183000
-DTEND;TZID=Europe/Paris:20260515T193000
-DTSTAMP:20260613T101200Z
-UID:13de0afd8c76bf3184f2a5838269b849@strada-education.fr
-DESCRIPTION:vendredi 15 mai ⋅ 18h30 à 19h30\nTitre : Live Q&A\nLieu : L
- ive\nProfesseur : Eva Philippe
+SUMMARY:15h00 - 16h00\nLive : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260723T150000
+DTEND;TZID=Europe/Paris:20260723T160000
+DTSTAMP:20260810T221138Z
+UID:0c092be03bd83cce7e1e6c76d077aea0@strada-education.fr
+DESCRIPTION:jeudi 23 juillet ⋅ 15h00 à 16h00\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16h15 - 17h15\nLive : Droit civil
+DTSTART;TZID=Europe/Paris:20260723T161500
+DTEND;TZID=Europe/Paris:20260723T171500
+DTSTAMP:20260810T221138Z
+UID:f29cba3074f0c072dfe304bae9db3bba@strada-education.fr
+DESCRIPTION:jeudi 23 juillet ⋅ 16h15 à 17h15\nTitre : Conférence inaug
+ urale\nLieu : Live\nProfesseur : Kahina Khadraoui
 LOCATION:Live (en ligne)
 END:VEVENT
 END:VCALENDAR
