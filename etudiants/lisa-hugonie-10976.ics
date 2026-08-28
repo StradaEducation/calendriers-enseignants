@@ -7,13 +7,23 @@ X-WR-CALNAME:Planning - Lisa Hugonie
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:9h00 - 11h00\nLive : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20260509T090000
-DTEND;TZID=Europe/Paris:20260509T110000
-DTSTAMP:20260608T221049Z
-UID:ab26f84e99124bc33110dcedcb273dc3@strada-education.fr
-DESCRIPTION:samedi 9 mai ⋅ 9h00 à 11h00\nTitre : Séance n°6\nLieu : L
- ive\nProfesseur : Grégory Portais
+SUMMARY:14h00 - 15h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T153000
+DTSTAMP:20260828T053221Z
+UID:4156ba5a57eb62b1da14a8706e4790af@strada-education.fr
+DESCRIPTION:samedi 19 septembre ⋅ 14h00 à 15h30\nTitre : Comment appren
+ dre efficacement\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19h00 - 20h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261019T190000
+DTEND;TZID=Europe/Paris:20261019T203000
+DTSTAMP:20260828T053221Z
+UID:fe7d8af6e2c1e535e4d596cbba07d276@strada-education.fr
+DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
+ morisation\nLieu : Live\nProfesseur : Florian Manicardi
 LOCATION:Live (en ligne)
 END:VEVENT
 END:VCALENDAR
