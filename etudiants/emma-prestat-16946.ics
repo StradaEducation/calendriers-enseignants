@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Emma Prestat
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:14h00 - 15h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T153000
+DTSTAMP:20260828T053435Z
+UID:70e594cb4406eaf7b479e50e0b1a5937@strada-education.fr
+DESCRIPTION:samedi 19 septembre ⋅ 14h00 à 15h30\nTitre : Comment appren
+ dre efficacement\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19h00 - 20h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261019T190000
+DTEND;TZID=Europe/Paris:20261019T203000
+DTSTAMP:20260828T053435Z
+UID:ae29e302954c06f5cbfa69ffde580301@strada-education.fr
+DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
+ morisation\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
