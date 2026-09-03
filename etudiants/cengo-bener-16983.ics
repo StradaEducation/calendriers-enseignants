@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Cengo Bener
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:14h00 - 15h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20260919T140000
+DTEND;TZID=Europe/Paris:20260919T153000
+DTSTAMP:20260903T233046Z
+UID:8eb37cca95833ccd83e80a0e77196596@strada-education.fr
+DESCRIPTION:samedi 19 septembre ⋅ 14h00 à 15h30\nTitre : Comment appren
+ dre efficacement\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19h00 - 20h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261019T190000
+DTEND;TZID=Europe/Paris:20261019T203000
+DTSTAMP:20260903T233046Z
+UID:2953bd2b9b44659dd639660904d445a5@strada-education.fr
+DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
+ morisation\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
