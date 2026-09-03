@@ -7,12 +7,12 @@ X-WR-CALNAME:Planning - elena Fossecave
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:10h00 - 13h15\nCours en présentiel : Droit civil
-DTSTART;TZID=Europe/Paris:20260914T100000
-DTEND;TZID=Europe/Paris:20260914T131500
-DTSTAMP:20260902T233250Z
-UID:844d212539be6b760b0b2a36f29af42c@strada-education.fr
-DESCRIPTION:lundi 14 septembre ⋅ 10h00 à 13h15\nTitre : Séance n°1\nL
+SUMMARY:11h00 - 13h00\nCours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260914T110000
+DTEND;TZID=Europe/Paris:20260914T130000
+DTSTAMP:20260903T233036Z
+UID:c8ddfa8e863c1ee9460f5eae9062dd37@strada-education.fr
+DESCRIPTION:lundi 14 septembre ⋅ 11h00 à 13h00\nTitre : Séance n°1\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gira
  rdet
 LOCATION:5 rue notre dame des champs 75006 PARIS
@@ -21,9 +21,9 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20260916T180000
 DTEND;TZID=Europe/Paris:20260916T200000
-DTSTAMP:20260902T233250Z
-UID:5b336db930cdda34326b2071941893ed@strada-education.fr
-DESCRIPTION:mercredi 16 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°2
+DTSTAMP:20260903T233036Z
+UID:08f205eb7fb398ea5cdfa63e67c8b853@strada-education.fr
+DESCRIPTION:mercredi 16 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°3
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
  irardet
 LOCATION:5 rue notre dame des champs 75006 PARIS
@@ -32,29 +32,40 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20260918T180000
 DTEND;TZID=Europe/Paris:20260918T200000
-DTSTAMP:20260902T233250Z
-UID:ad6ced48f461322f079429336d2b3361@strada-education.fr
-DESCRIPTION:vendredi 18 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°3
+DTSTAMP:20260903T233036Z
+UID:34ec6224549e9b36b1166f9d61ba4368@strada-education.fr
+DESCRIPTION:vendredi 18 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°4
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
  irardet
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:10h00 - 13h15\nCours en présentiel : Droit civil
-DTSTART;TZID=Europe/Paris:20260919T100000
-DTEND;TZID=Europe/Paris:20260919T131500
-DTSTAMP:20260902T233250Z
-UID:3308382b792e671fd8a90bab3d5f9c93@strada-education.fr
-DESCRIPTION:samedi 19 septembre ⋅ 10h00 à 13h15\nTitre : Séance n°4\n
+SUMMARY:11h00 - 13h00\nCours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260919T110000
+DTEND;TZID=Europe/Paris:20260919T130000
+DTSTAMP:20260903T233036Z
+UID:5a0c16aed822a47822fc02c65dcafe2b@strada-education.fr
+DESCRIPTION:samedi 19 septembre ⋅ 11h00 à 13h00\nTitre : Séance n°5\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gir
  ardet
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8h30 - 10h30\nCours en présentiel : Droit civil
+DTSTART;TZID=Europe/Paris:20260915T083000
+DTEND;TZID=Europe/Paris:20260915T103000
+DTSTAMP:20260903T233036Z
+UID:d0611fa3968abc585035a8a5c4d3c6a8@strada-education.fr
+DESCRIPTION:mardi 15 septembre ⋅ 8h30 à 10h30\nTitre : Séance n°2\nLi
+ eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Girar
+ det
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14h00 - 17h15\nCours en présentiel : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20260914T140000
 DTEND;TZID=Europe/Paris:20260914T171500
-DTSTAMP:20260902T233250Z
+DTSTAMP:20260903T233036Z
 UID:4823f386cd1b34ce08d3c8c6c017e012@strada-education.fr
 DESCRIPTION:lundi 14 septembre ⋅ 14h00 à 17h15\nTitre : Séance n°1\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui
@@ -62,23 +73,23 @@ DESCRIPTION:lundi 14 septembre ⋅ 14h00 à 17h15\nTitre : Séance n°1\nL
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:18h00 - 20h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20260915T180000
-DTEND;TZID=Europe/Paris:20260915T200000
-DTSTAMP:20260902T233250Z
-UID:5d56330571a4ee8049e1a4c51f99316e@strada-education.fr
-DESCRIPTION:mardi 15 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°2\nL
+SUMMARY:16h45 - 18h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260915T164500
+DTEND;TZID=Europe/Paris:20260915T184500
+DTSTAMP:20260903T233036Z
+UID:19d9c07687ca76bafaf48c7263265ce5@strada-education.fr
+DESCRIPTION:mardi 15 septembre ⋅ 16h45 à 18h45\nTitre : Séance n°2\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui
  llé
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:18h00 - 20h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20260917T180000
-DTEND;TZID=Europe/Paris:20260917T200000
-DTSTAMP:20260902T233250Z
-UID:1f30deadbb6f5a434e4aaa28c1f5d6f9@strada-education.fr
-DESCRIPTION:jeudi 17 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°3\nL
+SUMMARY:16h45 - 18h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260917T164500
+DTEND;TZID=Europe/Paris:20260917T184500
+DTSTAMP:20260903T233036Z
+UID:fba56438cac2fa2dd873a3fd8cf08c29@strada-education.fr
+DESCRIPTION:jeudi 17 septembre ⋅ 16h45 à 18h45\nTitre : Séance n°3\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui
  llé
 LOCATION:5 rue notre dame des champs 75006 PARIS
@@ -87,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 17h15\nCours en présentiel : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20260919T140000
 DTEND;TZID=Europe/Paris:20260919T171500
-DTSTAMP:20260902T233250Z
+DTSTAMP:20260903T233036Z
 UID:b203d85634a9fda33b1f4149df828709@strada-education.fr
 DESCRIPTION:samedi 19 septembre ⋅ 14h00 à 17h15\nTitre : Séance n°4\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Rou
@@ -98,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 15h30\nLive : Boite à outils
 DTSTART;TZID=Europe/Paris:20260919T140000
 DTEND;TZID=Europe/Paris:20260919T153000
-DTSTAMP:20260902T233250Z
+DTSTAMP:20260903T233036Z
 UID:f0470e70d99c05a3314b017195be63c6@strada-education.fr
 DESCRIPTION:samedi 19 septembre ⋅ 14h00 à 15h30\nTitre : Comment appren
  dre efficacement\nLieu : Live\nProfesseur : Florian Manicardi
@@ -108,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:19h00 - 20h30\nLive : Boite à outils
 DTSTART;TZID=Europe/Paris:20261019T190000
 DTEND;TZID=Europe/Paris:20261019T203000
-DTSTAMP:20260902T233250Z
+DTSTAMP:20260903T233036Z
 UID:37ae3012956b1373dc9cbd8f6cb0ef39@strada-education.fr
 DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
  morisation\nLieu : Live\nProfesseur : Florian Manicardi
