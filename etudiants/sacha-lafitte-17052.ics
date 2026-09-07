@@ -7,10 +7,86 @@ X-WR-CALNAME:Planning - SACHA LAFITTE
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:17h00 - 19h00\nCours en présentiel : Comptabilité
+DTSTART;TZID=Europe/Paris:20260911T170000
+DTEND;TZID=Europe/Paris:20260911T190000
+DTSTAMP:20260907T234524Z
+UID:41adc4b34fb6e058f3eab75ff04fb849@strada-education.fr
+DESCRIPTION:vendredi 11 septembre ⋅ 17h00 à 19h00\nTitre : Séance n°4
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Loui
+ s Gourdoux
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14h00 - 16h00\nCours en présentiel : Comptabilité
+DTSTART;TZID=Europe/Paris:20260909T140000
+DTEND;TZID=Europe/Paris:20260909T160000
+DTSTAMP:20260907T234524Z
+UID:c36bce270f9181ec0e497fb73fc8cf8a@strada-education.fr
+DESCRIPTION:mercredi 9 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°2
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Loui
+ s Gourdoux
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14h15 - 16h15\nCours en présentiel : Comptabilité
+DTSTART;TZID=Europe/Paris:20260910T141500
+DTEND;TZID=Europe/Paris:20260910T161500
+DTSTAMP:20260907T234524Z
+UID:0f5bfba5424b7108febb4b92f2bb5e3d@strada-education.fr
+DESCRIPTION:jeudi 10 septembre ⋅ 14h15 à 16h15\nTitre : Séance n°3\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Louis G
+ ourdoux
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13h00 - 15h00\nCours en présentiel : Comptabilité
+DTSTART;TZID=Europe/Paris:20260907T130000
+DTEND;TZID=Europe/Paris:20260907T150000
+DTSTAMP:20260907T234524Z
+UID:153b05c43ea243dfa2ae20f558f93537@strada-education.fr
+DESCRIPTION:lundi 7 septembre ⋅ 13h00 à 15h00\nTitre : Séance n°1\nLi
+ eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Louis Go
+ urdoux
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:11h15 - 13h15\nCours en présentiel : Macro-économie
+DTSTART;TZID=Europe/Paris:20260909T111500
+DTEND;TZID=Europe/Paris:20260909T131500
+DTSTAMP:20260907T234524Z
+UID:19d987692e6bb248ff39bc99f2744751@strada-education.fr
+DESCRIPTION:mercredi 9 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°1
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Souhila Bah
+ i
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16h30 - 19h45\nCours en présentiel : Macro-économie
+DTSTART;TZID=Europe/Paris:20260910T163000
+DTEND;TZID=Europe/Paris:20260910T194500
+DTSTAMP:20260907T234524Z
+UID:f46096dbd5933ae34952fd54a3193763@strada-education.fr
+DESCRIPTION:jeudi 10 septembre ⋅ 16h30 à 19h45\nTitre : Séance n°2\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Souhila Bahi
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13h30 - 16h45\nCours en présentiel : Macro-économie
+DTSTART;TZID=Europe/Paris:20260911T133000
+DTEND;TZID=Europe/Paris:20260911T164500
+DTSTAMP:20260907T234524Z
+UID:fc48f549f84d53450fa8bbe1d1dfd7f4@strada-education.fr
+DESCRIPTION:vendredi 11 septembre ⋅ 13h30 à 16h45\nTitre : Séance n°3
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Souhila Bah
+ i
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:8h30 - 10h30\nCours en présentiel : Maths/stats
 DTSTART;TZID=Europe/Paris:20260910T083000
 DTEND;TZID=Europe/Paris:20260910T103000
-DTSTAMP:20260906T231051Z
+DTSTAMP:20260907T234524Z
 UID:40091a3cd23030ebef5844b6d9ee4b1f@strada-education.fr
 DESCRIPTION:jeudi 10 septembre ⋅ 8h30 à 10h30\nTitre : Séance n°1\nLi
  eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Louis Gal
@@ -20,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 17h15\nCours en présentiel : Maths/stats
 DTSTART;TZID=Europe/Paris:20260912T140000
 DTEND;TZID=Europe/Paris:20260912T171500
-DTSTAMP:20260906T231051Z
+DTSTAMP:20260907T234524Z
 UID:d66ed581296046cdf1ff82413cd90a12@strada-education.fr
 DESCRIPTION:samedi 12 septembre ⋅ 14h00 à 17h15\nTitre : Séance n°2\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Louis Gal
@@ -30,86 +106,10 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 12h45\nCours en présentiel : Maths/stats
 DTSTART;TZID=Europe/Paris:20260914T093000
 DTEND;TZID=Europe/Paris:20260914T124500
-DTSTAMP:20260906T231051Z
+DTSTAMP:20260907T234524Z
 UID:6eb053699f3a101d54204e2ec2a09c0c@strada-education.fr
 DESCRIPTION:lundi 14 septembre ⋅ 9h30 à 12h45\nTitre : Séance n°3\nLi
  eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Louis Gal
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14h00 - 17h15\nCours en présentiel : Macro-économie
-DTSTART;TZID=Europe/Paris:20260909T140000
-DTEND;TZID=Europe/Paris:20260909T171500
-DTSTAMP:20260906T231051Z
-UID:dc5cd54948c81497899eaa26f08acc55@strada-education.fr
-DESCRIPTION:mercredi 9 septembre ⋅ 14h00 à 17h15\nTitre : Séance n°1
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Souhila Bah
- i
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:10h00 - 13h15\nCours en présentiel : Macro-économie
-DTSTART;TZID=Europe/Paris:20260911T100000
-DTEND;TZID=Europe/Paris:20260911T131500
-DTSTAMP:20260906T231051Z
-UID:79bd7b88a146e409574740537dc8292b@strada-education.fr
-DESCRIPTION:vendredi 11 septembre ⋅ 10h00 à 13h15\nTitre : Séance n°2
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Souhila Bah
- i
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:11h00 - 13h00\nCours en présentiel : Macro-économie
-DTSTART;TZID=Europe/Paris:20260912T110000
-DTEND;TZID=Europe/Paris:20260912T130000
-DTSTAMP:20260906T231051Z
-UID:25a449b1f3809daa50417e3581c2a604@strada-education.fr
-DESCRIPTION:samedi 12 septembre ⋅ 11h00 à 13h00\nTitre : Séance n°3\n
- Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Souhila Bahi
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:18h00 - 20h00\nCours en présentiel : Comptabilité
-DTSTART;TZID=Europe/Paris:20260908T180000
-DTEND;TZID=Europe/Paris:20260908T200000
-DTSTAMP:20260906T231051Z
-UID:687b995d8b42058284cae1ce1100ee84@strada-education.fr
-DESCRIPTION:mardi 8 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°1\nLi
- eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Louis Go
- urdoux
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14h30 - 16h30\nCours en présentiel : Comptabilité
-DTSTART;TZID=Europe/Paris:20260911T143000
-DTEND;TZID=Europe/Paris:20260911T163000
-DTSTAMP:20260906T231051Z
-UID:b587fd52b53fc7354dc59c2617ff469c@strada-education.fr
-DESCRIPTION:vendredi 11 septembre ⋅ 14h30 à 16h30\nTitre : Séance n°2
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Loui
- s Gourdoux
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:8h30 - 10h30\nCours en présentiel : Comptabilité
-DTSTART;TZID=Europe/Paris:20260915T083000
-DTEND;TZID=Europe/Paris:20260915T103000
-DTSTAMP:20260906T231051Z
-UID:a9a23ee1761bf0af68896ee19739f3b9@strada-education.fr
-DESCRIPTION:mardi 15 septembre ⋅ 8h30 à 10h30\nTitre : Séance n°4\nLi
- eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Louis Go
- urdoux
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:18h00 - 20h00\nCours en présentiel : Comptabilité
-DTSTART;TZID=Europe/Paris:20260914T180000
-DTEND;TZID=Europe/Paris:20260914T200000
-DTSTAMP:20260906T231051Z
-UID:3105a8f492b56090825c9bff2b3ffc5b@strada-education.fr
-DESCRIPTION:lundi 14 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°3\nL
- ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Pierre-Louis G
- ourdoux
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 END:VCALENDAR
