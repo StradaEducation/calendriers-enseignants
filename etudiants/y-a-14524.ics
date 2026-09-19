@@ -3,105 +3,115 @@ VERSION:2.0
 PRODID:-//Strada Education//Planning étudiant//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Planning - Ryana Michel
+X-WR-CALNAME:Planning - Y A
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260827T120000
 DTEND;TZID=Europe/Paris:20260827T123000
-DTSTAMP:20260919T230900Z
-UID:a0eeaad2cbb0bb964b6b322620b35bfd@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:cdd69d0160a819373c976da88ab60142@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °9\nLieu : Live\nProfesseur : Capucine Toset
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14h45 - 15h45\nLive : Note de synthèse
+DTSTART;TZID=Europe/Paris:20260826T144500
+DTEND;TZID=Europe/Paris:20260826T154500
+DTSTAMP:20260919T230907Z
+UID:de26e7c2276112830587de75818f24bb@strada-education.fr
+DESCRIPTION:mercredi 26 août ⋅ 14h45 à 15h45\nTitre : Live derniers co
+ nseils\nLieu : Live\nProfesseur : Mathieu Violette
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18h30 - 19h30\nLive : Sophrologie
 DTSTART;TZID=Europe/Paris:20260827T183000
 DTEND;TZID=Europe/Paris:20260827T193000
-DTSTAMP:20260919T230900Z
-UID:a87e0d5b7addeec9dedc10df11f61787@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:5982df3ef91e66dda0e08bab27d0aa80@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 18h30 à 19h30\nTitre : Atelier n°3\nLieu 
  : Live\nProfesseur : Elsa Mindelsohn
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:16h15 - 17h15\nLive : Droit administratif
-DTSTART;TZID=Europe/Paris:20260827T161500
-DTEND;TZID=Europe/Paris:20260827T171500
-DTSTAMP:20260919T230900Z
-UID:397d6b178ca3143693eb1558bb7b5d39@strada-education.fr
-DESCRIPTION:jeudi 27 août ⋅ 16h15 à 17h15\nTitre : Live derniers conse
- ils\nLieu : Live\nProfesseur : Tatiana Kieffer
+SUMMARY:14h00 - 16h00\nLive : Droit des obligations
+DTSTART;TZID=Europe/Paris:20260821T140000
+DTEND;TZID=Europe/Paris:20260821T160000
+DTSTAMP:20260919T230907Z
+UID:69a1469ec0ee7d238b1059b922836abf@strada-education.fr
+DESCRIPTION:vendredi 21 août ⋅ 14h00 à 16h00\nTitre : Séminaire de co
+ rrection n°7\nLieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:12h00 - 12h30\nLive : Droit administratif
-DTSTART;TZID=Europe/Paris:20260821T120000
-DTEND;TZID=Europe/Paris:20260821T123000
-DTSTAMP:20260919T230900Z
-UID:0e01278d5015ee85bb703b2a397c9d85@strada-education.fr
-DESCRIPTION:vendredi 21 août ⋅ 12h00 à 12h30\nTitre : Live Q&A n°3\nL
- ieu : Live\nProfesseur : Tatiana Kieffer
+SUMMARY:16h15 - 17h15\nLive : Droit des obligations
+DTSTART;TZID=Europe/Paris:20260821T161500
+DTEND;TZID=Europe/Paris:20260821T171500
+DTSTAMP:20260919T230907Z
+UID:91be1df223f9ebc19e7ab93f9b5c90d7@strada-education.fr
+DESCRIPTION:vendredi 21 août ⋅ 16h15 à 17h15\nTitre : Live Q&A n°7\nL
+ ieu : Live\nProfesseur : Franck Goncalves
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:9h30 - 11h00\nLive : Procédure administrative et contentieuse
+SUMMARY:10h30 - 12h30\nLive : Droit des obligations
+DTSTART;TZID=Europe/Paris:20260828T103000
+DTEND;TZID=Europe/Paris:20260828T123000
+DTSTAMP:20260919T230907Z
+UID:3c927d409fbdad362b065b23aca2e8a1@strada-education.fr
+DESCRIPTION:vendredi 28 août ⋅ 10h30 à 12h30\nTitre : Live derniers co
+ nseils\nLieu : Live\nProfesseur : Taklith Boudjelti
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9h00 - 11h00\nLive : Droit pénal
+DTSTART;TZID=Europe/Paris:20260827T090000
+DTEND;TZID=Europe/Paris:20260827T110000
+DTSTAMP:20260919T230907Z
+UID:1577d012fe1a433820286a0deeb44b2b@strada-education.fr
+DESCRIPTION:jeudi 27 août ⋅ 9h00 à 11h00\nTitre : Live derniers consei
+ ls\nLieu : Live\nProfesseur : Yves Patouillard
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9h30 - 11h00\nLive : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260821T093000
 DTEND;TZID=Europe/Paris:20260821T110000
-DTSTAMP:20260919T230900Z
-UID:73cf4ac2ae529da8e0f3f9bb20a5838c@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:116e22165edc524860f5ce2d59e2eb47@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 9h30 à 11h00\nTitre : Séminaire de cor
- rection n°7\nLieu : Live\nProfesseur : Tatiana Kieffer
+ rection n°7\nLieu : Live\nProfesseur : Margaux Laclef
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:16h00 - 17h00\nLive : Procédure administrative et contentieuse
-DTSTART;TZID=Europe/Paris:20260828T160000
-DTEND;TZID=Europe/Paris:20260828T170000
-DTSTAMP:20260919T230900Z
-UID:499f67516ce3a976afdc7119edb6d756@strada-education.fr
-DESCRIPTION:vendredi 28 août ⋅ 16h00 à 17h00\nTitre : Live derniers co
- nseils\nLieu : Live\nProfesseur : Tatiana Kieffer
+SUMMARY:9h15 - 10h15\nLive : Procédure pénale
+DTSTART;TZID=Europe/Paris:20260828T091500
+DTEND;TZID=Europe/Paris:20260828T101500
+DTSTAMP:20260919T230907Z
+UID:a734ce7a93fe4f494c432d717568c071@strada-education.fr
+DESCRIPTION:vendredi 28 août ⋅ 9h15 à 10h15\nTitre : Live derniers con
+ seils\nLieu : Live\nProfesseur : Gabriel Dumenil
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:11h15 - 11h45\nLive : Procédure administrative et contentieuse
+SUMMARY:11h15 - 11h45\nLive : Procédure pénale
 DTSTART;TZID=Europe/Paris:20260821T111500
 DTEND;TZID=Europe/Paris:20260821T114500
-DTSTAMP:20260919T230900Z
-UID:3fca0be1384a572b6a8c5b8ba3cdf902@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:a9f00863c532627acde838f083d89a90@strada-education.fr
 DESCRIPTION:vendredi 21 août ⋅ 11h15 à 11h45\nTitre : Live Q&A n°3\nL
- ieu : Live\nProfesseur : Tatiana Kieffer
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:16h00 - 17h00\nLive : Note de synthèse
-DTSTART;TZID=Europe/Paris:20260826T160000
-DTEND;TZID=Europe/Paris:20260826T170000
-DTSTAMP:20260919T230900Z
-UID:6c84b629dd47dfd9323a8a7affdc4c58@strada-education.fr
-DESCRIPTION:mercredi 26 août ⋅ 16h00 à 17h00\nTitre : Live derniers co
- nseils\nLieu : Live\nProfesseur : Mathieu Violette
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:13h30 - 15h30\nLive : Droit des obligations
-DTSTART;TZID=Europe/Paris:20260828T133000
-DTEND;TZID=Europe/Paris:20260828T153000
-DTSTAMP:20260919T230900Z
-UID:797f2b64110cc5a38164efeddd0c0ad1@strada-education.fr
-DESCRIPTION:vendredi 28 août ⋅ 13h30 à 15h30\nTitre : Live derniers co
- nseils\nLieu : Live\nProfesseur : Taklith Boudjelti
+ ieu : Live\nProfesseur : Margaux Laclef
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Libertés publiques et droits fondamentaux
 DTSTART;TZID=Europe/Paris:20260923T183000
 DTEND;TZID=Europe/Paris:20260923T203000
-DTSTAMP:20260919T230900Z
-UID:98fe44ce4842cd43339c38922d6189ea@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:f2d2d83170d2cda23325cc31496a9290@strada-education.fr
 DESCRIPTION:mercredi 23 septembre ⋅ 18h30 à 20h30\nTitre : Live d'entra
  înement n°1\nLieu : Live\nProfesseur : Michael Poyet
 LOCATION:Live (en ligne)
@@ -110,8 +120,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Libertés publiques et droits fondamentaux
 DTSTART;TZID=Europe/Paris:20260930T183000
 DTEND;TZID=Europe/Paris:20260930T203000
-DTSTAMP:20260919T230900Z
-UID:752cc87527ad608cce89c681a4261386@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:46062fae2c4fe16ce9592d790ab14b6e@strada-education.fr
 DESCRIPTION:mercredi 30 septembre ⋅ 18h30 à 20h30\nTitre : Live d'entra
  înement n°2\nLieu : Live\nProfesseur : Michael Poyet
 LOCATION:Live (en ligne)
@@ -120,8 +130,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Libertés publiques et droits fondamentaux
 DTSTART;TZID=Europe/Paris:20261008T183000
 DTEND;TZID=Europe/Paris:20261008T203000
-DTSTAMP:20260919T230900Z
-UID:f9be8ccce73556fafe445d8eeac7f1e0@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:bebc5f7bbc1748b8902abcaf2770844d@strada-education.fr
 DESCRIPTION:jeudi 8 octobre ⋅ 18h30 à 20h30\nTitre : Live d'entraîneme
  nt n°3\nLieu : Live\nProfesseur : Michael Poyet
 LOCATION:Live (en ligne)
@@ -130,8 +140,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Libertés publiques et droits fondamentaux
 DTSTART;TZID=Europe/Paris:20261014T183000
 DTEND;TZID=Europe/Paris:20261014T203000
-DTSTAMP:20260919T230900Z
-UID:b39a41053c0bf528a9ad4fe0ea381919@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:34fc44f9a341d76b8640fa99a44eb49d@strada-education.fr
 DESCRIPTION:mercredi 14 octobre ⋅ 18h30 à 20h30\nTitre : Live d'entraî
  nement n°4\nLieu : Live\nProfesseur : Michael Poyet
 LOCATION:Live (en ligne)
@@ -140,8 +150,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nLive : Libertés publiques et droits fondamentaux
 DTSTART;TZID=Europe/Paris:20261026T183000
 DTEND;TZID=Europe/Paris:20261026T203000
-DTSTAMP:20260919T230900Z
-UID:188a454ea1e53ff2bea90823aaf1a357@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:87d5665c2ceb46a9ebd8bd05386a862e@strada-education.fr
 DESCRIPTION:lundi 26 octobre ⋅ 18h30 à 20h30\nTitre : Live d'entraînem
  ent n°5\nLieu : Live\nProfesseur : Michael Poyet
 LOCATION:Live (en ligne)
@@ -150,8 +160,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Libertés publiques et droits fondamentaux
 DTSTART;TZID=Europe/Paris:20260914T183000
 DTEND;TZID=Europe/Paris:20260914T200000
-DTSTAMP:20260919T230900Z
-UID:c675f329f5219341d6b5fa67674ef9af@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:2666ad537a0105c920cfe7dd690f2899@strada-education.fr
 DESCRIPTION:lundi 14 septembre ⋅ 18h30 à 20h00\nTitre : Conférence de 
  présentation\nLieu : Live\nProfesseur : Michael Poyet
 LOCATION:Live (en ligne)
@@ -160,8 +170,8 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 19h30\nLive : Sophrologie
 DTSTART;TZID=Europe/Paris:20261028T183000
 DTEND;TZID=Europe/Paris:20261028T193000
-DTSTAMP:20260919T230900Z
-UID:e4dd9a59aeb31e531c4c0c6fab178fd5@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:260b0ec28add9cd55cbcf09fdca7fe77@strada-education.fr
 DESCRIPTION:mercredi 28 octobre ⋅ 18h30 à 19h30\nTitre : Se préparer a
  ux oraux\nLieu : Live\nProfesseur : Elsa Mindelsohn
 LOCATION:Live (en ligne)
@@ -170,8 +180,8 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 18h45\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260917T180000
 DTEND;TZID=Europe/Paris:20260917T184500
-DTSTAMP:20260919T230900Z
-UID:544f4d30a45bd8ee5ecbfd3135dd2244@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:73601f1f8dfb07d69eafc583e2f68841@strada-education.fr
 DESCRIPTION:jeudi 17 septembre ⋅ 18h00 à 18h45\nTitre : Mot de la prép
  a - post écrits\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -180,8 +190,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20260924T120000
 DTEND;TZID=Europe/Paris:20260924T123000
-DTSTAMP:20260919T230900Z
-UID:4969cde82609e520c1950b732c586e8a@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:86c2b3c80cf42a85ad102089dd1890f4@strada-education.fr
 DESCRIPTION:jeudi 24 septembre ⋅ 12h00 à 12h30\nTitre : Mot de la prép
  a n°1\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -190,8 +200,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20261001T120000
 DTEND;TZID=Europe/Paris:20261001T123000
-DTSTAMP:20260919T230900Z
-UID:793711a228c8e047e7c6a711a180bee1@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:2fba3d5c1ce011becf9dc2c0749e83ab@strada-education.fr
 DESCRIPTION:jeudi 1 octobre ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °2\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -200,8 +210,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20261008T120000
 DTEND;TZID=Europe/Paris:20261008T123000
-DTSTAMP:20260919T230900Z
-UID:0f73beef1280224486d2f73bac8fcb7b@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:99b17ed2edff6dd053376e65b64c2408@strada-education.fr
 DESCRIPTION:jeudi 8 octobre ⋅ 12h00 à 12h30\nTitre : Mot de la prépa n
  °3\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -210,8 +220,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20261015T120000
 DTEND;TZID=Europe/Paris:20261015T123000
-DTSTAMP:20260919T230900Z
-UID:0bc8ce6c110d6c1893372ded62232be7@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:79652e651ab7e6b7a477fac7350c756c@strada-education.fr
 DESCRIPTION:jeudi 15 octobre ⋅ 12h00 à 12h30\nTitre : Mot de la prépa 
  n°4\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -220,8 +230,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20261021T120000
 DTEND;TZID=Europe/Paris:20261021T123000
-DTSTAMP:20260919T230900Z
-UID:f57b175474f4943dcf004b7721050a1a@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:712406570504ba204622c286707277e4@strada-education.fr
 DESCRIPTION:mercredi 21 octobre ⋅ 12h00 à 12h30\nTitre : Mot de la pré
  pa n°5\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -230,8 +240,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20261029T120000
 DTEND;TZID=Europe/Paris:20261029T123000
-DTSTAMP:20260919T230900Z
-UID:f41afe859378fc2fb4a86f8a396031ad@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:050b7b568246d666f39299c5e01a01db@strada-education.fr
 DESCRIPTION:jeudi 29 octobre ⋅ 12h00 à 12h30\nTitre : Mot de la prépa 
  n°6\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
@@ -240,8 +250,8 @@ BEGIN:VEVENT
 SUMMARY:12h00 - 12h30\nLive : Mot de la prépa
 DTSTART;TZID=Europe/Paris:20261104T120000
 DTEND;TZID=Europe/Paris:20261104T123000
-DTSTAMP:20260919T230900Z
-UID:f260cecec87ec724c0b6a8e083a83dc7@strada-education.fr
+DTSTAMP:20260919T230907Z
+UID:90fadfd02371d615d48bf0623f2fa29a@strada-education.fr
 DESCRIPTION:mercredi 4 novembre ⋅ 12h00 à 12h30\nTitre : Mot de la pré
  pa n°7\nLieu : Live\nProfesseur : Capucine Toset
 LOCATION:Live (en ligne)
