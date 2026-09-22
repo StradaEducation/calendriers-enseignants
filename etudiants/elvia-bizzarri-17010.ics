@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:19h00 - 20h30\nLive : Boite à outils
 DTSTART;TZID=Europe/Paris:20261019T190000
 DTEND;TZID=Europe/Paris:20261019T203000
-DTSTAMP:20260922T001914Z
+DTSTAMP:20260922T235358Z
 UID:f6d36fd48057876a1c88bc0caafa4d6c@strada-education.fr
 DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
  morisation\nLieu : Live\nProfesseur : Florian Manicardi
@@ -20,10 +20,20 @@ BEGIN:VEVENT
 SUMMARY:19h00 - 20h30\nLive : Atelier professionnel
 DTSTART;TZID=Europe/Paris:20260921T190000
 DTEND;TZID=Europe/Paris:20260921T203000
-DTSTAMP:20260922T001914Z
+DTSTAMP:20260922T235358Z
 UID:1c9eee3601bbce4123f84b66af4f19c9@strada-education.fr
 DESCRIPTION:lundi 21 septembre ⋅ 19h00 à 20h30\nTitre : Comment apprend
  re efficacement\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 19h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261102T183000
+DTEND;TZID=Europe/Paris:20261102T193000
+DTSTAMP:20260922T235358Z
+UID:1106fdac496c3ac03b2d845586cf502a@strada-education.fr
+DESCRIPTION:lundi 2 novembre ⋅ 18h30 à 19h30\nTitre : Atelier gestion d
+ u stress\nLieu : Live\nProfesseur : Marion Wasseur
 LOCATION:Live (en ligne)
 END:VEVENT
 END:VCALENDAR

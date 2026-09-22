@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Ethan Favier
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:19h00 - 20h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261019T190000
+DTEND;TZID=Europe/Paris:20261019T203000
+DTSTAMP:20260922T235358Z
+UID:b47fcbc95aa84ffaa4fc899561306f35@strada-education.fr
+DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
+ morisation\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19h00 - 20h30\nLive : Atelier professionnel
+DTSTART;TZID=Europe/Paris:20260921T190000
+DTEND;TZID=Europe/Paris:20260921T203000
+DTSTAMP:20260922T235358Z
+UID:df223de90fa4bd6c41987a70bd4eba38@strada-education.fr
+DESCRIPTION:lundi 21 septembre ⋅ 19h00 à 20h30\nTitre : Comment apprend
+ re efficacement\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 19h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261102T183000
+DTEND;TZID=Europe/Paris:20261102T193000
+DTSTAMP:20260922T235358Z
+UID:fe759e47eab5e21c3f5eac2e7eae9f27@strada-education.fr
+DESCRIPTION:lundi 2 novembre ⋅ 18h30 à 19h30\nTitre : Atelier gestion d
+ u stress\nLieu : Live\nProfesseur : Marion Wasseur
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
