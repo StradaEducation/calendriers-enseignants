@@ -8,19 +8,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit civil
-DTSTART;TZID=Europe/Paris:20260825T090000
-DTEND;TZID=Europe/Paris:20260825T110000
-DTSTAMP:20260923T235137Z
-UID:81ecb87fafd6ace4db84af50a500f962@strada-education.fr
-DESCRIPTION:mardi 25 août ⋅ 9h00 à 11h00\nTitre : Séance n°2\nLieu :
-  Live\nProfesseur : Annabelle Girardet
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:9h00 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260826T090000
 DTEND;TZID=Europe/Paris:20260826T110000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:b0b9b72264fd4c56d5fd090739c1dbd3@strada-education.fr
 DESCRIPTION:mercredi 26 août ⋅ 9h00 à 11h00\nTitre : Séance n°3\nLie
  u : Live\nProfesseur : Annabelle Girardet
@@ -30,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260827T090000
 DTEND;TZID=Europe/Paris:20260827T110000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:2348aeccf24759199b9eecde89088111@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 9h00 à 11h00\nTitre : Séance n°4\nLieu :
   Live\nProfesseur : Annabelle Girardet
@@ -40,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20260828T111500
 DTEND;TZID=Europe/Paris:20260828T131500
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:487ada0465572035d1cfb62b33b8b8ba@strada-education.fr
 DESCRIPTION:vendredi 28 août ⋅ 11h15 à 13h15\nTitre : Séance n°5\nLi
  eu : Live\nProfesseur : Annabelle Girardet
@@ -48,19 +38,9 @@ LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20260825T111500
-DTEND;TZID=Europe/Paris:20260825T131500
-DTSTAMP:20260923T235137Z
-UID:c45957f61f86cde8fc42b9549082b832@strada-education.fr
-DESCRIPTION:mardi 25 août ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLieu 
- : Live\nProfesseur : Kahina Khadraoui
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:11h15 - 13h15\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20260826T111500
 DTEND;TZID=Europe/Paris:20260826T131500
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:1f0297582a33cb61a2bf2a967991d285@strada-education.fr
 DESCRIPTION:mercredi 26 août ⋅ 11h15 à 13h15\nTitre : Séance n°3\nLi
  eu : Live\nProfesseur : Kahina Khadraoui
@@ -70,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20260827T111500
 DTEND;TZID=Europe/Paris:20260827T131500
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:91914f97de569f7e1adb0813422b79dd@strada-education.fr
 DESCRIPTION:jeudi 27 août ⋅ 11h15 à 13h15\nTitre : Séance n°4\nLieu 
  : Live\nProfesseur : Kahina Khadraoui
@@ -80,17 +60,138 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20260828T090000
 DTEND;TZID=Europe/Paris:20260828T110000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:a1ff187ad3fc198ee58a861456c881ad@strada-education.fr
 DESCRIPTION:vendredi 28 août ⋅ 9h00 à 11h00\nTitre : Séance n°5\nLie
  u : Live\nProfesseur : Kahina Khadraoui
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20260925T154500
+DTEND;TZID=Europe/Paris:20260925T174500
+DTSTAMP:20260925T001231Z
+UID:fa6785efece34ef29c7368b3fef7ae0e@strada-education.fr
+DESCRIPTION:vendredi 25 septembre ⋅ 15h45 à 17h45\nTitre : Séance n°1
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
+ elin
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261002T154500
+DTEND;TZID=Europe/Paris:20261002T174500
+DTSTAMP:20260925T001231Z
+UID:8db6dfef841dcad754ffcedfc3d6a35b@strada-education.fr
+DESCRIPTION:vendredi 2 octobre ⋅ 15h45 à 17h45\nTitre : Séance n°2\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Geli
+ n
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261009T154500
+DTEND;TZID=Europe/Paris:20261009T174500
+DTSTAMP:20260925T001231Z
+UID:7713dceeef46fc753b86a1f405844baf@strada-education.fr
+DESCRIPTION:vendredi 9 octobre ⋅ 15h45 à 17h45\nTitre : Séance n°3\nL
+ ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Geli
+ n
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261016T154500
+DTEND;TZID=Europe/Paris:20261016T174500
+DTSTAMP:20260925T001231Z
+UID:fe125a918d30aecac3f06ef0886413e8@strada-education.fr
+DESCRIPTION:vendredi 16 octobre ⋅ 15h45 à 17h45\nTitre : Séance n°4\n
+ Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Gel
+ in
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261023T154500
+DTEND;TZID=Europe/Paris:20261023T174500
+DTSTAMP:20260925T001231Z
+UID:8698acac379ba4b29ef86c69b4f4e219@strada-education.fr
+DESCRIPTION:vendredi 23 octobre ⋅ 15h45 à 17h45\nTitre : Séance n°5\n
+ Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Gel
+ in
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261106T154500
+DTEND;TZID=Europe/Paris:20261106T174500
+DTSTAMP:20260925T001231Z
+UID:6706b6dac7d3411557a059e7c52e7c21@strada-education.fr
+DESCRIPTION:vendredi 6 novembre ⋅ 15h45 à 17h45\nTitre : Séance n°6\n
+ Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Gel
+ in
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261113T154500
+DTEND;TZID=Europe/Paris:20261113T174500
+DTSTAMP:20260925T001231Z
+UID:1e0a8b379bc63cbcb898e7110643f6b8@strada-education.fr
+DESCRIPTION:vendredi 13 novembre ⋅ 15h45 à 17h45\nTitre : Séance n°7
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
+ elin
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261120T154500
+DTEND;TZID=Europe/Paris:20261120T174500
+DTSTAMP:20260925T001231Z
+UID:b4744dfa270159238559d513fe5ceb67@strada-education.fr
+DESCRIPTION:vendredi 20 novembre ⋅ 15h45 à 17h45\nTitre : Séance n°8
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
+ elin
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261127T154500
+DTEND;TZID=Europe/Paris:20261127T174500
+DTSTAMP:20260925T001231Z
+UID:ab25f94e4d2ddbe3eb0f0848d46da2a6@strada-education.fr
+DESCRIPTION:vendredi 27 novembre ⋅ 15h45 à 17h45\nTitre : Séance n°9
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
+ elin
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261204T154500
+DTEND;TZID=Europe/Paris:20261204T174500
+DTSTAMP:20260925T001231Z
+UID:6b79390d01ef44b303c67baaf96f0aba@strada-education.fr
+DESCRIPTION:vendredi 4 décembre ⋅ 15h45 à 17h45\nTitre : Séance n°10
+ \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
+ elin
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
+DTSTART;TZID=Europe/Paris:20261211T154500
+DTEND;TZID=Europe/Paris:20261211T174500
+DTSTAMP:20260925T001231Z
+UID:86d5740109fbf071f95a0bdbddb2d3fb@strada-education.fr
+DESCRIPTION:vendredi 11 décembre ⋅ 15h45 à 17h45\nTitre : Séance n°1
+ 1\nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul 
+ Gelin
+LOCATION:5 rue notre dame des champs 75006 PARIS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20260923T180000
 DTEND;TZID=Europe/Paris:20260923T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:0c7ba7ba1a304482b8a66c6cafcc55a2@strada-education.fr
 DESCRIPTION:mercredi 23 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°1
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khad
@@ -101,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20260930T180000
 DTEND;TZID=Europe/Paris:20260930T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:2a1d5807282a697e6e428ad3ec7f066c@strada-education.fr
 DESCRIPTION:mercredi 30 septembre ⋅ 18h00 à 20h00\nTitre : Séance n°2
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khad
@@ -112,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261007T180000
 DTEND;TZID=Europe/Paris:20261007T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:0e7a87088ca6363beb0c4c6efec3bc2c@strada-education.fr
 DESCRIPTION:mercredi 7 octobre ⋅ 18h00 à 20h00\nTitre : Séance n°3\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khadrao
@@ -123,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261014T180000
 DTEND;TZID=Europe/Paris:20261014T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:f361f88aa29e445592d20f77b8e51f45@strada-education.fr
 DESCRIPTION:mercredi 14 octobre ⋅ 18h00 à 20h00\nTitre : Séance n°4\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khadra
@@ -134,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261021T180000
 DTEND;TZID=Europe/Paris:20261021T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:55a0b4a87c9bb8efce87a0f193c80b51@strada-education.fr
 DESCRIPTION:mercredi 21 octobre ⋅ 18h00 à 20h00\nTitre : Séance n°5\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khadra
@@ -145,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261104T180000
 DTEND;TZID=Europe/Paris:20261104T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:6351a1d6dd1b10dcd93717f904658f97@strada-education.fr
 DESCRIPTION:mercredi 4 novembre ⋅ 18h00 à 20h00\nTitre : Séance n°6\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khadra
@@ -156,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:7e513a3a92da579c7d2de881da0b8d9f@strada-education.fr
 DESCRIPTION:mercredi 18 novembre ⋅ 18h00 à 20h00\nTitre : Séance n°8
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khad
@@ -167,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261125T180000
 DTEND;TZID=Europe/Paris:20261125T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:8ae3d35529d1f18143fbf90e804d0022@strada-education.fr
 DESCRIPTION:mercredi 25 novembre ⋅ 18h00 à 20h00\nTitre : Séance n°9
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khad
@@ -178,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261202T180000
 DTEND;TZID=Europe/Paris:20261202T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:b781b38043851daa0835033acd408505@strada-education.fr
 DESCRIPTION:mercredi 2 décembre ⋅ 18h00 à 20h00\nTitre : Séance n°10
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khad
@@ -189,121 +290,11 @@ BEGIN:VEVENT
 SUMMARY:18h00 - 20h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261209T180000
 DTEND;TZID=Europe/Paris:20261209T200000
-DTSTAMP:20260923T235137Z
+DTSTAMP:20260925T001231Z
 UID:a57166e6295979176cb828dc0abae855@strada-education.fr
 DESCRIPTION:mercredi 9 décembre ⋅ 18h00 à 20h00\nTitre : Séance n°11
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Kahina Khad
  raoui
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20260923T154500
-DTEND;TZID=Europe/Paris:20260923T174500
-DTSTAMP:20260923T235137Z
-UID:7c4850ed5d37e5c3af2e9a55f20c8065@strada-education.fr
-DESCRIPTION:mercredi 23 septembre ⋅ 15h45 à 17h45\nTitre : Séance n°1
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
- elin
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20260930T154500
-DTEND;TZID=Europe/Paris:20260930T174500
-DTSTAMP:20260923T235137Z
-UID:3474d92e6be9d89da95ada0e828b377c@strada-education.fr
-DESCRIPTION:mercredi 30 septembre ⋅ 15h45 à 17h45\nTitre : Séance n°2
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
- elin
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261007T154500
-DTEND;TZID=Europe/Paris:20261007T174500
-DTSTAMP:20260923T235137Z
-UID:6812a5006e9801172824e16e5a61c7fb@strada-education.fr
-DESCRIPTION:mercredi 7 octobre ⋅ 15h45 à 17h45\nTitre : Séance n°3\nL
- ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Geli
- n
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261014T154500
-DTEND;TZID=Europe/Paris:20261014T174500
-DTSTAMP:20260923T235137Z
-UID:6a34a4c54db56f3bb3ce56fc4425bda8@strada-education.fr
-DESCRIPTION:mercredi 14 octobre ⋅ 15h45 à 17h45\nTitre : Séance n°4\n
- Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Gel
- in
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261021T154500
-DTEND;TZID=Europe/Paris:20261021T174500
-DTSTAMP:20260923T235137Z
-UID:4fe58e243275f326bd5d8b26829f1cc0@strada-education.fr
-DESCRIPTION:mercredi 21 octobre ⋅ 15h45 à 17h45\nTitre : Séance n°5\n
- Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Gel
- in
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261104T154500
-DTEND;TZID=Europe/Paris:20261104T174500
-DTSTAMP:20260923T235137Z
-UID:c1acaec4d3a12cf4511ed2587360f9de@strada-education.fr
-DESCRIPTION:mercredi 4 novembre ⋅ 15h45 à 17h45\nTitre : Séance n°6\n
- Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul Gel
- in
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261118T154500
-DTEND;TZID=Europe/Paris:20261118T174500
-DTSTAMP:20260923T235137Z
-UID:772c2108242e66abffb16c7e4ea328d4@strada-education.fr
-DESCRIPTION:mercredi 18 novembre ⋅ 15h45 à 17h45\nTitre : Séance n°8
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
- elin
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261125T154500
-DTEND;TZID=Europe/Paris:20261125T174500
-DTSTAMP:20260923T235137Z
-UID:44a1a2de8bd2495cf5c132b5248653fc@strada-education.fr
-DESCRIPTION:mercredi 25 novembre ⋅ 15h45 à 17h45\nTitre : Séance n°9
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
- elin
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261202T154500
-DTEND;TZID=Europe/Paris:20261202T174500
-DTSTAMP:20260923T235137Z
-UID:5e5867bdf3fd7773431f6ecb383a1f8b@strada-education.fr
-DESCRIPTION:mercredi 2 décembre ⋅ 15h45 à 17h45\nTitre : Séance n°10
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
- elin
-LOCATION:5 rue notre dame des champs 75006 PARIS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15h45 - 17h45\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261209T154500
-DTEND;TZID=Europe/Paris:20261209T174500
-DTSTAMP:20260923T235137Z
-UID:7b9b585bc00be83b61dc34d28d251a82@strada-education.fr
-DESCRIPTION:mercredi 9 décembre ⋅ 15h45 à 17h45\nTitre : Séance n°11
- \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Jean-Paul G
- elin
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 END:VCALENDAR
