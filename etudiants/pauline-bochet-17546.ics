@@ -3,45 +3,15 @@ VERSION:2.0
 PRODID:-//Strada Education//Planning étudiant//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Planning - Cyprien Bouvreuil
+X-WR-CALNAME:Planning - Pauline Bochet
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
-BEGIN:VEVENT
-SUMMARY:19h00 - 20h30\nLive : Boite à outils
-DTSTART;TZID=Europe/Paris:20261019T190000
-DTEND;TZID=Europe/Paris:20261019T203000
-DTSTAMP:20261001T004726Z
-UID:96377cbeb7c0328616cecd0fcc4c9cc6@strada-education.fr
-DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
- morisation\nLieu : Live\nProfesseur : Florian Manicardi
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:19h00 - 20h30\nLive : Atelier professionnel
-DTSTART;TZID=Europe/Paris:20260921T190000
-DTEND;TZID=Europe/Paris:20260921T203000
-DTSTAMP:20261001T004726Z
-UID:fbab72acaf4bfa01832e9f7a2079f058@strada-education.fr
-DESCRIPTION:lundi 21 septembre ⋅ 19h00 à 20h30\nTitre : Comment apprend
- re efficacement\nLieu : Live\nProfesseur : Florian Manicardi
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:18h30 - 19h30\nLive : Boite à outils
-DTSTART;TZID=Europe/Paris:20261102T183000
-DTEND;TZID=Europe/Paris:20261102T193000
-DTSTAMP:20261001T004726Z
-UID:0585cb8dca7a385863adcca2d5d40378@strada-education.fr
-DESCRIPTION:lundi 2 novembre ⋅ 18h30 à 19h30\nTitre : Atelier gestion d
- u stress\nLieu : Live\nProfesseur : Marion Wasseur
-LOCATION:Live (en ligne)
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261001T100000
 DTEND;TZID=Europe/Paris:20261001T120000
-DTSTAMP:20261001T004726Z
-UID:0e91731929f03599a2ec9f0ba7f0bb14@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:add62597d5c0f55f1c43886ccd29fe6e@strada-education.fr
 DESCRIPTION:jeudi 1 octobre ⋅ 10h00 à 12h00\nTitre : Séance n°1\nLieu
   : Live\nProfesseur : Annabelle Girardet
 LOCATION:Live (en ligne)
@@ -50,8 +20,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261007T140000
 DTEND;TZID=Europe/Paris:20261007T160000
-DTSTAMP:20261001T004726Z
-UID:546248105ae38b9c22b950b43832068f@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:ced664fd8143a90c20e18c157a1714e5@strada-education.fr
 DESCRIPTION:mercredi 7 octobre ⋅ 14h00 à 16h00\nTitre : Séance n°2\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gira
  rdet
@@ -61,8 +31,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261014T140000
 DTEND;TZID=Europe/Paris:20261014T160000
-DTSTAMP:20261001T004726Z
-UID:ddb937e008e4040d434f90b0c3fe2c27@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:d574afdc4826a07d859c70d8074c1a89@strada-education.fr
 DESCRIPTION:mercredi 14 octobre ⋅ 14h00 à 16h00\nTitre : Séance n°3\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gir
  ardet
@@ -72,8 +42,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261021T140000
 DTEND;TZID=Europe/Paris:20261021T160000
-DTSTAMP:20261001T004726Z
-UID:c450dffe528764274a719847b10c2c07@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:20d4a747b6db8aef24c542d3b5626c11@strada-education.fr
 DESCRIPTION:mercredi 21 octobre ⋅ 14h00 à 16h00\nTitre : Séance n°4\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gir
  ardet
@@ -83,8 +53,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261104T140000
 DTEND;TZID=Europe/Paris:20261104T160000
-DTSTAMP:20261001T004726Z
-UID:2d5bc99f1dc4827fccdf119fb37d8e51@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:29012076f674d6ea82a3d9a4969640a4@strada-education.fr
 DESCRIPTION:mercredi 4 novembre ⋅ 14h00 à 16h00\nTitre : Séance n°5\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gir
  ardet
@@ -94,8 +64,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261118T140000
 DTEND;TZID=Europe/Paris:20261118T160000
-DTSTAMP:20261001T004726Z
-UID:c121d0e57e8d7aab52898f6464c90936@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:fd187fd6d5c75641210a117b5d24c56c@strada-education.fr
 DESCRIPTION:mercredi 18 novembre ⋅ 14h00 à 16h00\nTitre : Séance n°7
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
  irardet
@@ -105,8 +75,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261125T140000
 DTEND;TZID=Europe/Paris:20261125T160000
-DTSTAMP:20261001T004726Z
-UID:389faaf6285e82c3c19e04707acc4035@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:d873a2eaf4d37e99818fac09d59de939@strada-education.fr
 DESCRIPTION:mercredi 25 novembre ⋅ 14h00 à 16h00\nTitre : Séance n°8
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
  irardet
@@ -116,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261202T140000
 DTEND;TZID=Europe/Paris:20261202T160000
-DTSTAMP:20261001T004726Z
-UID:1b5b3d92e40cdfb949e3f30538628b26@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:ac091a100ce30fe99f5f8fd097580ba5@strada-education.fr
 DESCRIPTION:mercredi 2 décembre ⋅ 14h00 à 16h00\nTitre : Séance n°9
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
  irardet
@@ -127,8 +97,8 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nCours en présentiel : Droit civil
 DTSTART;TZID=Europe/Paris:20261209T140000
 DTEND;TZID=Europe/Paris:20261209T160000
-DTSTAMP:20261001T004726Z
-UID:fc178d86b58af2b5aa96e17f074ce903@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:41650fcf4c8c96c0143d6046c9f37812@strada-education.fr
 DESCRIPTION:mercredi 9 décembre ⋅ 14h00 à 16h00\nTitre : Séance n°10
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
  irardet
@@ -136,105 +106,105 @@ LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261006T160000
-DTEND;TZID=Europe/Paris:20261006T180000
-DTSTAMP:20261001T004726Z
-UID:2292f8b5e576bf6570e1bcdc28d3e389@strada-education.fr
-DESCRIPTION:mardi 6 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°2\nLieu
+DTSTART;TZID=Europe/Paris:20261008T160000
+DTEND;TZID=Europe/Paris:20261008T180000
+DTSTAMP:20261001T004728Z
+UID:3f1d479106c235326410c21679ab3b6d@strada-education.fr
+DESCRIPTION:jeudi 8 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°2\nLieu
   : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portais
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261013T160000
-DTEND;TZID=Europe/Paris:20261013T180000
-DTSTAMP:20261001T004726Z
-UID:4624119ce60cff5bba0711a1513b1cea@strada-education.fr
-DESCRIPTION:mardi 13 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°3\nLie
+DTSTART;TZID=Europe/Paris:20261015T160000
+DTEND;TZID=Europe/Paris:20261015T180000
+DTSTAMP:20261001T004728Z
+UID:fa4d635779fc73961402cd40ebda2355@strada-education.fr
+DESCRIPTION:jeudi 15 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°3\nLie
  u : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portais
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261020T160000
-DTEND;TZID=Europe/Paris:20261020T180000
-DTSTAMP:20261001T004726Z
-UID:3775821e078ecd3b8dfa1ae1b60c41aa@strada-education.fr
-DESCRIPTION:mardi 20 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°4\nLie
+DTSTART;TZID=Europe/Paris:20261022T160000
+DTEND;TZID=Europe/Paris:20261022T180000
+DTSTAMP:20261001T004728Z
+UID:b987ffe2578667ed04c43e56076a5195@strada-education.fr
+DESCRIPTION:jeudi 22 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°4\nLie
  u : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portais
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261103T160000
-DTEND;TZID=Europe/Paris:20261103T180000
-DTSTAMP:20261001T004726Z
-UID:d3f5bd19f4a32d530dab053d51006db7@strada-education.fr
-DESCRIPTION:mardi 3 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°5\nLie
+DTSTART;TZID=Europe/Paris:20261105T160000
+DTEND;TZID=Europe/Paris:20261105T180000
+DTSTAMP:20261001T004728Z
+UID:aa0f3ea52d0b37d5f24be6ba18a4c283@strada-education.fr
+DESCRIPTION:jeudi 5 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°5\nLie
  u : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portais
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261110T160000
-DTEND;TZID=Europe/Paris:20261110T180000
-DTSTAMP:20261001T004726Z
-UID:87a7d060c212ad7d1b6b673ab61c81cc@strada-education.fr
-DESCRIPTION:mardi 10 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°6\nLi
+DTSTART;TZID=Europe/Paris:20261112T160000
+DTEND;TZID=Europe/Paris:20261112T180000
+DTSTAMP:20261001T004728Z
+UID:13e3b715bc7414765772f93c8ad21681@strada-education.fr
+DESCRIPTION:jeudi 12 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°6\nLi
  eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portai
  s
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261117T160000
-DTEND;TZID=Europe/Paris:20261117T180000
-DTSTAMP:20261001T004726Z
-UID:34108a46d57070a165fe6062cad251b7@strada-education.fr
-DESCRIPTION:mardi 17 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°7\nLi
+DTSTART;TZID=Europe/Paris:20261119T160000
+DTEND;TZID=Europe/Paris:20261119T180000
+DTSTAMP:20261001T004728Z
+UID:306aee46c2a9b69a30018fe193e1544e@strada-education.fr
+DESCRIPTION:jeudi 19 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°7\nLi
  eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portai
  s
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261124T160000
-DTEND;TZID=Europe/Paris:20261124T180000
-DTSTAMP:20261001T004726Z
-UID:9dd1ed4ac4e1b4d10b39f03b9c4acb89@strada-education.fr
-DESCRIPTION:mardi 24 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°8\nLi
+DTSTART;TZID=Europe/Paris:20261126T160000
+DTEND;TZID=Europe/Paris:20261126T180000
+DTSTAMP:20261001T004728Z
+UID:01cd65828c36f5d4377e48c4b8e1eb84@strada-education.fr
+DESCRIPTION:jeudi 26 novembre ⋅ 16h00 à 18h00\nTitre : Séance n°8\nLi
  eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portai
  s
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261201T160000
-DTEND;TZID=Europe/Paris:20261201T180000
-DTSTAMP:20261001T004726Z
-UID:0a119ea5943361787459c047e6de73b4@strada-education.fr
-DESCRIPTION:mardi 1 décembre ⋅ 16h00 à 18h00\nTitre : Séance n°9\nLi
+DTSTART;TZID=Europe/Paris:20261203T160000
+DTEND;TZID=Europe/Paris:20261203T180000
+DTSTAMP:20261001T004728Z
+UID:79b666eca157ba9299bcad69efa34114@strada-education.fr
+DESCRIPTION:jeudi 3 décembre ⋅ 16h00 à 18h00\nTitre : Séance n°9\nLi
  eu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Portai
  s
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nCours en présentiel : Droit constitutionnel
-DTSTART;TZID=Europe/Paris:20261208T160000
-DTEND;TZID=Europe/Paris:20261208T180000
-DTSTAMP:20261001T004726Z
-UID:91c919b7d1a7f899385eb0f896d2745f@strada-education.fr
-DESCRIPTION:mardi 8 décembre ⋅ 16h00 à 18h00\nTitre : Séance n°10\nL
- ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Porta
- is
+DTSTART;TZID=Europe/Paris:20261210T160000
+DTEND;TZID=Europe/Paris:20261210T180000
+DTSTAMP:20261001T004728Z
+UID:08f12d7e395237963107ec86bbff7ef3@strada-education.fr
+DESCRIPTION:jeudi 10 décembre ⋅ 16h00 à 18h00\nTitre : Séance n°10\n
+ Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Grégory Port
+ ais
 LOCATION:5 rue notre dame des champs 75006 PARIS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261001T160000
 DTEND;TZID=Europe/Paris:20261001T180000
-DTSTAMP:20261001T004726Z
-UID:e7f2f04d47f134967af409375a71d378@strada-education.fr
+DTSTAMP:20261001T004728Z
+UID:29a241777482f9df42d66387bd4c3455@strada-education.fr
 DESCRIPTION:jeudi 1 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°1\nLieu
   : Live\nProfesseur : Grégory Portais
 LOCATION:Live (en ligne)
