@@ -8,19 +8,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit des obligations
-DTSTART;TZID=Europe/Paris:20260908T140000
-DTEND;TZID=Europe/Paris:20260908T160000
-DTSTAMP:20261008T011243Z
-UID:369e110e9793db544bb6e0905461cdfe@strada-education.fr
-DESCRIPTION:mardi 8 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°1\nLi
- eu : Live\nProfesseur : Annabelle Girardet
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14h00 - 16h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260909T140000
 DTEND;TZID=Europe/Paris:20260909T160000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:5f7de787bbabfdb5f0855dc4611f95bc@strada-education.fr
 DESCRIPTION:mercredi 9 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°2
  \nLieu : Live\nProfesseur : Annabelle Girardet
@@ -30,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260910T140000
 DTEND;TZID=Europe/Paris:20260910T160000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:c609f09789b7c0e743dd2bca3676f9b0@strada-education.fr
 DESCRIPTION:jeudi 10 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°3\nL
  ieu : Live\nProfesseur : Annabelle Girardet
@@ -40,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260911T111500
 DTEND;TZID=Europe/Paris:20260911T131500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:eefb3f2a40012e45b97649ac3afca227@strada-education.fr
 DESCRIPTION:vendredi 11 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°4
  \nLieu : Live\nProfesseur : Annabelle Girardet
@@ -48,19 +38,9 @@ LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit administratif
-DTSTART;TZID=Europe/Paris:20260908T111500
-DTEND;TZID=Europe/Paris:20260908T131500
-DTSTAMP:20261008T011243Z
-UID:feba9c5b8f1babc08cb25f04174c8089@strada-education.fr
-DESCRIPTION:mardi 8 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLi
- eu : Live\nProfesseur : François Rouillé
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:11h15 - 13h15\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260910T111500
 DTEND;TZID=Europe/Paris:20260910T131500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:d437fcd2dba645809285b8cd164ddede@strada-education.fr
 DESCRIPTION:jeudi 10 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°3\nL
  ieu : Live\nProfesseur : François Rouillé
@@ -70,27 +50,17 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260911T140000
 DTEND;TZID=Europe/Paris:20260911T160000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:08c3d9d98c5daefce9eb555da5526857@strada-education.fr
 DESCRIPTION:vendredi 11 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°4
  \nLieu : Live\nProfesseur : François Rouillé
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:9h00 - 11h00\nLive : Droit pénal
-DTSTART;TZID=Europe/Paris:20260908T090000
-DTEND;TZID=Europe/Paris:20260908T110000
-DTSTAMP:20261008T011243Z
-UID:58fa667f6eb9557ec2b86579b9c64b52@strada-education.fr
-DESCRIPTION:mardi 8 septembre ⋅ 9h00 à 11h00\nTitre : Séance n°2\nLie
- u : Live\nProfesseur : Jean-Dominique Voisin
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260909T111500
 DTEND;TZID=Europe/Paris:20260909T131500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:da5d991d588789c40ee52c92751872db@strada-education.fr
 DESCRIPTION:mercredi 9 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°3
  \nLieu : Live\nProfesseur : Jean-Dominique Voisin
@@ -100,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260911T090000
 DTEND;TZID=Europe/Paris:20260911T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:66e6d4b7d7d0803b99ea039945c6db99@strada-education.fr
 DESCRIPTION:vendredi 11 septembre ⋅ 9h00 à 11h00\nTitre : Séance n°4
  \nLieu : Live\nProfesseur : Jean-Dominique Voisin
@@ -110,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261022T174500
 DTEND;TZID=Europe/Paris:20261022T194500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:9bdd8e31dd227489b088e1972547be12@strada-education.fr
 DESCRIPTION:jeudi 22 octobre ⋅ 17h45 à 19h45\nTitre : Séance n°4\nLie
  u : Live\nProfesseur : Alexandre Savoye
@@ -120,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261105T174500
 DTEND;TZID=Europe/Paris:20261105T194500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:e5593dc006abdd7fc84b94ae0adf09a2@strada-education.fr
 DESCRIPTION:jeudi 5 novembre ⋅ 17h45 à 19h45\nTitre : Séance n°5\nLie
  u : Live\nProfesseur : Alexandre Savoye
@@ -130,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261112T174500
 DTEND;TZID=Europe/Paris:20261112T194500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:2c5bc09f2447d1a1359d623f2089cf8c@strada-education.fr
 DESCRIPTION:jeudi 12 novembre ⋅ 17h45 à 19h45\nTitre : Séance n°6\nLi
  eu : Live\nProfesseur : Alexandre Savoye
@@ -140,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261119T174500
 DTEND;TZID=Europe/Paris:20261119T194500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:55bf0627743a34bc6fc2a176873c60b8@strada-education.fr
 DESCRIPTION:jeudi 19 novembre ⋅ 17h45 à 19h45\nTitre : Séance n°7\nLi
  eu : Live\nProfesseur : Alexandre Savoye
@@ -150,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261126T174500
 DTEND;TZID=Europe/Paris:20261126T194500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:9fc433d8eeb8a4ae6d1923cbde72cd86@strada-education.fr
 DESCRIPTION:jeudi 26 novembre ⋅ 17h45 à 19h45\nTitre : Séance n°8\nLi
  eu : Live\nProfesseur : Alexandre Savoye
@@ -160,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261210T174500
 DTEND;TZID=Europe/Paris:20261210T194500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:dc2f47ba4e8c825ecb8103b4a0ce8238@strada-education.fr
 DESCRIPTION:jeudi 10 décembre ⋅ 17h45 à 19h45\nTitre : Séance n°10\n
  Lieu : Live\nProfesseur : Alexandre Savoye
@@ -170,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261003T100000
 DTEND;TZID=Europe/Paris:20261003T120000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:66a2d9f7f82134a3411b84e7114bed74@strada-education.fr
 DESCRIPTION:samedi 3 octobre ⋅ 10h00 à 12h00\nTitre : Séance n°1\nLie
  u : Live\nProfesseur : Alexandre Savoye
@@ -180,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:10h00 - 12h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261010T100000
 DTEND;TZID=Europe/Paris:20261010T120000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:bd5946143e692631cfd9bd7ee55684c1@strada-education.fr
 DESCRIPTION:samedi 10 octobre ⋅ 10h00 à 12h00\nTitre : Séance n°2\nLi
  eu : Live\nProfesseur : Alexandre Savoye
@@ -190,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:17h45 - 19h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261015T174500
 DTEND;TZID=Europe/Paris:20261015T194500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:59b31e2b6524ad5f1a6f3a031dd3b325@strada-education.fr
 DESCRIPTION:jeudi 15 octobre ⋅ 17h45 à 19h45\nTitre : Séance n°3\nLie
  u : Live\nProfesseur : Alexandre Savoye
@@ -200,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:15h45 - 17h45\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261204T154500
 DTEND;TZID=Europe/Paris:20261204T174500
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:df438c7eed8498548275342be422035b@strada-education.fr
 DESCRIPTION:vendredi 4 décembre ⋅ 15h45 à 17h45\nTitre : Séance n°9
  \nLieu : Live\nProfesseur : Alexandre Savoye
@@ -210,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h30\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260930T093000
 DTEND;TZID=Europe/Paris:20260930T113000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:af137bdeb3e9ec741cbc4d388f8940ad@strada-education.fr
 DESCRIPTION:mercredi 30 septembre ⋅ 9h30 à 11h30\nTitre : Séance n°1
  \nLieu : Live\nProfesseur : Grégory Portais
@@ -220,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261007T090000
 DTEND;TZID=Europe/Paris:20261007T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:59f4fea0793d8f4dfcc1798d4f44a1fa@strada-education.fr
 DESCRIPTION:mercredi 7 octobre ⋅ 9h00 à 11h00\nTitre : Séance n°2\nLi
  eu : Live\nProfesseur : Grégory Portais
@@ -230,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261014T090000
 DTEND;TZID=Europe/Paris:20261014T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:851e35f15b04f12e714391f62bd0d8da@strada-education.fr
 DESCRIPTION:mercredi 14 octobre ⋅ 9h00 à 11h00\nTitre : Séance n°3\nL
  ieu : Live\nProfesseur : Grégory Portais
@@ -240,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261021T090000
 DTEND;TZID=Europe/Paris:20261021T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:62903565f088c9fff2ebd4afa0c458dc@strada-education.fr
 DESCRIPTION:mercredi 21 octobre ⋅ 9h00 à 11h00\nTitre : Séance n°4\nL
  ieu : Live\nProfesseur : Grégory Portais
@@ -250,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261104T090000
 DTEND;TZID=Europe/Paris:20261104T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:4c9183df75c450d51cadcb8909705391@strada-education.fr
 DESCRIPTION:mercredi 4 novembre ⋅ 9h00 à 11h00\nTitre : Séance n°5\nL
  ieu : Live\nProfesseur : Grégory Portais
@@ -260,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261118T090000
 DTEND;TZID=Europe/Paris:20261118T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:4770270e8ba7bb966876f963ad363140@strada-education.fr
 DESCRIPTION:mercredi 18 novembre ⋅ 9h00 à 11h00\nTitre : Séance n°7\n
  Lieu : Live\nProfesseur : Grégory Portais
@@ -270,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261125T090000
 DTEND;TZID=Europe/Paris:20261125T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:aef516b9db138e378cbf98af9ea81054@strada-education.fr
 DESCRIPTION:mercredi 25 novembre ⋅ 9h00 à 11h00\nTitre : Séance n°8\n
  Lieu : Live\nProfesseur : Grégory Portais
@@ -280,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261202T090000
 DTEND;TZID=Europe/Paris:20261202T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:f02cd754ce8a0b152f0492c1de9ef3c9@strada-education.fr
 DESCRIPTION:mercredi 2 décembre ⋅ 9h00 à 11h00\nTitre : Séance n°9\n
  Lieu : Live\nProfesseur : Grégory Portais
@@ -290,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T110000
-DTSTAMP:20261008T011243Z
+DTSTAMP:20261009T012558Z
 UID:d5dc3bc9d3f7ba1d2c3ee3e135efbcd7@strada-education.fr
 DESCRIPTION:mercredi 9 décembre ⋅ 9h00 à 11h00\nTitre : Séance n°10
  \nLieu : Live\nProfesseur : Grégory Portais
