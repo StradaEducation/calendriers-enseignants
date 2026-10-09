@@ -8,19 +8,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit des obligations
-DTSTART;TZID=Europe/Paris:20260908T140000
-DTEND;TZID=Europe/Paris:20260908T160000
-DTSTAMP:20261008T011246Z
-UID:193fea6702f4f2435e6ba2c48bb33455@strada-education.fr
-DESCRIPTION:mardi 8 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°1\nLi
- eu : Live\nProfesseur : Annabelle Girardet
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14h00 - 16h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260909T140000
 DTEND;TZID=Europe/Paris:20260909T160000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:29e1b057e85636c87da3f6eaecdb8dfe@strada-education.fr
 DESCRIPTION:mercredi 9 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°2
  \nLieu : Live\nProfesseur : Annabelle Girardet
@@ -30,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260910T140000
 DTEND;TZID=Europe/Paris:20260910T160000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:e6fa9acace263040a47d9524efca553b@strada-education.fr
 DESCRIPTION:jeudi 10 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°3\nL
  ieu : Live\nProfesseur : Annabelle Girardet
@@ -40,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20260911T111500
 DTEND;TZID=Europe/Paris:20260911T131500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:28aa1619df72dfc20477b0e17b2524f8@strada-education.fr
 DESCRIPTION:vendredi 11 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°4
  \nLieu : Live\nProfesseur : Annabelle Girardet
@@ -48,19 +38,9 @@ LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit administratif
-DTSTART;TZID=Europe/Paris:20260908T111500
-DTEND;TZID=Europe/Paris:20260908T131500
-DTSTAMP:20261008T011246Z
-UID:b7aa1e915ba2d3688be6b3c775766daf@strada-education.fr
-DESCRIPTION:mardi 8 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLi
- eu : Live\nProfesseur : François Rouillé
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:11h15 - 13h15\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260910T111500
 DTEND;TZID=Europe/Paris:20260910T131500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:3e38e8dffe7474b503531e2e41341e0f@strada-education.fr
 DESCRIPTION:jeudi 10 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°3\nL
  ieu : Live\nProfesseur : François Rouillé
@@ -70,27 +50,17 @@ BEGIN:VEVENT
 SUMMARY:14h00 - 16h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20260911T140000
 DTEND;TZID=Europe/Paris:20260911T160000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:9bfd059c2572739e023a52180944c975@strada-education.fr
 DESCRIPTION:vendredi 11 septembre ⋅ 14h00 à 16h00\nTitre : Séance n°4
  \nLieu : Live\nProfesseur : François Rouillé
 LOCATION:Live (en ligne)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:9h00 - 11h00\nLive : Droit pénal
-DTSTART;TZID=Europe/Paris:20260908T090000
-DTEND;TZID=Europe/Paris:20260908T110000
-DTSTAMP:20261008T011246Z
-UID:95540912df7e58d8390cc7223459edbe@strada-education.fr
-DESCRIPTION:mardi 8 septembre ⋅ 9h00 à 11h00\nTitre : Séance n°2\nLie
- u : Live\nProfesseur : Jean-Dominique Voisin
-LOCATION:Live (en ligne)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260909T111500
 DTEND;TZID=Europe/Paris:20260909T131500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:5045d0460d458bf7c0424374868ed92e@strada-education.fr
 DESCRIPTION:mercredi 9 septembre ⋅ 11h15 à 13h15\nTitre : Séance n°3
  \nLieu : Live\nProfesseur : Jean-Dominique Voisin
@@ -100,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:9h00 - 11h00\nLive : Droit pénal
 DTSTART;TZID=Europe/Paris:20260911T090000
 DTEND;TZID=Europe/Paris:20260911T110000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:f72352b57c615626f970d386fcd3e522@strada-education.fr
 DESCRIPTION:vendredi 11 septembre ⋅ 9h00 à 11h00\nTitre : Séance n°4
  \nLieu : Live\nProfesseur : Jean-Dominique Voisin
@@ -110,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:16h30 - 18h30\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261002T163000
 DTEND;TZID=Europe/Paris:20261002T183000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:ea93eab36c9ad257eee7524e7856da1d@strada-education.fr
 DESCRIPTION:vendredi 2 octobre ⋅ 16h30 à 18h30\nTitre : Séance n°1\nL
  ieu : Live\nProfesseur : Annabelle Girardet
@@ -120,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261005T111500
 DTEND;TZID=Europe/Paris:20261005T131500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:35cc1f1b2281e32a42d0b5509a2ea07a@strada-education.fr
 DESCRIPTION:lundi 5 octobre ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLieu
   : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Girarde
@@ -131,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261016T183000
 DTEND;TZID=Europe/Paris:20261016T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:6f2400cc5a2aa1188d300d2c58be5b8e@strada-education.fr
 DESCRIPTION:vendredi 16 octobre ⋅ 18h30 à 20h30\nTitre : Séance n°3\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gir
@@ -142,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261023T183000
 DTEND;TZID=Europe/Paris:20261023T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:6d12e2400736b116333f9172ef09086f@strada-education.fr
 DESCRIPTION:vendredi 23 octobre ⋅ 18h30 à 20h30\nTitre : Séance n°4\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gir
@@ -153,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261106T183000
 DTEND;TZID=Europe/Paris:20261106T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:d51f88cb16b078141d0db0718d6c66e6@strada-education.fr
 DESCRIPTION:vendredi 6 novembre ⋅ 18h30 à 20h30\nTitre : Séance n°5\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle Gir
@@ -164,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261113T183000
 DTEND;TZID=Europe/Paris:20261113T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:27e67520d436026ed89ae122e0621023@strada-education.fr
 DESCRIPTION:vendredi 13 novembre ⋅ 18h30 à 20h30\nTitre : Séance n°6
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
@@ -175,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261120T183000
 DTEND;TZID=Europe/Paris:20261120T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:23ecae1a918d85da3a13cdb67c1a587c@strada-education.fr
 DESCRIPTION:vendredi 20 novembre ⋅ 18h30 à 20h30\nTitre : Séance n°7
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
@@ -186,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261127T183000
 DTEND;TZID=Europe/Paris:20261127T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:ee8521bc2a20ba56a773c271e69a8c38@strada-education.fr
 DESCRIPTION:vendredi 27 novembre ⋅ 18h30 à 20h30\nTitre : Séance n°8
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
@@ -197,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261204T183000
 DTEND;TZID=Europe/Paris:20261204T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012603Z
 UID:61df81a5cff4a2639c0dc9dda7260b56@strada-education.fr
 DESCRIPTION:vendredi 4 décembre ⋅ 18h30 à 20h30\nTitre : Séance n°9
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle G
@@ -208,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h30\nCours en présentiel : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261211T183000
 DTEND;TZID=Europe/Paris:20261211T203000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:c806a201f19be03841d0f1b9aac84dee@strada-education.fr
 DESCRIPTION:vendredi 11 décembre ⋅ 18h30 à 20h30\nTitre : Séance n°1
  0\nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : Annabelle 
@@ -219,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:11h15 - 13h15\nLive : Droit des obligations
 DTSTART;TZID=Europe/Paris:20261005T111500
 DTEND;TZID=Europe/Paris:20261005T131500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:c333a9e988a982550917a65a0101e72a@strada-education.fr
 DESCRIPTION:lundi 5 octobre ⋅ 11h15 à 13h15\nTitre : Séance n°2\nLieu
   : Live\nProfesseur : Annabelle Girardet
@@ -229,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:13h30 - 15h30\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261001T133000
 DTEND;TZID=Europe/Paris:20261001T153000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:d5b15aed1f452e212c5e9572938d47e4@strada-education.fr
 DESCRIPTION:jeudi 1 octobre ⋅ 13h30 à 15h30\nTitre : Séance n°1\nLieu
   : Live\nProfesseur : François Rouillé
@@ -239,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261009T161500
 DTEND;TZID=Europe/Paris:20261009T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:bd2b525abae9e6da64e6fecbeeaadaeb@strada-education.fr
 DESCRIPTION:vendredi 9 octobre ⋅ 16h15 à 18h15\nTitre : Séance n°2\nL
  ieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Roui
@@ -250,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261016T161500
 DTEND;TZID=Europe/Paris:20261016T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:928db0231db4c767ad485eea301c20f9@strada-education.fr
 DESCRIPTION:vendredi 16 octobre ⋅ 16h15 à 18h15\nTitre : Séance n°3\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Rou
@@ -261,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261106T161500
 DTEND;TZID=Europe/Paris:20261106T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:ae978515bbc923e7adc75fb6e5d00264@strada-education.fr
 DESCRIPTION:vendredi 6 novembre ⋅ 16h15 à 18h15\nTitre : Séance n°5\n
  Lieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François Rou
@@ -272,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261113T161500
 DTEND;TZID=Europe/Paris:20261113T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:ce3d84cb80965b74f5435db59bd309bb@strada-education.fr
 DESCRIPTION:vendredi 13 novembre ⋅ 16h15 à 18h15\nTitre : Séance n°6
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François R
@@ -283,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261120T161500
 DTEND;TZID=Europe/Paris:20261120T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:d009d00b3c7599fa30ac1472d9ef06c5@strada-education.fr
 DESCRIPTION:vendredi 20 novembre ⋅ 16h15 à 18h15\nTitre : Séance n°7
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François R
@@ -294,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261127T161500
 DTEND;TZID=Europe/Paris:20261127T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:b25b16ce7093e29cd934cf799f6305b2@strada-education.fr
 DESCRIPTION:vendredi 27 novembre ⋅ 16h15 à 18h15\nTitre : Séance n°8
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François R
@@ -305,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261204T161500
 DTEND;TZID=Europe/Paris:20261204T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:b653b1ddbe52ca56198382b40d4c2f61@strada-education.fr
 DESCRIPTION:vendredi 4 décembre ⋅ 16h15 à 18h15\nTitre : Séance n°9
  \nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François R
@@ -316,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:16h15 - 18h15\nCours en présentiel : Droit administratif
 DTSTART;TZID=Europe/Paris:20261211T161500
 DTEND;TZID=Europe/Paris:20261211T181500
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:238109967ecb8b296637a51acd0ad36e@strada-education.fr
 DESCRIPTION:vendredi 11 décembre ⋅ 16h15 à 18h15\nTitre : Séance n°1
  0\nLieu : 5 rue notre dame des champs 75006 PARIS\nProfesseur : François 
@@ -327,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:16h00 - 18h00\nLive : Droit administratif
 DTSTART;TZID=Europe/Paris:20261030T160000
 DTEND;TZID=Europe/Paris:20261030T180000
-DTSTAMP:20261008T011246Z
+DTSTAMP:20261009T012604Z
 UID:b6ec37595a774579270196f35648d136@strada-education.fr
 DESCRIPTION:vendredi 30 octobre ⋅ 16h00 à 18h00\nTitre : Séance n°4\n
  Lieu : Live\nProfesseur : François Rouillé
