@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Gheorghe ZAMISNÎI
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:18h30 - 19h30\nLive : Séance inaugurale
+DTSTART;TZID=Europe/Paris:20261118T183000
+DTEND;TZID=Europe/Paris:20261118T193000
+DTSTAMP:20261110T034458Z
+UID:63e5458bb7eec2e8904709667fa94c4c@strada-education.fr
+DESCRIPTION:mercredi 18 novembre ⋅ 18h30 à 19h30\nTitre : Conférence i
+ naugurale\nLieu : Live\nProfesseur : Capucine Toset
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 20h30\nLive : Droit civil
+DTSTART;TZID=Europe/Paris:20261119T183000
+DTEND;TZID=Europe/Paris:20261119T203000
+DTSTAMP:20261110T034458Z
+UID:e85ef88c32fe94cd3b1d0ba7e365f75f@strada-education.fr
+DESCRIPTION:jeudi 19 novembre ⋅ 18h30 à 20h30\nTitre : Méthodologie en
+  rédaction d'actes - Partie 1\nLieu : Live\nProfesseur : Géraldine Labor
+ ie
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 19h30\nLive : Droit civil
+DTSTART;TZID=Europe/Paris:20261120T183000
+DTEND;TZID=Europe/Paris:20261120T193000
+DTSTAMP:20261110T034458Z
+UID:c5febb7f05646ec4edb48837299812b2@strada-education.fr
+DESCRIPTION:vendredi 20 novembre ⋅ 18h30 à 19h30\nTitre : Méthodologie
+  en rédaction d'actes - Partie 2\nLieu : Live\nProfesseur : Géraldine La
+ borie
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 19h00\nLive : Procédure et organisation judiciaire franç
+ aise
+DTSTART;TZID=Europe/Paris:20261124T183000
+DTEND;TZID=Europe/Paris:20261124T190000
+DTSTAMP:20261110T034458Z
+UID:a39b182b6955f982b89b7ba8c67d2e7d@strada-education.fr
+DESCRIPTION:mardi 24 novembre ⋅ 18h30 à 19h00\nTitre : Live Q&A\nLieu :
+  Live\nProfesseur : Jean-Dominique Voisin
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h00 - 18h30\nLive : Procédure et organisation judiciaire franç
+ aise
+DTSTART;TZID=Europe/Paris:20261211T180000
+DTEND;TZID=Europe/Paris:20261211T183000
+DTSTAMP:20261110T034458Z
+UID:a31f15da451724ab2bb7af80a64e1833@strada-education.fr
+DESCRIPTION:vendredi 11 décembre ⋅ 18h00 à 18h30\nTitre : Live Q&A\nLi
+ eu : Live\nProfesseur : Jean-Dominique Voisin
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
