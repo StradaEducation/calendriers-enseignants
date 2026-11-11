@@ -7,10 +7,30 @@ X-WR-CALNAME:Planning - Messeret Vannet
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:19h00 - 20h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261019T190000
+DTEND;TZID=Europe/Paris:20261019T203000
+DTSTAMP:20261111T013345Z
+UID:ac4a80e1effca60ba61cc1809a972185@strada-education.fr
+DESCRIPTION:lundi 19 octobre ⋅ 19h00 à 20h30\nTitre : Techniques de mé
+ morisation\nLieu : Live\nProfesseur : Florian Manicardi
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18h30 - 19h30\nLive : Boite à outils
+DTSTART;TZID=Europe/Paris:20261102T183000
+DTEND;TZID=Europe/Paris:20261102T193000
+DTSTAMP:20261111T013345Z
+UID:f8243d15262cd2ce4e5f876ac7eacd57@strada-education.fr
+DESCRIPTION:lundi 2 novembre ⋅ 18h30 à 19h30\nTitre : Atelier gestion d
+ u stress\nLieu : Live\nProfesseur : Marion Wasseur
+LOCATION:Live (en ligne)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:9h30 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261017T093000
 DTEND;TZID=Europe/Paris:20261017T110000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:25f7afeac6bcfc99290d215316550169@strada-education.fr
 DESCRIPTION:samedi 17 octobre ⋅ 9h30 à 11h00\nTitre : Séance n°5\nLie
  u : Live\nProfesseur : Rouzbeh Ziaei
@@ -20,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261024T093000
 DTEND;TZID=Europe/Paris:20261024T110000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:8da09e3090f399693dad3c84eb985fe5@strada-education.fr
 DESCRIPTION:samedi 24 octobre ⋅ 9h30 à 11h00\nTitre : Séance n°6\nLie
  u : Live\nProfesseur : Rouzbeh Ziaei
@@ -30,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261031T093000
 DTEND;TZID=Europe/Paris:20261031T110000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:468381e5b2878364737073d44def9057@strada-education.fr
 DESCRIPTION:samedi 31 octobre ⋅ 9h30 à 11h00\nTitre : Séance n°7\nLie
  u : Live\nProfesseur : Rouzbeh Ziaei
@@ -40,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261107T093000
 DTEND;TZID=Europe/Paris:20261107T110000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:85356c93040c6ada9a2b21381a7482bb@strada-education.fr
 DESCRIPTION:samedi 7 novembre ⋅ 9h30 à 11h00\nTitre : Séance n°8\nLie
  u : Live\nProfesseur : Rouzbeh Ziaei
@@ -50,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261114T093000
 DTEND;TZID=Europe/Paris:20261114T110000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:cb16ef62bd13ac934934fa2f229334f4@strada-education.fr
 DESCRIPTION:samedi 14 novembre ⋅ 9h30 à 11h00\nTitre : Séance n°9\nLi
  eu : Live\nProfesseur : Rouzbeh Ziaei
@@ -60,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261121T093000
 DTEND;TZID=Europe/Paris:20261121T110000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:e2debd301d7d2279f5482c88c057a8fd@strada-education.fr
 DESCRIPTION:samedi 21 novembre ⋅ 9h30 à 11h00\nTitre : Séance n°10\nL
  ieu : Live\nProfesseur : Rouzbeh Ziaei
@@ -70,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:9h30 - 11h00\nLive : Droit civil
 DTSTART;TZID=Europe/Paris:20261128T093000
 DTEND;TZID=Europe/Paris:20261128T110000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:3948f0023f9a6b93ab89698b81e12547@strada-education.fr
 DESCRIPTION:samedi 28 novembre ⋅ 9h30 à 11h00\nTitre : Séance n°11\nL
  ieu : Live\nProfesseur : Rouzbeh Ziaei
@@ -80,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:19h30 - 21h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261015T193000
 DTEND;TZID=Europe/Paris:20261015T210000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:d165c2776e67393ae8c49773940b9147@strada-education.fr
 DESCRIPTION:jeudi 15 octobre ⋅ 19h30 à 21h00\nTitre : Séance n°5\nLie
  u : Live\nProfesseur : Grégory Portais
@@ -90,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:19h30 - 21h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261022T193000
 DTEND;TZID=Europe/Paris:20261022T210000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:6c31af5afef8151b392e9bc8f479f0a6@strada-education.fr
 DESCRIPTION:jeudi 22 octobre ⋅ 19h30 à 21h00\nTitre : Séance n°6\nLie
  u : Live\nProfesseur : Grégory Portais
@@ -100,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:19h30 - 21h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261029T193000
 DTEND;TZID=Europe/Paris:20261029T210000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:6cf2f3cda6b230d3b7e513fc73139f90@strada-education.fr
 DESCRIPTION:jeudi 29 octobre ⋅ 19h30 à 21h00\nTitre : Séance n°7\nLie
  u : Live\nProfesseur : Grégory Portais
@@ -110,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:18h30 - 20h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261105T183000
 DTEND;TZID=Europe/Paris:20261105T200000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:231e6d168df501f450cc4a05a553fd50@strada-education.fr
 DESCRIPTION:jeudi 5 novembre ⋅ 18h30 à 20h00\nTitre : Séance n°8\nLie
  u : Live\nProfesseur : Grégory Portais
@@ -120,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:19h30 - 21h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261112T193000
 DTEND;TZID=Europe/Paris:20261112T210000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:fc22df423d076c3ede571cda9c296495@strada-education.fr
 DESCRIPTION:jeudi 12 novembre ⋅ 19h30 à 21h00\nTitre : Séance n°9\nLi
  eu : Live\nProfesseur : Grégory Portais
@@ -130,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:19h30 - 21h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261119T193000
 DTEND;TZID=Europe/Paris:20261119T210000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:bc8339455e67d8679594bc19f216416d@strada-education.fr
 DESCRIPTION:jeudi 19 novembre ⋅ 19h30 à 21h00\nTitre : Séance n°10\nL
  ieu : Live\nProfesseur : Grégory Portais
@@ -140,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:19h30 - 21h00\nLive : Droit constitutionnel
 DTSTART;TZID=Europe/Paris:20261126T193000
 DTEND;TZID=Europe/Paris:20261126T210000
-DTSTAMP:20261110T034458Z
+DTSTAMP:20261111T013345Z
 UID:2071878f8a2609d1addb538cf638220d@strada-education.fr
 DESCRIPTION:jeudi 26 novembre ⋅ 19h30 à 21h00\nTitre : Séance n°11\nL
  ieu : Live\nProfesseur : Grégory Portais
