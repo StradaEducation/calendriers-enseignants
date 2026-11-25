@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - Enora Guignard
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:18h00 - 19h00\nLive : Mot de la prépa
+DTSTART;TZID=Europe/Paris:20261126T180000
+DTEND;TZID=Europe/Paris:20261126T190000
+DTSTAMP:20261125T042910Z
+UID:619bba0cf97b78dd233611ef034547a8@strada-education.fr
+DESCRIPTION:jeudi 26 novembre ⋅ 18h00 à 19h00\nTitre : Mot de la prépa
+  - Phase anticipée\nLieu : Live\nProfesseur : Capucine Toset
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
