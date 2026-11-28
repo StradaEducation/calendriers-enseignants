@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strada Education//Planning étudiant//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning - PABLO Vidal
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:17h00 - 18h00\nLive : Mot de la prépa
+DTSTART;TZID=Europe/Paris:20261201T170000
+DTEND;TZID=Europe/Paris:20261201T180000
+DTSTAMP:20261128T033630Z
+UID:c2a3b1646226f597d63d4898ac986a37@strada-education.fr
+DESCRIPTION:mardi 1 décembre ⋅ 17h00 à 18h00\nTitre : Mot de la prépa
+  - Phase anticipée\nLieu : Live\nProfesseur : Capucine Toset
+LOCATION:Live (en ligne)
+END:VEVENT
+END:VCALENDAR
